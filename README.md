@@ -15,3 +15,8 @@
 * We will review your changes and merge them into the main repository which will then be shipped with the game
   * Keep an eye on your pull request in case we require any changes to be made
 * Fist Bump :squirrel:
+
+
+## Important Notes
+* Do not add or delete any new rows or columns.
+* Do not change the order of any columns or rows.
