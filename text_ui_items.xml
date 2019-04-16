@@ -16,8 +16,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>9732</WindowHeight>
-  <WindowWidth>23040</WindowWidth>
+  <WindowHeight>16095</WindowHeight>
+  <WindowWidth>21765</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
@@ -91,11 +91,10 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3364" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3356" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
-   <Column ss:AutoFitWidth="0" ss:Width="14.4"/>
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.59999999999997"
-    ss:Span="2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
@@ -2612,11 +2611,6 @@
     <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">camping_water_jugDepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">camping_water_jugDescription</Data></Cell>
     <Cell><Data ss:Type="String">A large jug used for carrying water</Data></Cell>
     <Cell><Data ss:Type="String">A large jug used for carrying water</Data></Cell>
@@ -3355,11 +3349,6 @@
     <Cell ss:Index="2"><Data ss:Type="String">CivCanteen01</Data></Cell>
     <Cell><Data ss:Type="String">Canteen</Data></Cell>
     <Cell><Data ss:Type="String">Canteen</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">CivCanteen01DepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CivCanteen01DepositFluid</Data></Cell>
@@ -7112,11 +7101,6 @@
     <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">JerryCanDieselDepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">JerryCanDieselDescription</Data></Cell>
     <Cell><Data ss:Type="String">A jerry can used for storing fluids</Data></Cell>
     <Cell><Data ss:Type="String">A jerry can used for storing fluids</Data></Cell>
@@ -7692,11 +7676,6 @@
     <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">MilitaryCanteenMetalDepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MilitaryCanteenMetalDescription</Data></Cell>
     <Cell><Data ss:Type="String">A refillable metal military canteen.</Data></Cell>
     <Cell><Data ss:Type="String">A refillable metal military canteen.</Data></Cell>
@@ -7715,11 +7694,6 @@
     <Cell ss:Index="2"><Data ss:Type="String">MilitaryCanteenPlastic</Data></Cell>
     <Cell><Data ss:Type="String">Plastic Military Canteen</Data></Cell>
     <Cell><Data ss:Type="String">Plastic Military Canteen</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">MilitaryCanteenPlasticDepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MilitaryCanteenPlasticDepositFluid</Data></Cell>
@@ -15397,11 +15371,6 @@
     <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">WaterBottleDepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WaterBottleDescription</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
@@ -15462,11 +15431,6 @@
     <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedDeerDepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedDeerDescription</Data></Cell>
     <Cell><Data ss:Type="String">A refillable crafted hide pouch to store water.</Data></Cell>
     <Cell><Data ss:Type="String">A refillable crafted hide pouch to store water.</Data></Cell>
@@ -15485,11 +15449,6 @@
     <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolf</Data></Cell>
     <Cell><Data ss:Type="String">Wolf Waterskin</Data></Cell>
     <Cell><Data ss:Type="String">Wolf Waterskin</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolfDepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolfDepositFluid</Data></Cell>
@@ -16931,12 +16890,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>234</TopRowVisible>
+   <TopRowVisible>3047</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>248</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>3080</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
