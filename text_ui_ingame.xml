@@ -16,8 +16,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>13215</WindowHeight>
-  <WindowWidth>24150</WindowWidth>
+  <WindowHeight>13275</WindowHeight>
+  <WindowWidth>28770</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
@@ -89,12 +89,9 @@
    <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
    <NumberFormat ss:Format="@"/>
   </Style>
-  <Style ss:ID="s67">
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11" ss:Color="#DCDDDE"/>
-  </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="618" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="619" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
    <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75"/>
@@ -2086,9 +2083,9 @@
     <Cell><Data ss:Type="String">Place</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">plotsign_pack_up</Data></Cell>
-    <Cell><Data ss:Type="String">Pack up Plot Sign</Data></Cell>
-    <Cell><Data ss:Type="String">Pack up Plot Sign</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">pack_up_plotsign</Data></Cell>
+    <Cell><Data ss:Type="String">Pack Up Plot Sign</Data></Cell>
+    <Cell><Data ss:Type="String">Pack Up Plot Sign</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_open_inventory</Data></Cell>
@@ -2096,12 +2093,12 @@
     <Cell><Data ss:Type="String">Open Inventory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">item_pack_up</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">pack_up_item</Data></Cell>
     <Cell><Data ss:Type="String">Pack Up</Data></Cell>
     <Cell><Data ss:Type="String">Pack Up</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">item_dismantle</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">dismantle_item</Data></Cell>
     <Cell><Data ss:Type="String">Dismantle</Data></Cell>
     <Cell><Data ss:Type="String">Dismantle</Data></Cell>
    </Row>
@@ -2126,7 +2123,7 @@
     <Cell><Data ss:Type="String">Set Trap</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">trap_pack_up_trap</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">pack_up_trap</Data></Cell>
     <Cell><Data ss:Type="String">Pack Up Trap</Data></Cell>
     <Cell><Data ss:Type="String">Pack Up Trap</Data></Cell>
    </Row>
@@ -3151,44 +3148,49 @@
     <Cell><Data ss:Type="String">Environmental Stats</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">open_close_door</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">open_close_door</Data></Cell>
     <Cell><Data ss:Type="String">Open/Close Door</Data></Cell>
     <Cell><Data ss:Type="String">Open/Close Door</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">call_elevator</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">call_elevator</Data></Cell>
     <Cell><Data ss:Type="String">Call Elevator</Data></Cell>
     <Cell><Data ss:Type="String">Call Elevator</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">use_elevator</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">use_elevator</Data></Cell>
     <Cell><Data ss:Type="String">Use Elevator</Data></Cell>
     <Cell><Data ss:Type="String">Use Elevator</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">enable_disable_lockdown</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">enable_disable_lockdown</Data></Cell>
     <Cell><Data ss:Type="String">Enable/Disable Lockdown</Data></Cell>
     <Cell><Data ss:Type="String">Enable/Disable Lockdown</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">reboot_power_lvl_03</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">reboot_power_lvl_03</Data></Cell>
     <Cell><Data ss:Type="String">Reboot Power Lvl 03</Data></Cell>
     <Cell><Data ss:Type="String">Reboot Power Lvl 03</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">9th_floor</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">9th_floor</Data></Cell>
     <Cell><Data ss:Type="String">9th Floor</Data></Cell>
     <Cell><Data ss:Type="String">9th Floor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">1st_floor</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">1st_floor</Data></Cell>
     <Cell><Data ss:Type="String">1st Floor</Data></Cell>
     <Cell><Data ss:Type="String">1st Floor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">use_shower</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">use_shower</Data></Cell>
     <Cell><Data ss:Type="String">Use Shower</Data></Cell>
     <Cell><Data ss:Type="String">Use Shower</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">furnace_extinguish_furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Extinguish Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Extinguish Furnace</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -3205,12 +3207,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>589</TopRowVisible>
+   <TopRowVisible>391</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>621</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>398</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

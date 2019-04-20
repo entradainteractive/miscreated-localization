@@ -1,0 +1,1126 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:o="urn:schemas-microsoft-com:office:office"
+          xmlns:x="urn:schemas-microsoft-com:office:excel"
+          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:html="http://www.w3.org/TR/REC-html40">
+    <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+        <Author>csprance</Author>
+        <LastAuthor>tevans</LastAuthor>
+        <Created>2019-03-13T12:39:08Z</Created>
+        <LastSaved>2019-03-13T12:39:08Z</LastSaved>
+        <Version>16.00</Version>
+    </DocumentProperties>
+    <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+        <AllowPNG/>
+    </OfficeDocumentSettings>
+    <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+        <WindowHeight>15510</WindowHeight>
+        <WindowWidth>29805</WindowWidth>
+        <WindowTopX>32767</WindowTopX>
+        <WindowTopY>32767</WindowTopY>
+        <RefModeR1C1/>
+        <ProtectStructure>False</ProtectStructure>
+        <ProtectWindows>False</ProtectWindows>
+    </ExcelWorkbook>
+    <Styles>
+        <Style ss:ID="Default" ss:Name="Normal">
+            <Alignment ss:Vertical="Bottom"/>
+            <Borders/>
+            <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+            <Interior/>
+            <NumberFormat/>
+            <Protection/>
+        </Style>
+        <Style ss:ID="s62">
+            <Borders>
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+            </Borders>
+            <Interior/>
+            <NumberFormat ss:Format="@"/>
+        </Style>
+        <Style ss:ID="s63">
+            <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+            <Borders>
+                <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+            </Borders>
+            <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+            <Interior ss:Color="#FFC000" ss:Pattern="Solid"/>
+            <NumberFormat ss:Format="@"/>
+        </Style>
+        <Style ss:ID="s64">
+            <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+            <Borders>
+                <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+            </Borders>
+            <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+            <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+            <NumberFormat ss:Format="@"/>
+        </Style>
+        <Style ss:ID="s65">
+            <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+            <Borders>
+                <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+            </Borders>
+            <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+            <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+            <NumberFormat ss:Format="@"/>
+        </Style>
+        <Style ss:ID="s66">
+            <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+            <Borders>
+                <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+            </Borders>
+            <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+            <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+            <NumberFormat ss:Format="@"/>
+        </Style>
+    </Styles>
+    <Worksheet ss:Name="Sheet1">
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="200" x:FullColumns="1"
+               x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+            <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
+            <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
+            <Row ss:AutoFitHeight="0" ss:Height="30">
+                <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
+                <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+                <Cell ss:StyleID="s65"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+            </Row>
+            <Row ss:AutoFitHeight="0" ss:Height="48">
+                <Cell ss:Index="2" ss:StyleID="s66"/>
+                <Cell ss:StyleID="s66"><Data ss:Type="String">This contains original text meant for subtitles. This text exists for a multi-lingual reference and is not used in-game. Use ## for a new line.</Data></Cell>
+                <Cell ss:StyleID="s66"><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
+            </Row>
+            <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint1</Data></Cell>
+    <Cell><Data ss:Type="String">Nobody knows what started the Final War. It was over too fast, fought with the last of the belligerent nations nuclear stockpiles, and the ones who pulled the triggers didn't survive.</Data></Cell>
+    <Cell><Data ss:Type="String">Ninguém sabe o que começou a guerra final. Foi muito rápido, lutou com o último dos estoques nucleares das nações beligerantes, e aqueles que puxaram os gatilhos não sobreviveram.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint2</Data></Cell>
+    <Cell><Data ss:Type="String">Half a century of wars using nukes, bio-weapons, nano-weapons, and even kinetic-kill weapons, gave us the empty world - a population of 100 million and falling fast.</Data></Cell>
+    <Cell><Data ss:Type="String">Meio século de guerras usando armas nucleares, armas biológicas, nano-armas e até armas com matança cinética nos deram o mundo vazio - uma população de 100 milhões e caindo rapidamente.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint3</Data></Cell>
+    <Cell><Data ss:Type="String">It was the Final War because after that there was really nobody left who wanted to fight; we were all too busy surviving.</Data></Cell>
+    <Cell><Data ss:Type="String">Foi a Guerra Final porque depois disso não sobrou ninguém que quisesse lutar; estávamos todos ocupados demais sobrevivendo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint4</Data></Cell>
+    <Cell><Data ss:Type="String">Who's to blame? Depends on who you are, but you could just as easily blame the weapons industry; by the end, virtually every arms dealer in the world was owned by Amalgamated Corporation.</Data></Cell>
+    <Cell><Data ss:Type="String">Quem é o culpado? Depende de quem você é, mas pode facilmente culpar a indústria de armas; No final, praticamente todos os revendedores de armas do mundo eram de propriedade da Amalgamated Corporation.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint5</Data></Cell>
+    <Cell><Data ss:Type="String">Hell, in the end, the Amalgamated Corporation made just about everything. AC Sportsdrinks, AC Icecream, AC Battlegear, even AC Happytabs. I miss those. AC even gave us our wonderful mutant problem.</Data></Cell>
+    <Cell><Data ss:Type="String">Inferno, no final, a Amalgamated Corporation fez quase tudo. AC Sportsdrinks, Icecream AC, AC Battlegear, até mesmo AC Happytabs. Eu sinto falta disso. AC ainda nos deu o nosso maravilhoso problema mutante.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint6</Data></Cell>
+    <Cell><Data ss:Type="String">All the weapons-grade isotopes getting into the water table, or the fish, or the air reacted with some of the leftover bio-weapons and made lots of people go as squirrely as tab-pumped cannibals.</Data></Cell>
+    <Cell><Data ss:Type="String">Todos os isótopos de nível de arma que entram no lençol freático, ou o peixe, ou o ar reagiram com algumas das armas biológicas que sobraram e fizeram com que muitas pessoas ficassem tão esquisitas quanto os canibais bombados.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint7</Data></Cell>
+    <Cell><Data ss:Type="String">You can ignore a neighbor developing neo-elephantitis or novuleprosy, but when he tries to eat you, you've got to take an interest.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode ignorar um vizinho desenvolvendo neo-elefantite ou novuleprosy, mas quando ele tenta comer você, você tem que se interessar.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint8</Data></Cell>
+    <Cell><Data ss:Type="String">So that's it, we're done, civilization is taking a breather. In 2089, anyone left alive and unmutated is just focused on staying that way.</Data></Cell>
+    <Cell><Data ss:Type="String">Então é isso, estamos prontos, a civilização está respirando. Em 2089, qualquer pessoa deixada viva e sem mutação está apenas concentrada em continuar assim.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint9</Data></Cell>
+    <Cell><Data ss:Type="String">There are stories of enclaves here and there, where they're lucky enough to have plenty of food stockpiled and mutants are thin on the ground or there's lots of ammunition to throw at them. My advice is to find one, or make one.</Data></Cell>
+    <Cell><Data ss:Type="String">Há histórias de enclaves aqui e ali, onde eles têm a sorte de ter bastante comida estocada e os mutantes são magros no chão ou há muita munição para atirar neles. Meu conselho é encontrar um ou fazer um.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint10</Data></Cell>
+    <Cell><Data ss:Type="String">The Earth abides, all this too shall pass away, and if Darwin blesses you then your kids will inherit what's left. For now, it's one day at a time.</Data></Cell>
+    <Cell><Data ss:Type="String">A Terra habita, tudo isso também passará, e se Darwin te abençoar, seus filhos herdarão o que restar. Por enquanto, é um dia de cada vez.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint11</Data></Cell>
+    <Cell><Data ss:Type="String">In case you are bleeding, quickly tear old clothes into rags by right-clicking on them and selecting 'tear into rags'.</Data></Cell>
+    <Cell><Data ss:Type="String">Caso você esteja sangrando, rasgue rapidamente roupas velhas em farrapos, clicando com o botão direito do mouse sobre elas e selecionando "rasgar em trapos".</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint12</Data></Cell>
+    <Cell><Data ss:Type="String">You need to craft and place a Plot Sign to claim land before you can start constructing your base. Plot signs cannot be destroyed until all other base parts are first destroyed.</Data></Cell>
+    <Cell><Data ss:Type="String">Você precisa criar e colocar um Plot Sign para reivindicar terra antes de começar a construir sua base. Os sinais de plotagem não podem ser destruídos até que todas as outras partes da base sejam primeiro destruídas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint13</Data></Cell>
+    <Cell><Data ss:Type="String">The Iron Sons left us crafting guides, you can learn their contents by finding and reading them.\nBe sure to keep an eye out for them or trade them with other survivors.</Data></Cell>
+    <Cell><Data ss:Type="String">Os Filhos de Ferro nos deixaram guias de artesanato, você pode aprender seu conteúdo encontrando e lendo-os. \ NCertifique-se de ficar de olho neles ou trocá-los com outros sobreviventes.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint14</Data></Cell>
+    <Cell><Data ss:Type="String">If you happen to run out of ammo, you can melee attack with any weapon using %[player:special].</Data></Cell>
+    <Cell><Data ss:Type="String">Se você ficar sem munição, poderá atacar com qualquer arma usando% [player: special].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint15</Data></Cell>
+    <Cell><Data ss:Type="String">No weapons on hand? Try kicking %[player:special2] instead of punching, for greater range and a more powerful attack!</Data></Cell>
+    <Cell><Data ss:Type="String">Nenhuma arma na mão? Tente chutar% [player: special2] em vez de socar, para maior alcance e um ataque mais poderoso!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint16</Data></Cell>
+    <Cell><Data ss:Type="String">There is no shortage of wood in what is left of the world.\nStrike your Hatchet against trees to gather logs, which can then be refined into Lumber.</Data></Cell>
+    <Cell><Data ss:Type="String">Não há escassez de madeira no que resta do mundo. \ NFaça o seu Hatchet contra as árvores para recolher os troncos, que podem então ser refinados em Madeira serrada.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint17</Data></Cell>
+    <Cell><Data ss:Type="String">Stones can be gathered from rocks with a Pickaxe. You can also use it to pick open skulls!</Data></Cell>
+    <Cell><Data ss:Type="String">Pedras podem ser coletadas de rochas com uma picareta. Você também pode usá-lo para escolher crânios abertos!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint18</Data></Cell>
+    <Cell><Data ss:Type="String">Broken down cars make for a good source of scrap metal out in the wasteland, if you've got a Hammer on hand.</Data></Cell>
+    <Cell><Data ss:Type="String">Carros quebrados são uma boa fonte de sucata no deserto, se você tiver um martelo na mão.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint19</Data></Cell>
+    <Cell><Data ss:Type="String">Group up with other survivors to start a clan. Clan members share each other's bases and can build together.</Data></Cell>
+    <Cell><Data ss:Type="String">Agrupe-se com outros sobreviventes para iniciar um clã. Os membros do clã compartilham as bases uns dos outros e podem construir juntos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint20</Data></Cell>
+    <Cell><Data ss:Type="String">You can only place one base building Plot Sign on each server.</Data></Cell>
+    <Cell><Data ss:Type="String">Você só pode colocar um sinal de plotagem de construção base em cada servidor.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint21</Data></Cell>
+    <Cell><Data ss:Type="String">'My home is my castle'. In order to keep it this way each base has to be at some distance from others.</Data></Cell>
+    <Cell><Data ss:Type="String">"Minha casa é meu castelo". Para mantê-lo dessa maneira, cada base deve estar a certa distância dos outros.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint22</Data></Cell>
+    <Cell><Data ss:Type="String">When placing a base part, hold down %[player:allow_rotate] and move the mouse to rotate the object.</Data></Cell>
+    <Cell><Data ss:Type="String">Ao colocar uma peça base, mantenha pressionado% [player: allow_rotate] e mova o mouse para girar o objeto.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint23</Data></Cell>
+    <Cell><Data ss:Type="String">When placing a base part, you can constrain the item to your elevation by holding Left Shift.</Data></Cell>
+    <Cell><Data ss:Type="String">Ao posicionar uma peça base, você pode restringir o item à sua elevação segurando a tecla Shift esquerda.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint24</Data></Cell>
+    <Cell><Data ss:Type="String">When placing a base part, right clicking the mouse cancels its placement.</Data></Cell>
+    <Cell><Data ss:Type="String">Ao colocar uma peça base, clicar com o botão direito do mouse cancela sua colocação.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint25</Data></Cell>
+    <Cell><Data ss:Type="String">When placing a base part, move your survivor around to change the part's position and orientation.</Data></Cell>
+    <Cell><Data ss:Type="String">Ao colocar uma peça base, mova seu sobrevivente para mudar a posição e orientação da peça.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint26</Data></Cell>
+    <Cell><Data ss:Type="String">You can only place base parts on your own land, or a clan member's land.</Data></Cell>
+    <Cell><Data ss:Type="String">Você só pode colocar peças de base em sua própria terra ou na terra de um membro do clã.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint27</Data></Cell>
+    <Cell><Data ss:Type="String">The more parts your base consists of, the longer your base will survive unattended. Interact with your base to keep it alive!</Data></Cell>
+    <Cell><Data ss:Type="String">Quanto mais partes sua base consistir, mais sua base sobreviverá sem supervisão. Interaja com sua base para mantê-la viva!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint28</Data></Cell>
+    <Cell><Data ss:Type="String">Type !base in chat to obtain information about your current base, how many parts it has and life time remaining.</Data></Cell>
+    <Cell><Data ss:Type="String">Digite! Base no chat para obter informações sobre sua base atual, quantas partes tem e tempo de vida restante.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint29</Data></Cell>
+    <Cell><Data ss:Type="String">Scavenge thoroughly! The few resources left in this world can be found in the most unlikely of places.</Data></Cell>
+    <Cell><Data ss:Type="String">Limpar completamente! Os poucos recursos que restam neste mundo podem ser encontrados nos locais mais improváveis.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint30</Data></Cell>
+    <Cell><Data ss:Type="String">Running through the wasteland makes you thirsty. Containers can be refilled by looking at a water source and using the action menu.</Data></Cell>
+    <Cell><Data ss:Type="String">Correndo pelo deserto faz com que você tenha sede. Recipientes podem ser recarregados olhando para uma fonte de água e usando o menu de ação.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint31</Data></Cell>
+    <Cell><Data ss:Type="String">The few generators left in the world can be powered up with the right resources.\nCheck the inventory on it to see what it needs.</Data></Cell>
+    <Cell><Data ss:Type="String">Os poucos geradores que restam no mundo podem ser ligados com os recursos certos. \ NVerifique o inventário para ver o que precisa.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint32</Data></Cell>
+    <Cell><Data ss:Type="String">Your survivor can carry up to 40kg. Backpacks and clothes have pockets to carry more items.\nKeep an eye on your gear's weight in the inventory screen.</Data></Cell>
+    <Cell><Data ss:Type="String">Seu sobrevivente pode carregar até 40kg. Mochilas e roupas têm bolsos para transportar mais itens. \ Fique de olho no peso do seu equipamento na tela de inventário.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint33</Data></Cell>
+    <Cell><Data ss:Type="String">You can repair vehicles by hitting it with the Lug Wrench weapon.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode reparar veículos batendo com a arma Lug Wrench.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint34</Data></Cell>
+    <Cell><Data ss:Type="String">Vehicles are great for storing heavy stuff, but don't let someone else drive off with it!</Data></Cell>
+    <Cell><Data ss:Type="String">Os veículos são ótimos para armazenar coisas pesadas, mas não deixe que alguém dirija com ele!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint35</Data></Cell>
+    <Cell><Data ss:Type="String">Vehicles require several resources in order to be started. Check the vehicle's inventory to see what it needs.</Data></Cell>
+    <Cell><Data ss:Type="String">Veículos requerem vários recursos para serem iniciados. Verifique o inventário do veículo para ver o que precisa.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint36</Data></Cell>
+    <Cell><Data ss:Type="String">Vehicles can drive with no wheels, but they handle poorly and are slow.</Data></Cell>
+    <Cell><Data ss:Type="String">Veículos podem dirigir sem rodas, mas eles lidam mal e são lentos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint37</Data></Cell>
+    <Cell><Data ss:Type="String">Weapon feels inaccurate? Press and hold %[player:stabilize] to hold your breath and reduce sway.</Data></Cell>
+    <Cell><Data ss:Type="String">Arma parece imprecisa? Pressione e mantenha pressionado% [player: stabilize] para prender a respiração e reduzir o balanço.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint38</Data></Cell>
+    <Cell><Data ss:Type="String">While Mutants may lack in ranged attacks, they are very powerful up-close. Try to stay away from them if you can.</Data></Cell>
+    <Cell><Data ss:Type="String">Enquanto Mutantes podem faltar em ataques à distância, eles são muito poderosos de perto. Tente ficar longe deles, se puder.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint39</Data></Cell>
+    <Cell><Data ss:Type="String">Shoes give you some protection against punji stick traps, but it is best to avoid them all together.</Data></Cell>
+    <Cell><Data ss:Type="String">Sapatos dão a você alguma proteção contra armadilhas punjadas, mas é melhor evitá-las todas juntas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint40</Data></Cell>
+    <Cell><Data ss:Type="String">Be aware of your surroundings! Hiding in bushes and other foliage can be a useful tactic.</Data></Cell>
+    <Cell><Data ss:Type="String">Esteja ciente do seu entorno! Esconder-se em arbustos e outras folhagens pode ser uma tática útil.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint41</Data></Cell>
+    <Cell><Data ss:Type="String">Shooting from the hip is significantly less accurate than using your iron sights.</Data></Cell>
+    <Cell><Data ss:Type="String">Tiroteio do quadril é significativamente menos preciso do que usar sua mira de ferro.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint42</Data></Cell>
+    <Cell><Data ss:Type="String">All projectiles are affected by gravity. Make sure to lead your shots if you engage in long range combat.</Data></Cell>
+    <Cell><Data ss:Type="String">Todos os projéteis são afetados pela gravidade. Certifique-se de liderar seus tiros se você se envolver em combate de longo alcance.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint43</Data></Cell>
+    <Cell><Data ss:Type="String">You can create a clan through the clan tab in your inventory.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode criar um clã através da aba do clã em seu inventário.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint44</Data></Cell>
+    <Cell><Data ss:Type="String">Crouching with %[player:crouch] makes you quieter, a harder target to hit, and also increases your accuracy.</Data></Cell>
+    <Cell><Data ss:Type="String">Agachar-se com% [player: crouch] torna-o mais silencioso, um alvo mais difícil de acertar e também aumenta a sua precisão.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint45</Data></Cell>
+    <Cell><Data ss:Type="String">Proning with %[player:prone] lowers your profile a lot making you a harder target to hit, and also increasing your accuracy.</Data></Cell>
+    <Cell><Data ss:Type="String">Pronunciar com% [jogador: propenso] diminui muito o seu perfil, tornando-o um alvo mais difícil de acertar, além de aumentar sua precisão.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint46</Data></Cell>
+    <Cell><Data ss:Type="String">During prone %[player:prone] or %[player:crouch] you can modify your speed and loudness by using the sprint %[player:sprint] or walk %[player:walk] bindings.</Data></Cell>
+    <Cell><Data ss:Type="String">Durante o% [player: propenso] propenso ou% [player: crouch] propenso, você pode modificar sua velocidade e intensidade usando as ligações sprint% [player: sprint] ou walk% [player: walk].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint47</Data></Cell>
+    <Cell><Data ss:Type="String">During prone %[player:prone] you can perform fast side-rolls by combining it with sprint %[player:sprint] and %[player:moveleft] or %[player:moveright].</Data></Cell>
+    <Cell><Data ss:Type="String">Durante o% [player: propenso] propenso, você pode realizar side-rolls rápidos combinando-o com o sprint% [player: sprint] e% [player: moveleft] ou% [player: movightight].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint48</Data></Cell>
+    <Cell><Data ss:Type="String">A 'shoot first, ask questions later' policy might not always be the best option. Use your voice %[default:voice_chat_talk] to talk and group up with other survivors.</Data></Cell>
+    <Cell><Data ss:Type="String">Uma política de "atire primeiro e pergunte depois" pode nem sempre ser a melhor opção. Use sua voz% [default: voice_chat_talk] para conversar e se reunir com outros sobreviventes.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint49</Data></Cell>
+    <Cell><Data ss:Type="String">Double-tapping the voice key %[default:voice_chat_talk] will change your voice mode. The two available modes are push-to-talk and voice-activated.</Data></Cell>
+    <Cell><Data ss:Type="String">Clicar duas vezes na tecla de voz% [default: voice_chat_talk] mudará seu modo de voz. Os dois modos disponíveis são push-to-talk e voice-activated.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint50</Data></Cell>
+    <Cell><Data ss:Type="String">Speak to other survivors using %[default:voice_chat_talk] to determine if they are friendly or hostile.</Data></Cell>
+    <Cell><Data ss:Type="String">Fale com outros sobreviventes usando% [default: voice_chat_talk] para determinar se eles são amigáveis ​​ou hostis.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint51</Data></Cell>
+    <Cell><Data ss:Type="String">You can switch which shoulder the camera is over by pressing %[player:switchshoulder].</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode alternar em qual ombro a câmera está, pressionando% [player: switchshoulder].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint52</Data></Cell>
+    <Cell><Data ss:Type="String">You can walk slowly and make less noise when moving around by using %[player:walk].</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode andar devagar e fazer menos barulho ao se movimentar usando% [player: walk].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint53</Data></Cell>
+    <Cell><Data ss:Type="String">A full list of available actions can be found in the Controls menu. You can also rebind actions from this menu.</Data></Cell>
+    <Cell><Data ss:Type="String">Uma lista completa de ações disponíveis pode ser encontrada no menu Controls. Você também pode reativar ações deste menu.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint54</Data></Cell>
+    <Cell><Data ss:Type="String">When being idle too long, or waiting to long to respawn, you will be automatically kicked from the server.\nIt's wise to sign out in areas that are less hostile.</Data></Cell>
+    <Cell><Data ss:Type="String">Quando estiver ocioso por muito tempo, ou esperando para reaparecer, você será automaticamente kickado do servidor. \ NÉ aconselhável desconectar em áreas menos hostis.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint55</Data></Cell>
+    <Cell><Data ss:Type="String">Remember to carry a torch or flashlight with you at night, or when entering dark areas.</Data></Cell>
+    <Cell><Data ss:Type="String">Lembre-se de levar uma tocha ou lanterna à noite ou ao entrar em áreas escuras.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint56</Data></Cell>
+    <Cell><Data ss:Type="String">Count the bullets as you fire and check the magazine in the inventory to avoid running out of bullets during a firefight.</Data></Cell>
+    <Cell><Data ss:Type="String">Conte as balas enquanto dispara e verifique a revista no inventário para evitar a falta de balas durante um tiroteio.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint57</Data></Cell>
+    <Cell><Data ss:Type="String">If you hear another survivor nearby, stay still and observe them to determine how best to proceed.</Data></Cell>
+    <Cell><Data ss:Type="String">Se você ouvir outro sobrevivente por perto, fique parado e observe-o para determinar a melhor maneira de proceder.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint58</Data></Cell>
+    <Cell><Data ss:Type="String">Find cover in a firefight. Being out in the open is asking for trouble.</Data></Cell>
+    <Cell><Data ss:Type="String">Encontre a capa em um tiroteio. Estar ao ar livre é pedir problemas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint59</Data></Cell>
+    <Cell><Data ss:Type="String">Sticking to the roads can be dangerous. It may be wise to find another route.</Data></Cell>
+    <Cell><Data ss:Type="String">Aderir às estradas pode ser perigoso. Pode ser sábio encontrar outro caminho.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint60</Data></Cell>
+    <Cell><Data ss:Type="String">The 5-ton truck can carry up to 10 people, but if you need to transport the entire clan across town in style, load up to 29 survivors in the party bus!</Data></Cell>
+    <Cell><Data ss:Type="String">O caminhão de 5 toneladas pode transportar até 10 pessoas, mas se você precisar transportar o clã inteiro pela cidade em grande estilo, carregue até 29 sobreviventes no ônibus da festa!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint61</Data></Cell>
+    <Cell><Data ss:Type="String">Radiation areas are detectable with geiger counter or noticeable by a slightly blue glow. Stock up on anti-rad pills, anti-rad mushrooms or potassium-iodine pills before entering known radiation areas.</Data></Cell>
+    <Cell><Data ss:Type="String">Áreas de radiação são detectáveis ​​com contador geiger ou perceptível por um brilho ligeiramente azul. Estocar comprimidos anti-rad, cogumelos anti-rad ou pílulas de potássio-iodo antes de entrar em áreas de radiação conhecidas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint62</Data></Cell>
+    <Cell><Data ss:Type="String">Sometimes your best option to get out of trouble is to jump off a bridge and dive under water.</Data></Cell>
+    <Cell><Data ss:Type="String">Às vezes, sua melhor opção para sair do problema é pular de uma ponte e mergulhar na água.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint63</Data></Cell>
+    <Cell><Data ss:Type="String">Being well fed and hydrated will allow you to recover faster from wounds.</Data></Cell>
+    <Cell><Data ss:Type="String">Ser bem alimentado e hidratado permitirá recuperar mais rapidamente das feridas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint64</Data></Cell>
+    <Cell><Data ss:Type="String">Team up with a group or clan to increase your chance of survival. Remember what your friends are wearing and call out if you change appearance to avoid accidental friendly fire.</Data></Cell>
+    <Cell><Data ss:Type="String">Junte-se a um grupo ou clã para aumentar sua chance de sobrevivência. Lembre-se do que seus amigos estão usando e chame se você mudar de aparência para evitar um incêndio acidental.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint65</Data></Cell>
+    <Cell><Data ss:Type="String">If you hear a mutant or survivor, chances are they're coming for you, so watch your back!\nYou can also freelook using %[player:allow_rotate].</Data></Cell>
+    <Cell><Data ss:Type="String">Se você ouvir um mutante ou sobrevivente, é provável que eles estejam vindo atrás de você, então fique atento! \ NVocê também pode fazer o freelook usando% [player: allow_rotate].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint66</Data></Cell>
+    <Cell><Data ss:Type="String">Vehicles can be shot and will explode when damaged enough.</Data></Cell>
+    <Cell><Data ss:Type="String">Os veículos podem ser disparados e explodirão quando estiverem danificados o suficiente.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint67</Data></Cell>
+    <Cell><Data ss:Type="String">Objects filled with explosives, propane, fuel or fire extinguishers will explode when destroyed.\nThis also applies to your inventory if your equipment is shot at.</Data></Cell>
+    <Cell><Data ss:Type="String">Objetos cheios de explosivos, propano, combustível ou extintores de incêndio explodirão quando forem destruídos. \ Isso também se aplica ao seu inventário se o equipamento for disparado.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint68</Data></Cell>
+    <Cell><Data ss:Type="String">Wind will affect your bullet path. The path change will increase with distance, as will bullet drop.</Data></Cell>
+    <Cell><Data ss:Type="String">O vento afetará seu caminho de bala. A mudança de caminho aumentará com a distância, assim como a queda de bala.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint69</Data></Cell>
+    <Cell><Data ss:Type="String">You can craft improved bandages by combining rubbing alcohol and a bandage.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode criar bandagens melhoradas combinando álcool e uma bandagem.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint70</Data></Cell>
+    <Cell><Data ss:Type="String">Medic 101: Antibiotics cure poison. Anti-rad pills decrease radiation. Bandages or rags decrease bleeding.</Data></Cell>
+    <Cell><Data ss:Type="String">Medic 101: Antibióticos curam veneno. Pílulas anti-rad reduzem a radiação. Bandagens ou trapos diminuem o sangramento.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint71</Data></Cell>
+    <Cell><Data ss:Type="String">You can join a friend's gameplay session quickly through the Steam friends list.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode participar da sessão de jogo de um amigo rapidamente através da lista de amigos do Steam.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint72</Data></Cell>
+    <Cell><Data ss:Type="String">You can directly join a gameplay session through the Steam server browser (View > Servers).</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode participar diretamente de uma sessão de jogo através do navegador do servidor Steam (Exibir> Servidores).</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint73</Data></Cell>
+    <Cell><Data ss:Type="String">Hover the mouse cursor over items in your inventory for a more detailed description of the item.</Data></Cell>
+    <Cell><Data ss:Type="String">Passe o cursor do mouse sobre os itens em seu inventário para uma descrição mais detalhada do item.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint74</Data></Cell>
+    <Cell><Data ss:Type="String">If you encounter a survivor threatening you with a weapon, check to see if they even have a magazine in it.\nThey might be bluffing!</Data></Cell>
+    <Cell><Data ss:Type="String">Se você encontrar um sobrevivente ameaçando-o com uma arma, verifique se eles ainda têm uma revista nele. Eles podem estar blefando!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint75</Data></Cell>
+    <Cell><Data ss:Type="String">Other survivors can see light at night from a great distance. Be careful or your flashlight might give away your position.</Data></Cell>
+    <Cell><Data ss:Type="String">Outros sobreviventes podem ver a luz à noite a uma grande distância. Tenha cuidado ou sua lanterna pode revelar sua posição.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint76</Data></Cell>
+    <Cell><Data ss:Type="String">Run into the direction you want to jump. The momentum will increase your jump distance.</Data></Cell>
+    <Cell><Data ss:Type="String">Corra na direção que você quer pular. O momento aumentará sua distância de salto.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint77</Data></Cell>
+    <Cell><Data ss:Type="String">Some backpacks have more space than others. Keep on the lookout for improved versions of items you already own.</Data></Cell>
+    <Cell><Data ss:Type="String">Algumas mochilas têm mais espaço que outras. Fique atento a versões aprimoradas de itens que você já possui.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint78</Data></Cell>
+    <Cell><Data ss:Type="String">Holstering your weapon will make you appear less threatening to other survivors.</Data></Cell>
+    <Cell><Data ss:Type="String">Coldling sua arma fará você parecer menos ameaçador para outros sobreviventes.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint79</Data></Cell>
+    <Cell><Data ss:Type="String">Some mushrooms can be eaten, and others can be used as a crafting ingredient.</Data></Cell>
+    <Cell><Data ss:Type="String">Alguns cogumelos podem ser comidos e outros podem ser usados ​​como ingredientes de artesanato.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint80</Data></Cell>
+    <Cell><Data ss:Type="String">Some melee weapons have an increased chance to make your foe bleed.</Data></Cell>
+    <Cell><Data ss:Type="String">Algumas armas brancas têm uma chance maior de fazer o seu inimigo sangrar.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint81</Data></Cell>
+    <Cell><Data ss:Type="String">If you are lost, look for roads, rivers, landmarks or power lines, they will likely lead you to somewhere of interest.</Data></Cell>
+    <Cell><Data ss:Type="String">Se você está perdido, procure por estradas, rios, marcos ou linhas de energia, eles provavelmente levarão a algum lugar de interesse.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint82</Data></Cell>
+    <Cell><Data ss:Type="String">Besides voice communication, there are 3 different text chat modes (all with different ranges): whisper, local, and area.</Data></Cell>
+    <Cell><Data ss:Type="String">Além da comunicação por voz, existem 3 modos de chat de texto diferentes (todos com intervalos diferentes): sussurro, local e área.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint83</Data></Cell>
+    <Cell><Data ss:Type="String">You can sit down by using %[player:sit] when you are not holding an item.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode se sentar usando% [player: sit] quando não estiver segurando um item.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint84</Data></Cell>
+    <Cell><Data ss:Type="String">Look for a bus stop if you get lost. Bus stops have maps on them to help you get your bearings.</Data></Cell>
+    <Cell><Data ss:Type="String">Procure por uma parada de ônibus se você se perder. Paradas de ônibus têm mapas para ajudá-lo a se orientar.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint85</Data></Cell>
+    <Cell><Data ss:Type="String">There are some maps of the local area on signs placed throughout the world.</Data></Cell>
+    <Cell><Data ss:Type="String">Existem alguns mapas da área local em placas colocadas em todo o mundo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint86</Data></Cell>
+    <Cell><Data ss:Type="String">Keep an eye out for hand-held maps of Orca Island, scattered throughout the world.</Data></Cell>
+    <Cell><Data ss:Type="String">Fique de olho nos mapas de mão da Ilha Orca, espalhados pelo mundo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint87</Data></Cell>
+    <Cell><Data ss:Type="String">Raise your weapon or fists by using %[player:tactical], this will slow you down while running, but not while sprinting.</Data></Cell>
+    <Cell><Data ss:Type="String">Levante sua arma ou punhos usando% [player: tactical], isso vai te atrapalhar enquanto corre, mas não enquanto corre.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint88</Data></Cell>
+    <Cell><Data ss:Type="String">Quickly go to ironsight when your weapon isn't raised yet by using a single tap to %[player:attack1] followed by %[player:zoom].</Data></Cell>
+    <Cell><Data ss:Type="String">Ir rapidamente para ironsight quando sua arma não é levantada ainda usando um único toque para% [player: attack1] seguido por% [player: zoom].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint89</Data></Cell>
+    <Cell><Data ss:Type="String">You can focus zoom at any time, with any item in hand, by using %[player:zoom].</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode focar o zoom a qualquer momento, com qualquer item na mão, usando% [player: zoom].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint90</Data></Cell>
+    <Cell><Data ss:Type="String">You can surrender to survivors by using %[default:emotep_handsup] and putting your weapon away.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode se render aos sobreviventes usando% [default: emotep_handsup] e colocando sua arma fora.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint91</Data></Cell>
+    <Cell><Data ss:Type="String">Greet other survivors by waving using %[default:emote_wave].</Data></Cell>
+    <Cell><Data ss:Type="String">Cumprimente os outros sobreviventes acenando usando% [default: emote_wave].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint92</Data></Cell>
+    <Cell><Data ss:Type="String">Warn other survivors to approach by indicating to them to stop using %[default:emote_stop].</Data></Cell>
+    <Cell><Data ss:Type="String">Avise os outros sobreviventes para se aproximarem, indicando a eles para parar de usar% [default: emote_stop].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint93</Data></Cell>
+    <Cell><Data ss:Type="String">Invite survivors to approach by using %[default:emote_comehere].</Data></Cell>
+    <Cell><Data ss:Type="String">Convide os sobreviventes a se aproximarem usando% [default: emote_comehere].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint94</Data></Cell>
+    <Cell><Data ss:Type="String">Warn survivors to be silent by using %[default:emote_shhh].</Data></Cell>
+    <Cell><Data ss:Type="String">Avise os sobreviventes para ficarem em silêncio usando% [default: emote_shhh].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint95</Data></Cell>
+    <Cell><Data ss:Type="String">Give other survivors directions by using %[default:emote_pointfinger].</Data></Cell>
+    <Cell><Data ss:Type="String">Dê outras instruções aos sobreviventes usando% [default: emote_pointfinger].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint96</Data></Cell>
+    <Cell><Data ss:Type="String">Increase the range of bows and throwing items by holding %[player:attack1] for about a second before releasing.</Data></Cell>
+    <Cell><Data ss:Type="String">Aumente o alcance de arcos e arremessos, segurando% [player: attack1] por aproximadamente um segundo antes de liberar.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint97</Data></Cell>
+    <Cell><Data ss:Type="String">You can craft arrows and bolts with various effects (e.g. Fire or Poison).\nMost of these effects can only be used once per projectile.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode criar flechas e parafusos com vários efeitos (por exemplo, Fogo ou Veneno). \ A maioria desses efeitos só pode ser usada uma vez por projétil.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint98</Data></Cell>
+    <Cell><Data ss:Type="String">Rest up and give your wounds time to heal. Sitting down %[player:sit] will heal your wounds faster.</Data></Cell>
+    <Cell><Data ss:Type="String">Descanse e dê tempo às suas feridas para curar. Sentar-se% [jogador: sentar] curará suas feridas mais rapidamente.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint99</Data></Cell>
+    <Cell><Data ss:Type="String">You can reload by using %[player:reload] if you have ammo in your pockets (not your backpack).\nOr by dragging the ammo into your weapon through the inventory %[default:ui_show_inventory].</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode recarregar usando% [player: reload] se tiver munição em seus bolsos (não em sua mochila). \ NOu arrastando a munição para sua arma através do inventário% [default: ui_show_inventory].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint100</Data></Cell>
+    <Cell><Data ss:Type="String">You can look into an object's inventory by using %[default:ui_show_inventory] while looking at it.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode olhar para o inventário de um objeto usando% [default: ui_show_inventory] enquanto olha para ele.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint101</Data></Cell>
+    <Cell><Data ss:Type="String">Other survivors can be captured by using duct-tape on them from behind while they aren't moving.</Data></Cell>
+    <Cell><Data ss:Type="String">Outros sobreviventes podem ser capturados usando fita adesiva por trás enquanto eles não estão se movendo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint102</Data></Cell>
+    <Cell><Data ss:Type="String">When you have been captured you can try to break free by alternating between %[player:leanleft] and %[player:leanright] for about 5 minutes. Or by getting a friendly survivor to free you.</Data></Cell>
+    <Cell><Data ss:Type="String">Quando você for capturado, você pode tentar se libertar alternando entre% [player: leanleft] e% [player: leanright] por cerca de 5 minutos. Ou pegando um sobrevivente amigável para libertar você.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint103</Data></Cell>
+    <Cell><Data ss:Type="String">When your inventory is full you can still directly consume items in the world by using %[player:mwheel_down].</Data></Cell>
+    <Cell><Data ss:Type="String">Quando seu inventário estiver cheio, você ainda poderá consumir itens diretamente no mundo usando% [player: mwheel_down].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint104</Data></Cell>
+    <Cell><Data ss:Type="String">Some weapons have multiple fire modes. Press %[player:firemode] to switch between these modes.</Data></Cell>
+    <Cell><Data ss:Type="String">Algumas armas têm múltiplos modos de fogo. Pressione% [player: firemode] para alternar entre esses modos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint105</Data></Cell>
+    <Cell><Data ss:Type="String">Learned guides will only be valid for the server they were learned on. They are still kept after death and restarts.</Data></Cell>
+    <Cell><Data ss:Type="String">Guias aprendidos só serão válidos para o servidor em que foram aprendidos. Eles ainda são mantidos após a morte e reiniciados.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint106</Data></Cell>
+    <Cell><Data ss:Type="String">Learned guides will expose new craftable items that were otherwise unknown to your survivor. There may be more items you can craft which you don't yet know about!</Data></Cell>
+    <Cell><Data ss:Type="String">Guias aprendidos exporão novos itens que não eram conhecidos pelo seu sobrevivente. Pode haver mais itens que você pode criar que você ainda não conhece!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint107</Data></Cell>
+    <Cell><Data ss:Type="String">Think you're king of the mountain standing on top of that car? Think again! Mutants can throw rocks at survivors they can see but can't reach!</Data></Cell>
+    <Cell><Data ss:Type="String">Você acha que é o rei da montanha parado em cima daquele carro? Pense de novo! Mutantes podem atirar pedras em sobreviventes que podem ver mas não conseguem alcançar!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint108</Data></Cell>
+    <Cell><Data ss:Type="String">You can turn vehicle lights on and off with %[vehicle_driver:v_lights].</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode ligar e desligar as luzes do veículo com% [vehicle_driver: v_lights].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint109</Data></Cell>
+    <Cell><Data ss:Type="String">Toot the vehicle's horn with %[vehicle_driver:v_horn].</Data></Cell>
+    <Cell><Data ss:Type="String">Toot o chifre do veículo com% [vehicle_driver: v_horn].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint110</Data></Cell>
+    <Cell><Data ss:Type="String">Start a fully equipped vehicle with %[vehicle_driver:v_start]. You need to have all the required parts in the vehicle's inventory for the engine to start!</Data></Cell>
+    <Cell><Data ss:Type="String">Inicie um veículo totalmente equipado com% [vehicle_driver: v_start]. Você precisa ter todas as peças necessárias no inventário do veículo para o motor começar!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint111</Data></Cell>
+    <Cell><Data ss:Type="String">Be aware that survivors very close to you can listen in to your radio communication (same distance as whisper).</Data></Cell>
+    <Cell><Data ss:Type="String">Esteja ciente de que os sobreviventes próximos a você podem ouvir sua comunicação de rádio (a mesma distância que o sussurro).</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint112</Data></Cell>
+    <Cell><Data ss:Type="String">The Survivotron VI isn't just another radio, it includes a geiger counter, clock, thermometer, compass and GPS for orienteering which can be switched to using %[player:firemode].</Data></Cell>
+    <Cell><Data ss:Type="String">O Survivotron VI não é apenas mais um rádio, ele inclui um contador geiger, relógio, termômetro, bússola e GPS para orientação que pode ser mudado para usando% [player: firemode].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint113</Data></Cell>
+    <Cell><Data ss:Type="String">The Survivotron radio supports multiple channels and frequency bands, press %[default:radio_chup] for channel up, %[default:radio_chdn] for channel down and %[default:radio_band] to switch band.</Data></Cell>
+    <Cell><Data ss:Type="String">O rádio Survivotron suporta múltiplos canais e bandas de frequência, pressione% [default: radio_chup] para o canal acima,% [default: radio_chdn] para o canal inativo e% [default: radio_band] para alternar banda.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint114</Data></Cell>
+    <Cell><Data ss:Type="String">Miscreated supports head tracking devices using either TrackIR or Freetrack.</Data></Cell>
+    <Cell><Data ss:Type="String">Miscreated suporta dispositivos de rastreamento da cabeça usando ou TrackIR ou Freetrack.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint115</Data></Cell>
+    <Cell><Data ss:Type="String">Miscreated additionally supports 3D-positional voice either using Mumble or the Teamspeak CrossTalk-Plugin.</Data></Cell>
+    <Cell><Data ss:Type="String">Miscreated suporta adicionalmente voz 3D posicional usando Mumble ou o Plug-in do Teamspeak CrossTalk.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint116</Data></Cell>
+    <Cell><Data ss:Type="String">When picking up items, you can either scroll the mouse wheel to open the context menu, or just press %[player:use].</Data></Cell>
+    <Cell><Data ss:Type="String">Ao pegar itens, você pode rolar a roda do mouse para abrir o menu de contexto ou apenas pressionar% [player: use].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint117</Data></Cell>
+    <Cell><Data ss:Type="String">As a survivor on Orca Island, you start with your bare hands %[player:primary], a flashlight %[player:secondary] and some stylish clothes.</Data></Cell>
+    <Cell><Data ss:Type="String">Como um sobrevivente na Ilha Orca, você começa com suas próprias mãos% [jogador: primário], uma lanterna% [jogador: secundária] e algumas roupas estilosas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint118</Data></Cell>
+    <Cell><Data ss:Type="String">You can use chat commands to query server information: !uptime !ping !restart !server !pop</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode usar comandos de chat para consultar informações do servidor:! Uptime! Ping! Restart! Server! Pop</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint119</Data></Cell>
+    <Cell><Data ss:Type="String">You can try to push and flip smaller vehicles through the mouse wheel context menu.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode tentar empurrar e virar veículos menores através do menu de contexto da roda do mouse.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint120</Data></Cell>
+    <Cell><Data ss:Type="String">You can rename your survivor and change gender through the main menu player setup, if you aren't alive on the server.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode renomear seu sobrevivente e alterar o gênero através da configuração do menu principal, se não estiver vivo no servidor.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint121</Data></Cell>
+    <Cell><Data ss:Type="String">Weapon accessories can be triggered faster by the bindings, lights %[player:accessory2], lasers %[player:accessory1] and headgear %[player:accessory3].</Data></Cell>
+    <Cell><Data ss:Type="String">Os acessórios de armas podem ser acionados mais rapidamente pelas amarrações, luzes% [player: accessory2], lasers% [player: accessory1] e headgear% [player: accessory3].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint122</Data></Cell>
+    <Cell><Data ss:Type="String">Attach a silencer to your weapon to make your shots harder to hear by both survivors and mutants.</Data></Cell>
+    <Cell><Data ss:Type="String">Anexar um silenciador à sua arma para tornar seus disparos mais difíceis de ouvir por ambos os sobreviventes e mutantes.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint123</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted silencer won't survive many shots.</Data></Cell>
+    <Cell><Data ss:Type="String">Um silenciador trabalhado não irá sobreviver a muitos disparos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint124</Data></Cell>
+    <Cell><Data ss:Type="String">Attach a foregrip to your weapon to reduce your recoil.</Data></Cell>
+    <Cell><Data ss:Type="String">Anexar um foregrip a sua arma para reduzir seu recuo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint125</Data></Cell>
+    <Cell><Data ss:Type="String">Attach a bayonet to your weapon to increase its melee damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Anexar uma baioneta para a sua arma para aumentar seu dano corpo a corpo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint126</Data></Cell>
+    <Cell><Data ss:Type="String">To relax your fingers use the toggle keys for sprinting forward %[player:sprintforward_toggle] and aiming down sights %[player:zoom_toggle].</Data></Cell>
+    <Cell><Data ss:Type="String">Para relaxar seus dedos, use as teclas de alternância para avançar% [player: sprintforward_toggle] e mirar nas vistas% [player: zoom_toggle].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint127</Data></Cell>
+    <Cell><Data ss:Type="String">Unconscious survivors can be woken up faster with some salt. Make sure to bandage them first if they are bleeding.</Data></Cell>
+    <Cell><Data ss:Type="String">Sobreviventes inconscientes podem ser acordados mais rapidamente com um pouco de sal. Certifique-se de enfaixá-los primeiro se estiverem sangrando.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint128</Data></Cell>
+    <Cell><Data ss:Type="String">The gas mask, bandanas and dust mask can protect you from gas effects.</Data></Cell>
+    <Cell><Data ss:Type="String">A máscara de gás, bandanas e máscara de pó podem protegê-lo dos efeitos do gás.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint129</Data></Cell>
+    <Cell><Data ss:Type="String">Be careful when consuming alcohol, drinking too much can knock you out.</Data></Cell>
+    <Cell><Data ss:Type="String">Tenha cuidado ao consumir álcool, beber demais pode derrubá-lo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint130</Data></Cell>
+    <Cell><Data ss:Type="String">To subdue survivors you can choose non-lethal options such as incapacitation and knocking them out.\nRelevant items include: Handcuffs, ropes, duct-tape, tranq-rifle and stun-baton</Data></Cell>
+    <Cell><Data ss:Type="String">Para subjugar os sobreviventes, você pode escolher opções não-letais, como incapacitação e nocaute. Os itens relevantes incluem: Algemas, cordas, fita adesiva, fuzil de tranq e bastão de choque.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint131</Data></Cell>
+    <Cell><Data ss:Type="String">To recover from effects of sickness or infection you need to consume Antibiotics.</Data></Cell>
+    <Cell><Data ss:Type="String">Para se recuperar dos efeitos da doença ou da infecção, você precisa consumir antibióticos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint132</Data></Cell>
+    <Cell><Data ss:Type="String">To recover from effects of torpidity faster you can consume Aspirin or Energy Drinks.</Data></Cell>
+    <Cell><Data ss:Type="String">Para recuperar-se dos efeitos da torpidez mais rapidamente, você pode consumir Aspirina ou Bebidas Energéticas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint133</Data></Cell>
+    <Cell><Data ss:Type="String">You can switch between first person and third person view by pressing %[player:thirdperson].</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode alternar entre a visão de primeira pessoa e de terceira pessoa pressionando% [player: thirdperson].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint134</Data></Cell>
+    <Cell><Data ss:Type="String">You can cancel a charged throw or bow shot by pressing %[player:reload].</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode cancelar um arremesso carregado ou um arco pressionando% [player: reload].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint135</Data></Cell>
+    <Cell><Data ss:Type="String">Show or hide the HUD with %[default:ui_toggle_hud].</Data></Cell>
+    <Cell><Data ss:Type="String">Mostrar ou ocultar o HUD com% [padrão: ui_toggle_hud].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint136</Data></Cell>
+    <Cell><Data ss:Type="String">To play the guitar use the emotes while its equipped, it can also be used to melee attack %[player:special].</Data></Cell>
+    <Cell><Data ss:Type="String">Para tocar o violão use os emotes enquanto estiver equipado, ele também pode ser usado para atacar o ataque% [player: special].</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint137</Data></Cell>
+    <Cell><Data ss:Type="String">When extreme weather is approaching equip protective clothing and seek shelter indoors, underwater, enclosed vehicles or best underground in bunkers, sewers or caves.</Data></Cell>
+    <Cell><Data ss:Type="String">Quando o clima extremo se aproxima, equipam-se com roupas de proteção e procuram abrigo em ambientes fechados, veículos submersos ou fechados, ou melhor no subsolo em bunkers, esgotos ou cavernas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint138</Data></Cell>
+    <Cell><Data ss:Type="String">When logging off near a base not owned by you or your clan you will be moved to a random map position.</Data></Cell>
+    <Cell><Data ss:Type="String">Ao efetuar o logoff perto de uma base que não seja sua ou de seu clan, você será movido para uma posição de mapa aleatório.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint139</Data></Cell>
+    <Cell><Data ss:Type="String">You can use the Survivotron VI to check for item and environmental radiation with the built in geiger counter (which can also be muted).</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode usar o Survivotron VI para verificar o item e a radiação ambiental com o contador geiger embutido (que também pode ser silenciado).</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint140</Data></Cell>
+    <Cell><Data ss:Type="String">The Survivotron VI can be used to check the environmental temperature.</Data></Cell>
+    <Cell><Data ss:Type="String">O Survivotron VI pode ser usado para verificar a temperatura ambiente.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint141</Data></Cell>
+    <Cell><Data ss:Type="String">You can check item details in your inventory by hovering over them.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode verificar os detalhes do item em seu inventário passando o mouse sobre eles.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint142</Data></Cell>
+    <Cell><Data ss:Type="String">Anti-rad pills, anti-rad mushrooms or potassium-iodine pills help against radiation.</Data></Cell>
+    <Cell><Data ss:Type="String">Pílulas anti-rad, anti-rad cogumelos ou pílulas de potássio-iodo ajudam contra a radiação.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint143</Data></Cell>
+    <Cell><Data ss:Type="String">Look out for traps that can be placed and hidden in the environment. Some of these traps can be reused and crafted.</Data></Cell>
+    <Cell><Data ss:Type="String">Fique atento a armadilhas que podem ser colocadas e escondidas no ambiente. Algumas dessas armadilhas podem ser reutilizadas e criadas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint144</Data></Cell>
+    <Cell><Data ss:Type="String">Some seasonal items are only craftable and findable for a limited time.</Data></Cell>
+    <Cell><Data ss:Type="String">Alguns itens sazonais são apenas fabricáveis ​​e podem ser encontrados por um tempo limitado.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint145</Data></Cell>
+    <Cell><Data ss:Type="String">When scavenging for items the action menu will appear with a scrollwheel icon if there are items found.</Data></Cell>
+    <Cell><Data ss:Type="String">Ao eliminar itens, o menu de ação aparecerá com um ícone de rolagem se houver itens encontrados.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint146</Data></Cell>
+    <Cell><Data ss:Type="String">Scavenge the world for amCoins to use the Amalgamated Kiosk.</Data></Cell>
+    <Cell><Data ss:Type="String">Elimine o mundo por amCoins para usar o Quiosque Amalgamado.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint147</Data></Cell>
+    <Cell><Data ss:Type="String">Some disposed Amalgamated Kiosks found in the world can be towed to your base with a vehicle.</Data></Cell>
+    <Cell><Data ss:Type="String">Alguns Quiosques Amalgamados encontrados no mundo podem ser rebocados até a sua base com um veículo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint148</Data></Cell>
+    <Cell><Data ss:Type="String">To store items in your base you can craft 4 small crates by default and 2 large ones once you find the storage guide. You can also use tents.</Data></Cell>
+    <Cell><Data ss:Type="String">Para armazenar itens em sua base, você pode criar quatro caixas pequenas por padrão e duas grandes, assim que encontrar o guia de armazenamento. Você também pode usar tendas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint149</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Kiosks placed in your base can only be used by your clan members.</Data></Cell>
+    <Cell><Data ss:Type="String">Quiosques Amalgamated colocados na sua base só podem ser usados ​​pelos membros do seu clã.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint150</Data></Cell>
+    <Cell><Data ss:Type="String">You can apply cosmetic skins to your items in the Amalgamated Kiosks.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode aplicar skins cosméticos aos seus itens nos Quiosques Amalgamados.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint151</Data></Cell>
+    <Cell><Data ss:Type="String">Find and visit the paint shop to apply vehicle skins.</Data></Cell>
+    <Cell><Data ss:Type="String">Encontre e visite a oficina de pintura para aplicar peles de veículos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint152</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Tired of some cosmetic items? Trade them ingame or steam marketplace (Requires them to be repaired and deposited into the Amalgamated Kiosk).</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Cansado de alguns itens cosméticos? Troque-os pelo mercado de jogos ou vapor (Requer que eles sejam reparados e depositados no Quiosque Amalgamado).</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint153</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Amalgamated Kiosks are linked with your personal Steam Inventory, items without a red border can be traded and sold in the marketplace.</Data></Cell>
+    <Cell><Data ss:Type="String">(Servidores Centrais) Quiosques Amalgamados estão ligados ao seu Inventário Steam, itens sem borda vermelha podem ser negociados e vendidos no mercado.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint154</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Use Amalgamated Kiosks as personal long-term storage for your items, depositing and withdrawing items costs in-game amCoins.</Data></Cell>
+    <Cell><Data ss:Type="String">(Servidores Centrais) Use Quiosques Amalgamados como armazenamento pessoal de longo prazo para seus itens, depositando e retirando itens de custos de jogo no jogo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint155</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Visit Amalgamated Kiosks to transfer your items to other servers, depositing and withdrawing items costs in-game amCoins.</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Visite os quiosques da Amalgamated para transferir seus itens para outros servidores, depositando e retirando itens de custos de jogo no jogo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint156</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Survive extreme weather conditions such as radiation storms to be awarded special skins.</Data></Cell>
+    <Cell><Data ss:Type="String">(Servidores Centrais) Sobrevive a condições climáticas extremas, como tempestades de radiação, para obter peles especiais.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint157</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Drive your vehicle around a lot to be awarded skins for it.</Data></Cell>
+    <Cell><Data ss:Type="String">(Central-Servers) Dirija seu veículo em torno de muito a ser concedido skins para isso.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint158</Data></Cell>
+    <Cell><Data ss:Type="String">Cosmetic skins are awarded randomly by Steam while playing the game.</Data></Cell>
+    <Cell><Data ss:Type="String">As peles cosméticas são premiadas aleatoriamente pelo Steam durante o jogo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint159</Data></Cell>
+    <Cell><Data ss:Type="String">Building a base? No harvest tools yet? Fear not, you can harvest wood and metal by scavenging palettes, logs, metal piles, rusted motorcycles, satellite dishes and more.</Data></Cell>
+    <Cell><Data ss:Type="String">Construindo uma base? Nenhuma ferramenta de colheita ainda? Não se preocupe, você pode colher madeira e metal limpando palhetas, troncos, pilhas de metal, motocicletas enferrujadas, antenas parabólicas e muito mais.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint160</Data></Cell>
+    <Cell><Data ss:Type="String">Most gear can be broken down into repair kits and then used to repair your gear. You can combine repair kits to save space!</Data></Cell>
+    <Cell><Data ss:Type="String">A maioria das artes pode ser dividida em kits de reparo e, em seguida, usada para reparar seu equipamento. Você pode combinar kits de reparo para economizar espaço!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint161</Data></Cell>
+    <Cell><Data ss:Type="String">By using a bow or crossbow you can hunt in near silence to avoid attracting hostile wildlife, mutants, and other survivors. As an added bonus, you can craft your own selection of arrows and bolts!</Data></Cell>
+    <Cell><Data ss:Type="String">Usando um arco ou uma besta, você pode caçar quase em silêncio para evitar atrair animais selvagens hostis, mutantes e outros sobreviventes. Como um bônus adicional, você pode criar sua própria seleção de setas e parafusos!</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint162</Data></Cell>
+    <Cell><Data ss:Type="String">Don't pass up those rags! Rags are invaluable as they are used in the crafting of packs, arrows, bolts, ropes, Molotov cocktails, and as emergency bandage replacement.</Data></Cell>
+    <Cell><Data ss:Type="String">Não deixe passar esses trapos! Trapos são inestimáveis, pois são utilizados na elaboração de embalagens, flechas, parafusos, cordas, coquetéis Molotov e como substituto de bandagem de emergência.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint163</Data></Cell>
+    <Cell><Data ss:Type="String">Don't tear up all your clothes, the nights and certain weather gets cold and you might freeze.</Data></Cell>
+    <Cell><Data ss:Type="String">Não rasgue todas as suas roupas, as noites e o tempo certo esfria e você pode congelar.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint164</Data></Cell>
+    <Cell><Data ss:Type="String">Check your survivors overall environmental protection stats in the inventory, compare and repair gear to achieve the maximum protection for different situations.</Data></Cell>
+    <Cell><Data ss:Type="String">Verifique as estatísticas gerais de proteção ambiental dos seus sobreviventes no inventário, compare e conserte as engrenagens para obter a máxima proteção para diferentes situações.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint165</Data></Cell>
+    <Cell><Data ss:Type="String">Expect weapons, gear and ammo to be hidden, search everywhere and everything - every nook and cranny is a potential hiding spot for loot.</Data></Cell>
+    <Cell><Data ss:Type="String">Espere armas, equipamento e munição escondidos, procure em todos os lugares e em tudo - cada canto e recanto é um potencial ponto de esconderijo para o saque.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint166</Data></Cell>
+    <Cell><Data ss:Type="String">Inspect consumables and fluid sources to find out about their negative effects.\n(Only with Suviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
+    <Cell><Data ss:Type="String">Inspecione consumíveis e fontes de fluido para descobrir seus efeitos negativos. \ N (Somente com o contador Geiger da Suviotron ligado é detectável a radiação neles)</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint167</Data></Cell>
+    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Suviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
+    <Cell><Data ss:Type="String">Uma alternativa para inspecionar consumíveis é a dica de inventário que mostrará mais detalhes. \ N (Somente com o contador Geiger da Suviotron ligado é detectável a radiação neles)</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint168</Data></Cell>
+    <Cell><Data ss:Type="String">The Survivotron geiger counter can be used to check for radiation in consumables and fluid sources directly in the world.</Data></Cell>
+    <Cell><Data ss:Type="String">O contador Survivotron Geiger pode ser usado para verificar a radiação em consumíveis e fontes de fluido diretamente no mundo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint169</Data></Cell>
+    <Cell><Data ss:Type="String">To find uncontaminated consumables visit spots unaffected by the radiation storms such as basements, bunkers, caves and sewers.</Data></Cell>
+    <Cell><Data ss:Type="String">Para encontrar consumíveis não contaminados, visite locais não afetados pelas tempestades de radiação, como porões, bunkers, cavernas e esgotos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint170</Data></Cell>
+    <Cell><Data ss:Type="String">Hungry? Plant vegetables or hunt animals then cook or grill them using fire pits, campfires, BBQ grills, ovens and microwaves.</Data></Cell>
+    <Cell><Data ss:Type="String">Com fome? Plantar legumes ou caçar animais, em seguida, cozinhe ou grelhe-os usando fogueiras, fogueiras, churrasqueiras, fornos e microondas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint171</Data></Cell>
+    <Cell><Data ss:Type="String">Freezing? Find and use fire pits, campfires, candles, burning barrels and cars to warm up.\nAlternatively stay in shelter inside or underground.</Data></Cell>
+    <Cell><Data ss:Type="String">Congelando? Encontre e use fogueiras, fogueiras, velas, barris em chamas e carros para aquecer. \ Alternativamente, fique em abrigo dentro ou no subsolo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint172</Data></Cell>
+    <Cell><Data ss:Type="String">To light a fire you require a fire starter, such as matches or a lighter.</Data></Cell>
+    <Cell><Data ss:Type="String">Para acender um fogo, você precisa de uma partida de fogo, como fósforos ou um isqueiro.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint173</Data></Cell>
+    <Cell><Data ss:Type="String">Freezing? Power up generators for houses and heat up their inside by powering up ovens, lights and microwaves.</Data></Cell>
+    <Cell><Data ss:Type="String">Congelando? Ligue geradores para casas e aqueça seu interior alimentando fornos, luzes e microondas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint174</Data></Cell>
+    <Cell><Data ss:Type="String">Freezing? Stay inside your base and use propane heaters and other heat sources like purifiers and work lights.</Data></Cell>
+    <Cell><Data ss:Type="String">Congelando? Fique dentro de sua base e use aquecedores de propano e outras fontes de calor, como purificadores e luzes de trabalho.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint175</Data></Cell>
+    <Cell><Data ss:Type="String">Freezing? Find and use heat packs. Stay out of water and rain to keep dry.</Data></Cell>
+    <Cell><Data ss:Type="String">Congelando? Encontre e use pacotes de calor. Fique fora da água e da chuva para se manter seco.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint176</Data></Cell>
+    <Cell><Data ss:Type="String">Sitting next to a campfire will boost your health regen even further.</Data></Cell>
+    <Cell><Data ss:Type="String">Sentar-se ao lado de uma fogueira aumentará ainda mais a sua saúde.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint177</Data></Cell>
+    <Cell><Data ss:Type="String">Overheating? Leave the immediate area of the heat source and go for a swim to cool down.</Data></Cell>
+    <Cell><Data ss:Type="String">Superaquecimento? Deixe a área imediata da fonte de calor e dê um mergulho para esfriar.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint178</Data></Cell>
+    <Cell><Data ss:Type="String">Almost full? Partially consume items to preserve something for later and to avoid overeating.</Data></Cell>
+    <Cell><Data ss:Type="String">Quase cheio? Consumir parcialmente itens para preservar algo para mais tarde e evitar excessos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint179</Data></Cell>
+    <Cell><Data ss:Type="String">When eating or drinking too much you will vomit and lose most of your food.</Data></Cell>
+    <Cell><Data ss:Type="String">Quando comer ou beber demais, você vomitará e perderá a maior parte de sua comida.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint180</Data></Cell>
+    <Cell><Data ss:Type="String">Sirens and church bells announce approaching extreme weather conditions. When you hear them seek shelter.</Data></Cell>
+    <Cell><Data ss:Type="String">Sirenes e sinos da igreja anunciam a aproximação de condições climáticas extremas. Quando você os ouvir procurar abrigo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint181</Data></Cell>
+    <Cell><Data ss:Type="String">While it is snowing a dangerous blizzard may occur and it can be detrimental to your health if you don't seek shelter and warm up.</Data></Cell>
+    <Cell><Data ss:Type="String">Enquanto estiver nevando, uma nevasca perigosa pode ocorrer e pode ser prejudicial à sua saúde se você não procurar abrigo e se aquecer.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint182</Data></Cell>
+    <Cell><Data ss:Type="String">Taking damage from rain? If you see yellow smog then it is acid rain. Equip appropriate gear or seek shelter.</Data></Cell>
+    <Cell><Data ss:Type="String">Tomando dano da chuva? Se você ver a poluição amarela, então é chuva ácida. Equipar equipamento adequado ou procurar abrigo.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint183</Data></Cell>
+    <Cell><Data ss:Type="String">Use water purification tablets to purify dirty water in your refillable containers.</Data></Cell>
+    <Cell><Data ss:Type="String">Use comprimidos de purificação de água para purificar a água suja em seus recipientes recarregáveis.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint184</Data></Cell>
+    <Cell><Data ss:Type="String">Collect water in your base from rain with the water collector.</Data></Cell>
+    <Cell><Data ss:Type="String">Colete água em sua base da chuva com o coletor de água.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint185</Data></Cell>
+    <Cell><Data ss:Type="String">Only finding contaminated water? Purify water in your base with the water purifier.</Data></Cell>
+    <Cell><Data ss:Type="String">Apenas encontrando água contaminada? Purifique a água na sua base com o purificador de água.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint186</Data></Cell>
+    <Cell><Data ss:Type="String">Store water in your base using the water barrels or camping jugs.</Data></Cell>
+    <Cell><Data ss:Type="String">Armazene a água em sua base usando os barris de água ou jarras de acampamento.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint187</Data></Cell>
+    <Cell><Data ss:Type="String">Some doors can be reinforced giving them more health.</Data></Cell>
+    <Cell><Data ss:Type="String">Algumas portas podem ser reforçadas dando-lhes mais saúde.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint188</Data></Cell>
+    <Cell><Data ss:Type="String">Some doors you can pull open. You can also knock on doors before entering.</Data></Cell>
+    <Cell><Data ss:Type="String">Algumas portas você pode abrir. Você também pode bater nas portas antes de entrar.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint189</Data></Cell>
+    <Cell><Data ss:Type="String">Want to play purely against the environment, or alone? Host your own dedicated server.\nVarious settings exist to modify the experience to your preferences.</Data></Cell>
+    <Cell><Data ss:Type="String">Quer jogar puramente contra o meio ambiente, ou sozinho? Hospede seu próprio servidor dedicado. Existem várias configurações para modificar a experiência de acordo com suas preferências.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint190</Data></Cell>
+    <Cell><Data ss:Type="String">Find and visit the hospital to stock up on medical items.</Data></Cell>
+    <Cell><Data ss:Type="String">Encontre e visite o hospital para estocar itens médicos.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint191</Data></Cell>
+    <Cell><Data ss:Type="String">Visit and gain entry to big bunker complexes hidden on the island.\nLoot the iron-sons stashes for high-quality loot.</Data></Cell>
+    <Cell><Data ss:Type="String">Visite e ganhe entrada para grandes complexos de bunker escondidos na ilha. \ NLote os filhos de ferro para obter itens de alta qualidade.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint192</Data></Cell>
+    <Cell><Data ss:Type="String">Use the decontamination showers in the world to rid yourself from radiation effects.</Data></Cell>
+    <Cell><Data ss:Type="String">Use os chuveiros de descontaminação do mundo para se livrar dos efeitos da radiação.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint193</Data></Cell>
+    <Cell><Data ss:Type="String">You can farm different vegetables from the seed in planters, fill them with dirt, water, seeds and fertilizer for ideal growing conditions.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode cultivar vegetais diferentes a partir da semente em plantadores, preenchê-los com sujeira, água, sementes e fertilizantes para condições ideais de crescimento.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint194</Data></Cell>
+    <Cell><Data ss:Type="String">To improve your farming efficiency further you can light your planters at night or heat them just enough to counter snow and cold nights.</Data></Cell>
+    <Cell><Data ss:Type="String">Para melhorar ainda mais a sua eficiência na agricultura, você pode acender seus plantadores à noite ou aquecê-los apenas o suficiente para combater a neve e as noites frias.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint195</Data></Cell>
+    <Cell><Data ss:Type="String">Gather the ripe vegetables from your planters before they rot.</Data></Cell>
+    <Cell><Data ss:Type="String">Reúna os legumes maduros de seus plantadores antes que apodreçam.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint196</Data></Cell>
+    <Cell><Data ss:Type="String">You can use rotten food as fertilizer or some as a seed source.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode usar comida estragada como fertilizante ou outra como fonte de sementes.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint197</Data></Cell>
+    <Cell><Data ss:Type="String">When interacting with objects an icon is displayed: Scroll down to see what's in it.</Data></Cell>
+    <Cell><Data ss:Type="String">Ao interagir com objetos, um ícone é exibido: Role para baixo para ver o que há nele.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">@Hint198</Data></Cell>
+    <Cell><Data ss:Type="String">You can use rotten vegetables and fruits to poison water containers.</Data></Cell>
+    <Cell><Data ss:Type="String">Você pode usar legumes e frutas podres para envenenar recipientes de água.</Data></Cell>
+</Row>
+        </Table>
+        <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+            <PageSetup>
+                <Header x:Margin="0.3"/>
+                <Footer x:Margin="0.3"/>
+                <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+            </PageSetup>
+            <Unsynced/>
+            <Print>
+                <ValidPrinterInfo/>
+                <PaperSizeIndex>9</PaperSizeIndex>
+                <HorizontalResolution>600</HorizontalResolution>
+                <VerticalResolution>600</VerticalResolution>
+            </Print>
+            <Selected/>
+            <TopRowVisible>308</TopRowVisible>
+            <Panes>
+                <Pane>
+                    <Number>3</Number>
+                    <ActiveRow>334</ActiveRow>
+                    <ActiveCol>3</ActiveCol>
+                    <RangeSelection>R335C4:R352C4</RangeSelection>
+                </Pane>
+            </Panes>
+            <ProtectObjects>False</ProtectObjects>
+            <ProtectScenarios>False</ProtectScenarios>
+        </WorksheetOptions>
+    </Worksheet>
+</Workbook>
