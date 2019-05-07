@@ -168,22 +168,22 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint13</Data></Cell>
     <Cell><Data ss:Type="String">The Iron Sons left us crafting guides, you can learn their contents by finding and reading them.\nBe sure to keep an eye out for them or trade them with other survivors.</Data></Cell>
-    <Cell><Data ss:Type="String">Die Eisensöhne haben uns Bastelhelfer hinterlassen, Sie können deren Inhalt lernen, indem Sie sie finden und lesen. \ NSehen Sie auf jeden Fall nach ihnen oder tauschen Sie sie mit anderen Überlebenden aus.</Data></Cell>
+    <Cell><Data ss:Type="String">Die Eisensöhne haben uns Bastelhelfer hinterlassen, Sie können deren Inhalt lernen, indem Sie sie finden und lesen. \n Sehen Sie auf jeden Fall nach ihnen oder tauschen Sie sie mit anderen Überlebenden aus.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint14</Data></Cell>
     <Cell><Data ss:Type="String">If you happen to run out of ammo, you can melee attack with any weapon using %[player:special].</Data></Cell>
-    <Cell><Data ss:Type="String">Wenn Ihnen die Munition ausgeht, können Sie mit% [player: special] mit jeder Waffe Nahkampfangriffe ausführen.</Data></Cell>
+    <Cell><Data ss:Type="String">Wenn Ihnen die Munition ausgeht, können Sie mit %[player:special] mit jeder Waffe Nahkampfangriffe ausführen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint15</Data></Cell>
     <Cell><Data ss:Type="String">No weapons on hand? Try kicking %[player:special2] instead of punching, for greater range and a more powerful attack!</Data></Cell>
-    <Cell><Data ss:Type="String">Keine Waffen zur Hand? Versuchen Sie,% [player: special2] anstelle von Schlägen zu treten, um eine größere Reichweite und einen stärkeren Angriff zu erzielen!</Data></Cell>
+    <Cell><Data ss:Type="String">Keine Waffen zur Hand? Versuchen Sie, %[player:special2] anstelle von Schlägen zu treten, um eine größere Reichweite und einen stärkeren Angriff zu erzielen!</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint16</Data></Cell>
     <Cell><Data ss:Type="String">There is no shortage of wood in what is left of the world.\nStrike your Hatchet against trees to gather logs, which can then be refined into Lumber.</Data></Cell>
-    <Cell><Data ss:Type="String">Es gibt keinen Mangel an Holz in der Welt, die noch übrig ist. \ NZiehen Sie Baumstämme an, um Baumstämme zu sammeln, die dann zu Holz verarbeitet werden können.</Data></Cell>
+    <Cell><Data ss:Type="String">Es gibt keinen Mangel an Holz in der Welt, die noch übrig ist. \n Ziehen Sie Baumstämme an, um Baumstämme zu sammeln, die dann zu Holz verarbeitet werden können.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint17</Data></Cell>
@@ -213,7 +213,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint22</Data></Cell>
     <Cell><Data ss:Type="String">When placing a base part, hold down %[player:allow_rotate] and move the mouse to rotate the object.</Data></Cell>
-    <Cell><Data ss:Type="String">Halten Sie beim Platzieren eines Basisteils% [player: allow_rotate] gedrückt und bewegen Sie die Maus, um das Objekt zu drehen.</Data></Cell>
+    <Cell><Data ss:Type="String">Halten Sie beim Platzieren eines Basisteils %[player:allow_rotate] gedrückt und bewegen Sie die Maus, um das Objekt zu drehen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint23</Data></Cell>
@@ -288,7 +288,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint37</Data></Cell>
     <Cell><Data ss:Type="String">Weapon feels inaccurate? Press and hold %[player:stabilize] to hold your breath and reduce sway.</Data></Cell>
-    <Cell><Data ss:Type="String">Waffe fühlt sich ungenau an? Halten Sie% [Player: Stabilisieren] gedrückt, um den Atem anzuhalten und das Pendeln zu reduzieren.</Data></Cell>
+    <Cell><Data ss:Type="String">Waffe fühlt sich ungenau an? Halten Sie %[player:stabilize] gedrückt, um den Atem anzuhalten und das Pendeln zu reduzieren.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint38</Data></Cell>
@@ -323,47 +323,47 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint44</Data></Cell>
     <Cell><Data ss:Type="String">Crouching with %[player:crouch] makes you quieter, a harder target to hit, and also increases your accuracy.</Data></Cell>
-    <Cell><Data ss:Type="String">Das Hocken mit% [player: crouch] macht Sie ruhiger, ein schwierigeres Ziel und erhöht Ihre Genauigkeit.</Data></Cell>
+    <Cell><Data ss:Type="String">Das Hocken mit %[player:crouch] macht Sie ruhiger, ein schwierigeres Ziel und erhöht Ihre Genauigkeit.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint45</Data></Cell>
     <Cell><Data ss:Type="String">Proning with %[player:prone] lowers your profile a lot making you a harder target to hit, and also increasing your accuracy.</Data></Cell>
-    <Cell><Data ss:Type="String">Durch das Proning mit% [player: anfällig] wird Ihr Profil erheblich verringert, wodurch Sie ein schwierigeres Ziel treffen und Ihre Treffsicherheit erhöhen.</Data></Cell>
+    <Cell><Data ss:Type="String">Durch das Proning mit %[player:prone] wird Ihr Profil erheblich verringert, wodurch Sie ein schwierigeres Ziel treffen und Ihre Treffsicherheit erhöhen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint46</Data></Cell>
     <Cell><Data ss:Type="String">During prone %[player:prone] or %[player:crouch] you can modify your speed and loudness by using the sprint %[player:sprint] or walk %[player:walk] bindings.</Data></Cell>
-    <Cell><Data ss:Type="String">Während der Bauchlage von% [Player: Prone] oder% [Player: Crock] können Sie Ihre Geschwindigkeit und Lautstärke ändern, indem Sie die Sprint-Bindungen% [Player: Sprint] oder Walk [%: Player: Walk] verwenden.</Data></Cell>
+    <Cell><Data ss:Type="String">Während der Bauchlage von %[player:prone] oder %[player:crouch] können Sie Ihre Geschwindigkeit und Lautstärke ändern, indem Sie die Sprint-Bindungen %[player:sprint] oder Walk [%: Player: Walk] verwenden.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint47</Data></Cell>
     <Cell><Data ss:Type="String">During prone %[player:prone] you can perform fast side-rolls by combining it with sprint %[player:sprint] and %[player:moveleft] or %[player:moveright].</Data></Cell>
-    <Cell><Data ss:Type="String">Während der Bauchlage von% [player: anfällig] können Sie schnelle Side-Rolls ausführen, indem Sie% [player: sprint] und% [player: moveleft] oder% [player: moveright] kombinieren.</Data></Cell>
+    <Cell><Data ss:Type="String">Während der Bauchlage von %[player:prone] können Sie schnelle Side-Rolls ausführen, indem Sie %[player:sprint] und %[player:moveleft] oder %[player:moveright] kombinieren.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint48</Data></Cell>
     <Cell><Data ss:Type="String">A 'shoot first, ask questions later' policy might not always be the best option. Use your voice %[default:voice_chat_talk] to talk and group up with other survivors.</Data></Cell>
-    <Cell><Data ss:Type="String">Eine Richtlinie "Zuerst schießen, Fragen stellen" ist möglicherweise nicht immer die beste Option. Verwenden Sie Ihre Stimme% [default: voice_chat_talk], um sich mit anderen Überlebenden zu unterhalten.</Data></Cell>
+    <Cell><Data ss:Type="String">Eine Richtlinie "Zuerst schießen, Fragen stellen" ist möglicherweise nicht immer die beste Option. Verwenden Sie Ihre Stimme %[default:voice_chat_talk], um sich mit anderen Überlebenden zu unterhalten.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint49</Data></Cell>
     <Cell><Data ss:Type="String">Double-tapping the voice key %[default:voice_chat_talk] will change your voice mode. The two available modes are push-to-talk and voice-activated.</Data></Cell>
-    <Cell><Data ss:Type="String">Durch Doppelklicken auf die Sprach-Taste% [default: voice_chat_talk] wird der Sprachmodus geändert. Die zwei verfügbaren Modi sind Push-to-Talk und sprachaktiviert.</Data></Cell>
+    <Cell><Data ss:Type="String">Durch Doppelklicken auf die Sprach-Taste %[default:voice_chat_talk] wird der Sprachmodus geändert. Die zwei verfügbaren Modi sind Push-to-Talk und sprachaktiviert.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint50</Data></Cell>
     <Cell><Data ss:Type="String">Speak to other survivors using %[default:voice_chat_talk] to determine if they are friendly or hostile.</Data></Cell>
-    <Cell><Data ss:Type="String">Sprich mit anderen Überlebenden mit% [default: voice_chat_talk], um festzustellen, ob sie freundlich oder feindlich sind.</Data></Cell>
+    <Cell><Data ss:Type="String">Sprich mit anderen Überlebenden mit %[default:voice_chat_talk], um festzustellen, ob sie freundlich oder feindlich sind.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint51</Data></Cell>
     <Cell><Data ss:Type="String">You can switch which shoulder the camera is over by pressing %[player:switchshoulder].</Data></Cell>
-    <Cell><Data ss:Type="String">Sie können die Schulter über der Kamera wechseln, indem Sie% [Player: Switchshoulder] drücken.</Data></Cell>
+    <Cell><Data ss:Type="String">Sie können die Schulter über der Kamera wechseln, indem Sie %[player:switchshoulder] drücken.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint52</Data></Cell>
     <Cell><Data ss:Type="String">You can walk slowly and make less noise when moving around by using %[player:walk].</Data></Cell>
-    <Cell><Data ss:Type="String">Mit% [player: walk] können Sie langsam gehen und weniger Geräusche machen, wenn Sie sich bewegen.</Data></Cell>
+    <Cell><Data ss:Type="String">Mit %[player:walk] können Sie langsam gehen und weniger Geräusche machen, wenn Sie sich bewegen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint53</Data></Cell>
@@ -428,7 +428,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint65</Data></Cell>
     <Cell><Data ss:Type="String">If you hear a mutant or survivor, chances are they're coming for you, so watch your back!\nYou can also freelook using %[player:allow_rotate].</Data></Cell>
-    <Cell><Data ss:Type="String">Wenn Sie einen Mutanten oder einen Überlebenden hören, besteht die Chance, dass sie auf Sie warten, also passen Sie auf Ihren Rücken! \ NSie können auch mit% [player: allow_rotate] freelooken.</Data></Cell>
+    <Cell><Data ss:Type="String">Wenn Sie einen Mutanten oder einen Überlebenden hören, besteht die Chance, dass sie auf Sie warten, also passen Sie auf Ihren Rücken! \n Sie können auch mit %[player:allow_rotate] freelooken.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint66</Data></Cell>
@@ -518,7 +518,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint83</Data></Cell>
     <Cell><Data ss:Type="String">You can sit down by using %[player:sit] when you are not holding an item.</Data></Cell>
-    <Cell><Data ss:Type="String">Sie können sich mit% [player: sit] setzen, wenn Sie keinen Gegenstand halten.</Data></Cell>
+    <Cell><Data ss:Type="String">Sie können sich mit %[player:sit] setzen, wenn Sie keinen Gegenstand halten.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint84</Data></Cell>
@@ -538,52 +538,52 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint87</Data></Cell>
     <Cell><Data ss:Type="String">Raise your weapon or fists by using %[player:tactical], this will slow you down while running, but not while sprinting.</Data></Cell>
-    <Cell><Data ss:Type="String">Erhöhen Sie Ihre Waffe oder Ihre Fäuste mit% [player: tactical], dies wird Sie beim Laufen verlangsamen, nicht aber beim Sprint.</Data></Cell>
+    <Cell><Data ss:Type="String">Erhöhen Sie Ihre Waffe oder Ihre Fäuste mit %[player:tactical], dies wird Sie beim Laufen verlangsamen, nicht aber beim Sprint.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint88</Data></Cell>
     <Cell><Data ss:Type="String">Quickly go to ironsight when your weapon isn't raised yet by using a single tap to %[player:attack1] followed by %[player:zoom].</Data></Cell>
-    <Cell><Data ss:Type="String">Gehen Sie schnell zum Dämmerlicht über, wenn Ihre Waffe noch nicht angehoben ist, indem Sie% [player: attack1] und dann% [player: zoom] einmal antippen.</Data></Cell>
+    <Cell><Data ss:Type="String">Gehen Sie schnell zum Dämmerlicht über, wenn Ihre Waffe noch nicht angehoben ist, indem Sie %[player:attack1] und dann %[player:zoom] einmal antippen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint89</Data></Cell>
     <Cell><Data ss:Type="String">You can focus zoom at any time, with any item in hand, by using %[player:zoom].</Data></Cell>
-    <Cell><Data ss:Type="String">Sie können den Zoom jederzeit mit jedem Element in der Hand fokussieren, indem Sie% [player: zoom] verwenden.</Data></Cell>
+    <Cell><Data ss:Type="String">Sie können den Zoom jederzeit mit jedem Element in der Hand fokussieren, indem Sie %[player:zoom] verwenden.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint90</Data></Cell>
     <Cell><Data ss:Type="String">You can surrender to survivors by using %[default:emotep_handsup] and putting your weapon away.</Data></Cell>
-    <Cell><Data ss:Type="String">Sie können sich Überlebenden ergeben, indem Sie% [default: emotep_handsup] verwenden und Ihre Waffe ablegen.</Data></Cell>
+    <Cell><Data ss:Type="String">Sie können sich Überlebenden ergeben, indem Sie %[default:emotep_handsup] verwenden und Ihre Waffe ablegen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint91</Data></Cell>
     <Cell><Data ss:Type="String">Greet other survivors by waving using %[default:emote_wave].</Data></Cell>
-    <Cell><Data ss:Type="String">Begrüßen Sie andere Überlebende, indem Sie mit% [default: emote_wave] winken.</Data></Cell>
+    <Cell><Data ss:Type="String">Begrüßen Sie andere Überlebende, indem Sie mit %[default:emote_wave] winken.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint92</Data></Cell>
     <Cell><Data ss:Type="String">Warn other survivors to approach by indicating to them to stop using %[default:emote_stop].</Data></Cell>
-    <Cell><Data ss:Type="String">Warnen Sie andere Überlebende, sich zu nähern, indem Sie ihnen mitteilen, dass sie% [default: emote_stop] nicht mehr verwenden sollen.</Data></Cell>
+    <Cell><Data ss:Type="String">Warnen Sie andere Überlebende, sich zu nähern, indem Sie ihnen mitteilen, dass sie %[default:emote_stop] nicht mehr verwenden sollen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint93</Data></Cell>
     <Cell><Data ss:Type="String">Invite survivors to approach by using %[default:emote_comehere].</Data></Cell>
-    <Cell><Data ss:Type="String">Laden Sie Überlebende ein, sich mit% [default: emote_comehere] zu nähern.</Data></Cell>
+    <Cell><Data ss:Type="String">Laden Sie Überlebende ein, sich mit %[default:emote_comehere] zu nähern.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint94</Data></Cell>
     <Cell><Data ss:Type="String">Warn survivors to be silent by using %[default:emote_shhh].</Data></Cell>
-    <Cell><Data ss:Type="String">Überwachen Sie Überlebende, indem Sie% [default: emote_shhh] verwenden.</Data></Cell>
+    <Cell><Data ss:Type="String">Überwachen Sie Überlebende, indem Sie %[default:emote_shhh] verwenden.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint95</Data></Cell>
     <Cell><Data ss:Type="String">Give other survivors directions by using %[default:emote_pointfinger].</Data></Cell>
-    <Cell><Data ss:Type="String">Geben Sie anderen Überlebenden Anweisungen, indem Sie% [default: emote_pointfinger] verwenden.</Data></Cell>
+    <Cell><Data ss:Type="String">Geben Sie anderen Überlebenden Anweisungen, indem Sie %[default:emote_pointfinger] verwenden.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint96</Data></Cell>
     <Cell><Data ss:Type="String">Increase the range of bows and throwing items by holding %[player:attack1] for about a second before releasing.</Data></Cell>
-    <Cell><Data ss:Type="String">Erhöhen Sie die Reichweite der Bögen und werfen Sie Gegenstände, indem Sie% [player: attack1] etwa eine Sekunde lang halten, bevor Sie loslassen.</Data></Cell>
+    <Cell><Data ss:Type="String">Erhöhen Sie die Reichweite der Bögen und werfen Sie Gegenstände, indem Sie %[player:attack1] etwa eine Sekunde lang halten, bevor Sie loslassen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint97</Data></Cell>
@@ -593,17 +593,17 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint98</Data></Cell>
     <Cell><Data ss:Type="String">Rest up and give your wounds time to heal. Sitting down %[player:sit] will heal your wounds faster.</Data></Cell>
-    <Cell><Data ss:Type="String">Ruhen Sie sich aus und geben Sie Ihren Wunden Zeit, um zu heilen. Wenn Sie% [player: sit] hinsetzen, werden Ihre Wunden schneller geheilt.</Data></Cell>
+    <Cell><Data ss:Type="String">Ruhen Sie sich aus und geben Sie Ihren Wunden Zeit, um zu heilen. Wenn Sie %[player:sit] hinsetzen, werden Ihre Wunden schneller geheilt.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint99</Data></Cell>
     <Cell><Data ss:Type="String">You can reload by using %[player:reload] if you have ammo in your pockets (not your backpack).\nOr by dragging the ammo into your weapon through the inventory %[default:ui_show_inventory].</Data></Cell>
-    <Cell><Data ss:Type="String">Sie können mit% [player: reload] nachladen, wenn Sie Munition in Ihren Taschen haben (nicht in Ihrem Rucksack). \ NOder durch Ziehen der Munition durch das Inventar% [default: ui_show_inventory].</Data></Cell>
+    <Cell><Data ss:Type="String">Sie können mit %[player:reload] nachladen, wenn Sie Munition in Ihren Taschen haben (nicht in Ihrem Rucksack). \n Oder durch Ziehen der Munition durch das Inventar %[default:ui_show_inventory].</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint100</Data></Cell>
     <Cell><Data ss:Type="String">You can look into an object's inventory by using %[default:ui_show_inventory] while looking at it.</Data></Cell>
-    <Cell><Data ss:Type="String">Sie können das Inventar eines Objekts anzeigen, indem Sie% [default: ui_show_inventory] verwenden, während Sie es betrachten.</Data></Cell>
+    <Cell><Data ss:Type="String">Sie können das Inventar eines Objekts anzeigen, indem Sie %[default:ui_show_inventory] verwenden, während Sie es betrachten.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint101</Data></Cell>
@@ -613,17 +613,17 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint102</Data></Cell>
     <Cell><Data ss:Type="String">When you have been captured you can try to break free by alternating between %[player:leanleft] and %[player:leanright] for about 5 minutes. Or by getting a friendly survivor to free you.</Data></Cell>
-    <Cell><Data ss:Type="String">Wenn Sie gefangen genommen wurden, können Sie versuchen, sich zu befreien, indem Sie ungefähr 5 Minuten lang zwischen% [player: leanleft] und% [player: leanright] wechseln. Oder indem Sie einen freundlichen Überlebenden bekommen, der Sie befreit.</Data></Cell>
+    <Cell><Data ss:Type="String">Wenn Sie gefangen genommen wurden, können Sie versuchen, sich zu befreien, indem Sie ungefähr 5 Minuten lang zwischen %[player:leanleft] und %[player:leanright] wechseln. Oder indem Sie einen freundlichen Überlebenden bekommen, der Sie befreit.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint103</Data></Cell>
     <Cell><Data ss:Type="String">When your inventory is full you can still directly consume items in the world by using %[player:mwheel_down].</Data></Cell>
-    <Cell><Data ss:Type="String">Wenn Ihr Inventar voll ist, können Sie mit% [player: mwheel_down] noch direkt Gegenstände auf der Welt verbrauchen.</Data></Cell>
+    <Cell><Data ss:Type="String">Wenn Ihr Inventar voll ist, können Sie mit %[player:mwheel_down] noch direkt Gegenstände auf der Welt verbrauchen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint104</Data></Cell>
     <Cell><Data ss:Type="String">Some weapons have multiple fire modes. Press %[player:firemode] to switch between these modes.</Data></Cell>
-    <Cell><Data ss:Type="String">Einige Waffen haben mehrere Feuermodi. Drücken Sie% [Player: Firemode], um zwischen diesen Modi zu wechseln.</Data></Cell>
+    <Cell><Data ss:Type="String">Einige Waffen haben mehrere Feuermodi. Drücken Sie %[player:firemode], um zwischen diesen Modi zu wechseln.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint105</Data></Cell>
@@ -643,17 +643,17 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint108</Data></Cell>
     <Cell><Data ss:Type="String">You can turn vehicle lights on and off with %[vehicle_driver:v_lights].</Data></Cell>
-    <Cell><Data ss:Type="String">Mit% [vehicle_driver: v_lights] können Sie die Fahrzeugbeleuchtung ein- und ausschalten.</Data></Cell>
+    <Cell><Data ss:Type="String">Mit %[vehicle_driver:v_lights] können Sie die Fahrzeugbeleuchtung ein- und ausschalten.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint109</Data></Cell>
     <Cell><Data ss:Type="String">Toot the vehicle's horn with %[vehicle_driver:v_horn].</Data></Cell>
-    <Cell><Data ss:Type="String">Hupen Sie das Fahrzeug mit% [vehicle_driver: v_horn].</Data></Cell>
+    <Cell><Data ss:Type="String">Hupen Sie das Fahrzeug mit %[vehicle_driver:v_horn].</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint110</Data></Cell>
     <Cell><Data ss:Type="String">Start a fully equipped vehicle with %[vehicle_driver:v_start]. You need to have all the required parts in the vehicle's inventory for the engine to start!</Data></Cell>
-    <Cell><Data ss:Type="String">Starten Sie ein voll ausgestattetes Fahrzeug mit% [vehicle_driver: v_start]. Sie müssen alle erforderlichen Teile im Fahrzeugbestand haben, damit der Motor starten kann!</Data></Cell>
+    <Cell><Data ss:Type="String">Starten Sie ein voll ausgestattetes Fahrzeug mit %[vehicle_driver:v_start]. Sie müssen alle erforderlichen Teile im Fahrzeugbestand haben, damit der Motor starten kann!</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint111</Data></Cell>
@@ -663,12 +663,12 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint112</Data></Cell>
     <Cell><Data ss:Type="String">The Survivotron VI isn't just another radio, it includes a geiger counter, clock, thermometer, compass and GPS for orienteering which can be switched to using %[player:firemode].</Data></Cell>
-    <Cell><Data ss:Type="String">Das Survivotron VI ist nicht nur ein weiteres Radio, sondern umfasst einen Geigerzähler, eine Uhr, ein Thermometer, einen Kompass und ein GPS zum Orientieren, das mit% [player: firemode] umgeschaltet werden kann.</Data></Cell>
+    <Cell><Data ss:Type="String">Das Survivotron VI ist nicht nur ein weiteres Radio, sondern umfasst einen Geigerzähler, eine Uhr, ein Thermometer, einen Kompass und ein GPS zum Orientieren, das mit %[player:firemode] umgeschaltet werden kann.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint113</Data></Cell>
     <Cell><Data ss:Type="String">The Survivotron radio supports multiple channels and frequency bands, press %[default:radio_chup] for channel up, %[default:radio_chdn] for channel down and %[default:radio_band] to switch band.</Data></Cell>
-    <Cell><Data ss:Type="String">Das Survivotron-Funkgerät unterstützt mehrere Kanäle und Frequenzbereiche. Drücken Sie% [Standard: Radio_chup] für Kanal auf,% [Standard: Radio_chdn] für Kanal ab und% [Standard: Radio_band], um das Band zu wechseln.</Data></Cell>
+    <Cell><Data ss:Type="String">Das Survivotron-Funkgerät unterstützt mehrere Kanäle und Frequenzbereiche. Drücken Sie %[default:radio_chup] für Kanal auf, %[default:radio_chdn] für Kanal ab und %[default:radio_band], um das Band zu wechseln.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint114</Data></Cell>
@@ -683,12 +683,12 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint116</Data></Cell>
     <Cell><Data ss:Type="String">When picking up items, you can either scroll the mouse wheel to open the context menu, or just press %[player:use].</Data></Cell>
-    <Cell><Data ss:Type="String">Beim Aufnehmen von Elementen können Sie entweder mit dem Mausrad blättern, um das Kontextmenü zu öffnen, oder einfach% [Player: Use] drücken.</Data></Cell>
+    <Cell><Data ss:Type="String">Beim Aufnehmen von Elementen können Sie entweder mit dem Mausrad blättern, um das Kontextmenü zu öffnen, oder einfach %[player:use] drücken.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint117</Data></Cell>
     <Cell><Data ss:Type="String">As a survivor on Orca Island, you start with your bare hands %[player:primary], a flashlight %[player:secondary] and some stylish clothes.</Data></Cell>
-    <Cell><Data ss:Type="String">Als Überlebender auf Orca Island fangen Sie mit Ihren bloßen Händen% [player: primary], einer Taschenlampe% [player: second] und einigen stilvollen Klamotten an.</Data></Cell>
+    <Cell><Data ss:Type="String">Als Überlebender auf Orca Island fangen Sie mit Ihren bloßen Händen %[player:primary], einer Taschenlampe %[player:secondary] und einigen stilvollen Klamotten an.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint118</Data></Cell>
@@ -708,7 +708,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint121</Data></Cell>
     <Cell><Data ss:Type="String">Weapon accessories can be triggered faster by the bindings, lights %[player:accessory2], lasers %[player:accessory1] and headgear %[player:accessory3].</Data></Cell>
-    <Cell><Data ss:Type="String">Waffenzubehör kann durch die Bindungen, Lichter% [Player: Zubehör2], Laser% [Player: Zubehör1] und Kopfbedeckungen% [Player: Zubehör3] schneller ausgelöst werden.</Data></Cell>
+    <Cell><Data ss:Type="String">Waffenzubehör kann durch die Bindungen, Lichter %[player:accessory2], Laser %[player:accessory1] und Kopfbedeckungen %[player:accessory3] schneller ausgelöst werden.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint122</Data></Cell>
@@ -733,7 +733,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint126</Data></Cell>
     <Cell><Data ss:Type="String">To relax your fingers use the toggle keys for sprinting forward %[player:sprintforward_toggle] and aiming down sights %[player:zoom_toggle].</Data></Cell>
-    <Cell><Data ss:Type="String">Um Ihre Finger zu entspannen, verwenden Sie die Umschalttasten, um% [player: sprintforward_toggle] vorwärts zu springen und die Ziele% [player: zoom_toggle] nach unten zu richten.</Data></Cell>
+    <Cell><Data ss:Type="String">Um Ihre Finger zu entspannen, verwenden Sie die Umschalttasten, um %[player:sprintforward_toggle] vorwärts zu springen und die Ziele %[player:zoom_toggle] nach unten zu richten.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint127</Data></Cell>
@@ -753,7 +753,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint130</Data></Cell>
     <Cell><Data ss:Type="String">To subdue survivors you can choose non-lethal options such as incapacitation and knocking them out.\nRelevant items include: Handcuffs, ropes, duct-tape, tranq-rifle and stun-baton</Data></Cell>
-    <Cell><Data ss:Type="String">Um Überlebende zu unterwerfen, können Sie nicht-tödliche Optionen wählen, z. B. die Außerbetriebnahme und das Ausschalten. \ NWichtige Gegenstände sind: Handschellen, Seile, Klebeband, Tranq-Gewehr und Betäubungsstock</Data></Cell>
+    <Cell><Data ss:Type="String">Um Überlebende zu unterwerfen, können Sie nicht-tödliche Optionen wählen, z. B. die Außerbetriebnahme und das Ausschalten. \n Wichtige Gegenstände sind: Handschellen, Seile, Klebeband, Tranq-Gewehr und Betäubungsstock</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint131</Data></Cell>
@@ -768,17 +768,17 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint133</Data></Cell>
     <Cell><Data ss:Type="String">You can switch between first person and third person view by pressing %[player:thirdperson].</Data></Cell>
-    <Cell><Data ss:Type="String">Sie können zwischen der Ansicht der ersten und der dritten Person wechseln, indem Sie% [Spieler: Dritter] drücken.</Data></Cell>
+    <Cell><Data ss:Type="String">Sie können zwischen der Ansicht der ersten und der dritten Person wechseln, indem Sie %[player:thirdperson] drücken.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint134</Data></Cell>
     <Cell><Data ss:Type="String">You can cancel a charged throw or bow shot by pressing %[player:reload].</Data></Cell>
-    <Cell><Data ss:Type="String">Sie können einen aufgeladenen Wurf- oder Bogenschuss abbrechen, indem Sie% [player: reload] drücken.</Data></Cell>
+    <Cell><Data ss:Type="String">Sie können einen aufgeladenen Wurf- oder Bogenschuss abbrechen, indem Sie %[player:reload] drücken.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint135</Data></Cell>
     <Cell><Data ss:Type="String">Show or hide the HUD with %[default:ui_toggle_hud].</Data></Cell>
-    <Cell><Data ss:Type="String">HUD anzeigen oder ausblenden mit% [default: ui_toggle_hud].</Data></Cell>
+    <Cell><Data ss:Type="String">HUD anzeigen oder ausblenden mit %[default:ui_toggle_hud].</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint136</Data></Cell>
@@ -933,12 +933,12 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint166</Data></Cell>
     <Cell><Data ss:Type="String">Inspect consumables and fluid sources to find out about their negative effects.\n(Only with Suviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
-    <Cell><Data ss:Type="String">Untersuchen Sie Verbrauchsmaterialien und Flüssigkeitsquellen, um deren negative Auswirkungen herauszufinden. \ N (Nur wenn der Geigerzähler von Suviotron eingeschaltet ist, ist die Strahlung in ihnen erkennbar)</Data></Cell>
+    <Cell><Data ss:Type="String">Untersuchen Sie Verbrauchsmaterialien und Flüssigkeitsquellen, um deren negative Auswirkungen herauszufinden. \n  (Nur wenn der Geigerzähler von Suviotron eingeschaltet ist, ist die Strahlung in ihnen erkennbar)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint167</Data></Cell>
     <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Suviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
-    <Cell><Data ss:Type="String">Eine Alternative zur Inspektion von Verbrauchsmaterialien ist der Inventar-Tooltip, der weitere Details enthält. \ N (Nur wenn der Geigerzähler von Suviotron eingeschaltet ist, ist die Strahlung in ihnen erkennbar)</Data></Cell>
+    <Cell><Data ss:Type="String">Eine Alternative zur Inspektion von Verbrauchsmaterialien ist der Inventar-Tooltip, der weitere Details enthält. \n  (Nur wenn der Geigerzähler von Suviotron eingeschaltet ist, ist die Strahlung in ihnen erkennbar)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint168</Data></Cell>
@@ -1048,7 +1048,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint189</Data></Cell>
     <Cell><Data ss:Type="String">Want to play purely against the environment, or alone? Host your own dedicated server.\nVarious settings exist to modify the experience to your preferences.</Data></Cell>
-    <Cell><Data ss:Type="String">Wollen Sie rein gegen die Umwelt spielen oder alleine? Hosten Sie Ihren eigenen dedizierten Server. \ NVerschiedene Einstellungen sind vorhanden, um die Benutzererfahrung an Ihre Vorlieben anzupassen.</Data></Cell>
+    <Cell><Data ss:Type="String">Wollen Sie rein gegen die Umwelt spielen oder alleine? Hosten Sie Ihren eigenen dedizierten Server. \n Verschiedene Einstellungen sind vorhanden, um die Benutzererfahrung an Ihre Vorlieben anzupassen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint190</Data></Cell>
@@ -1058,7 +1058,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint191</Data></Cell>
     <Cell><Data ss:Type="String">Visit and gain entry to big bunker complexes hidden on the island.\nLoot the iron-sons stashes for high-quality loot.</Data></Cell>
-    <Cell><Data ss:Type="String">Besuchen Sie die großen Bunkerkomplexe, die auf der Insel versteckt sind, und erhalten Sie Zutritt. \ NBenötigen Sie die Eisen-Söhne für hochwertige Beute.</Data></Cell>
+    <Cell><Data ss:Type="String">Besuchen Sie die großen Bunkerkomplexe, die auf der Insel versteckt sind, und erhalten Sie Zutritt. \n Benötigen Sie die Eisen-Söhne für hochwertige Beute.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint192</Data></Cell>
