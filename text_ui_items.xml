@@ -17,7 +17,7 @@
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <WindowHeight>12030</WindowHeight>
-  <WindowWidth>21885</WindowWidth>
+  <WindowWidth>29655</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
@@ -91,7 +91,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3466" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3470" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
    <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -384,6 +384,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">AdvancedBandageDescription</Data></Cell>
     <Cell><Data ss:Type="String">Covers wounds with an alcohol-soaked bandage so you heal faster</Data></Cell>
     <Cell><Data ss:Type="String">Covers wounds with an alcohol-soaked bandage so you heal faster</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AirDropCrate</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Amalgaduino</Data></Cell>
@@ -5954,6 +5959,21 @@
     <Cell ss:Index="2"><Data ss:Type="String">HuntingScopeDescription</Data></Cell>
     <Cell><Data ss:Type="String">A hunting scope with powerful zoom capabilities.</Data></Cell>
     <Cell><Data ss:Type="String">A hunting scope with powerful zoom capabilities.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOre</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOreDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore used in various crafting recipes</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore used in various crafting recipes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOreSmeltInFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">IronIngot</Data></Cell>
@@ -17440,12 +17460,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>2625</TopRowVisible>
+   <TopRowVisible>45</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2652</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>59</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

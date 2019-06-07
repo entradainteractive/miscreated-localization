@@ -9,7 +9,7 @@
   <Author>Shin</Author>
   <LastAuthor>tevans</LastAuthor>
   <Created>2016-03-04T12:39:08Z</Created>
-  <LastSaved>2019-05-04T13:27:39Z</LastSaved>
+  <LastSaved>2019-06-06T14:01:24Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -17,7 +17,7 @@
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <WindowHeight>12030</WindowHeight>
-  <WindowWidth>21885</WindowWidth>
+  <WindowWidth>29655</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
@@ -91,7 +91,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="624" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="689" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
    <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75"/>
@@ -2693,6 +2693,11 @@
     <Cell><Data ss:Type="String">Restarting in about one minute. Exit now.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">restarting_x_minutes</Data></Cell>
+    <Cell><Data ss:Type="String">Restarting in %1 minutes.</Data></Cell>
+    <Cell><Data ss:Type="String">Restarting in %1 minutes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_name</Data></Cell>
     <Cell><Data ss:Type="String">Clan Name:</Data></Cell>
     <Cell><Data ss:Type="String">Clan Name:</Data></Cell>
@@ -3217,6 +3222,326 @@
     <Cell><Data ss:Type="String">To upgrade this part you need:</Data></Cell>
     <Cell><Data ss:Type="String">To upgrade this part you need:</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_wood</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Wood</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Wood</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_wood_failed</Data></Cell>
+    <Cell><Data ss:Type="String">No usable wood left</Data></Cell>
+    <Cell><Data ss:Type="String">No usable wood left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_scrap_metal</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Scrap Metal</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Scrap Metal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_scrap_metal_failed</Data></Cell>
+    <Cell><Data ss:Type="String">No usable scrap metal left</Data></Cell>
+    <Cell><Data ss:Type="String">No usable scrap metal left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_rock</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Rock</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Rock</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_rock_failed</Data></Cell>
+    <Cell><Data ss:Type="String">No usable rock left</Data></Cell>
+    <Cell><Data ss:Type="String">No usable rock left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_iron</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Iron</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Iron</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_iron_failed</Data></Cell>
+    <Cell><Data ss:Type="String">No usable iron left</Data></Cell>
+    <Cell><Data ss:Type="String">No usable iron left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_coal</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Coal</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Coal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_coal_failed</Data></Cell>
+    <Cell><Data ss:Type="String">No usable coal left</Data></Cell>
+    <Cell><Data ss:Type="String">No usable coal left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_pyrite</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Pyrite</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Pyrite</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_pyrite_failed</Data></Cell>
+    <Cell><Data ss:Type="String">No usable pyrite left</Data></Cell>
+    <Cell><Data ss:Type="String">No usable pyrite left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_dirty_water</Data></Cell>
+    <Cell><Data ss:Type="String">Drink Dirty Water</Data></Cell>
+    <Cell><Data ss:Type="String">Drink Dirty Water</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_water_contaminated</Data></Cell>
+    <Cell><Data ss:Type="String">Water is too contaminated</Data></Cell>
+    <Cell><Data ss:Type="String">Water is too contaminated</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_water_empty</Data></Cell>
+    <Cell><Data ss:Type="String">Not enough water left</Data></Cell>
+    <Cell><Data ss:Type="String">Not enough water left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_clean_water</Data></Cell>
+    <Cell><Data ss:Type="String">Drink Clean Water</Data></Cell>
+    <Cell><Data ss:Type="String">Drink Clean Water</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_sea_water</Data></Cell>
+    <Cell><Data ss:Type="String">Drink Sea Water</Data></Cell>
+    <Cell><Data ss:Type="String">Drink Sea Water</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_from_toilet</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Toilet</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Toilet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_from_hydrant</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Hyrdrant</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Hyrdrant</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_from_pump</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Pump</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Pump</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">grab_arm</Data></Cell>
+    <Cell><Data ss:Type="String">Grab Arm</Data></Cell>
+    <Cell><Data ss:Type="String">Grab Arm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">grab_arm_failed</Data></Cell>
+    <Cell><Data ss:Type="String">This one is broken</Data></Cell>
+    <Cell><Data ss:Type="String">This one is broken</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_from_container</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Container</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Container</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_from_dispenser</Data></Cell>
+    <Cell><Data ss:Type="String">Drink from Dispenser</Data></Cell>
+    <Cell><Data ss:Type="String">Drink from Dispenser</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">siphon_fuel</Data></Cell>
+    <Cell><Data ss:Type="String">Siphon Fuel</Data></Cell>
+    <Cell><Data ss:Type="String">Siphon Fuel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">siphon_fuel_failed</Data></Cell>
+    <Cell><Data ss:Type="String">No fuel left</Data></Cell>
+    <Cell><Data ss:Type="String">No fuel left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">drink_from_valve</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Valve</Data></Cell>
+    <Cell><Data ss:Type="String">Drink From Valve</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_bush</Data></Cell>
+    <Cell><Data ss:Type="String">Search Bush</Data></Cell>
+    <Cell><Data ss:Type="String">Search Bush</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">nothing_was_found</Data></Cell>
+    <Cell><Data ss:Type="String">Nothing was found</Data></Cell>
+    <Cell><Data ss:Type="String">Nothing was found</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_vending_machine</Data></Cell>
+    <Cell><Data ss:Type="String">Search Vending Machine</Data></Cell>
+    <Cell><Data ss:Type="String">Search Vending Machine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">salvage_electronics</Data></Cell>
+    <Cell><Data ss:Type="String">Salvage Electronics</Data></Cell>
+    <Cell><Data ss:Type="String">Salvage Electronics</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">salvage_failed</Data></Cell>
+    <Cell><Data ss:Type="String">Nothing was left to salvage</Data></Cell>
+    <Cell><Data ss:Type="String">Nothing was left to salvage</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_amcoins</Data></Cell>
+    <Cell><Data ss:Type="String">Search For amCoins</Data></Cell>
+    <Cell><Data ss:Type="String">Search For amCoins</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_hiding_spot</Data></Cell>
+    <Cell><Data ss:Type="String">Search Hiding Spot</Data></Cell>
+    <Cell><Data ss:Type="String">Search Hiding Spot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">collect_seeds</Data></Cell>
+    <Cell><Data ss:Type="String">Collect Seeds</Data></Cell>
+    <Cell><Data ss:Type="String">Collect Seeds</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_wheel</Data></Cell>
+    <Cell><Data ss:Type="String">Search For A Usable Wheel</Data></Cell>
+    <Cell><Data ss:Type="String">Search For A Usable Wheel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">salvage_rope</Data></Cell>
+    <Cell><Data ss:Type="String">Salvage Rope</Data></Cell>
+    <Cell><Data ss:Type="String">Salvage Rope</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">salvage_tools</Data></Cell>
+    <Cell><Data ss:Type="String">Salvage Tools</Data></Cell>
+    <Cell><Data ss:Type="String">Salvage Tools</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_rocks</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Rocks</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Rocks</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_wood</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Wood</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Wood</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">nothing_usable_was_found</Data></Cell>
+    <Cell><Data ss:Type="String">Nothing usable was found</Data></Cell>
+    <Cell><Data ss:Type="String">Nothing usable was found</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">tear_off_lumber</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Lumber</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Lumber</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">tear_off_rags</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Rags</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Rags</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">tear_off_barbed_wire</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Barbed Wire</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Barbed Wire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">tear_off_tarp</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Trap</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Trap</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_sandbags</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Sandbags</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Sandbags</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_trash</Data></Cell>
+    <Cell><Data ss:Type="String">Search Trash</Data></Cell>
+    <Cell><Data ss:Type="String">Search Trash</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_box</Data></Cell>
+    <Cell><Data ss:Type="String">Search Box</Data></Cell>
+    <Cell><Data ss:Type="String">Search Box</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_locker</Data></Cell>
+    <Cell><Data ss:Type="String">Search Locker</Data></Cell>
+    <Cell><Data ss:Type="String">Search Locker</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search</Data></Cell>
+    <Cell><Data ss:Type="String">Search</Data></Cell>
+    <Cell><Data ss:Type="String">Search</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_desk</Data></Cell>
+    <Cell><Data ss:Type="String">Search Desk</Data></Cell>
+    <Cell><Data ss:Type="String">Search Desk</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_medical_supplies</Data></Cell>
+    <Cell><Data ss:Type="String">Search Medical Supplies</Data></Cell>
+    <Cell><Data ss:Type="String">Search Medical Supplies</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_food</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Food</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Food</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_clothes</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Clothes</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Clothes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">get_map</Data></Cell>
+    <Cell><Data ss:Type="String">Get Map</Data></Cell>
+    <Cell><Data ss:Type="String">Get Map</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_foot_locker</Data></Cell>
+    <Cell><Data ss:Type="String">Search Foot Locker</Data></Cell>
+    <Cell><Data ss:Type="String">Search Foot Locker</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_iron_sons_cache</Data></Cell>
+    <Cell><Data ss:Type="String">Search Iron Sons' Cache</Data></Cell>
+    <Cell><Data ss:Type="String">Search Iron Sons' Cache</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_beehive</Data></Cell>
+    <Cell><Data ss:Type="String">Search Beehive</Data></Cell>
+    <Cell><Data ss:Type="String">Search Beehive</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_junk</Data></Cell>
+    <Cell><Data ss:Type="String">Search Junk</Data></Cell>
+    <Cell><Data ss:Type="String">Search Junk</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">search_cranny</Data></Cell>
+    <Cell><Data ss:Type="String">Search Cranny</Data></Cell>
+    <Cell><Data ss:Type="String">Search Cranny</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pick_berries</Data></Cell>
+    <Cell><Data ss:Type="String">Pick Berries</Data></Cell>
+    <Cell><Data ss:Type="String">Pick Berries</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pick_apples</Data></Cell>
+    <Cell><Data ss:Type="String">Pick Apples</Data></Cell>
+    <Cell><Data ss:Type="String">Pick Apples</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_seaweed</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Seaweed</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Seaweed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">harvest_clams</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Clams</Data></Cell>
+    <Cell><Data ss:Type="String">Harvest Clams</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -3232,12 +3557,13 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>602</TopRowVisible>
+   <TopRowVisible>610</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>624</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>625</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+     <RangeSelection>R626C4:R689C4</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

@@ -16,8 +16,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>15000</WindowHeight>
-  <WindowWidth>24390</WindowWidth>
+  <WindowHeight>12030</WindowHeight>
+  <WindowWidth>21885</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
@@ -90,6 +90,7 @@
   </Style>
   <Style ss:ID="s69" ss:Parent="s62">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Interior/>
   </Style>
   <Style ss:ID="s70">
    <Borders>
@@ -107,7 +108,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="122" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="124" x:FullColumns="1"
    x:FullRows="1" ss:DefaultRowHeight="15">
    <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -716,6 +717,16 @@
     <Cell><Data ss:Type="String">Only display servers that are centrally hosted. Non-central servers have some features disabled and admins have cheat capabilities.</Data></Cell>
     <Cell><Data ss:Type="String">Only display servers that are centrally hosted. Non-central servers have some features disabled and admins have cheat capabilities.</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">noModsOnlyDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Only display servers that require no mods to be installed</Data></Cell>
+    <Cell><Data ss:Type="String">Only display servers that require no mods to be installed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">noPasswordOnlyDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Only display servers that do not require a password to join</Data></Cell>
+    <Cell><Data ss:Type="String">Only display servers that do not require a password to join</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -731,12 +742,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>3</TopRowVisible>
+   <TopRowVisible>106</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>26</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>124</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
