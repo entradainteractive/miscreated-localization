@@ -1,0 +1,746 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Shin</Author>
+  <LastAuthor>Shin</LastAuthor>
+  <Created>2016-03-05T00:40:56Z</Created>
+  <LastSaved>2016-03-05T01:24:56Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>15000</WindowHeight>
+  <WindowWidth>24390</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFC000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69" ss:Parent="s62">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#8DB4E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="122" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s64"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48">
+    <Cell ss:Index="2" ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">This contains original text meant for subtitles. This text exists for a multi-lingual reference and is not used in-game. Use ## for a new line.</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Yes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Tak</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_No</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Nie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_diag_yes</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Tak</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_diag_no</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Nie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_diag_ok</Data></Cell>
+    <Cell><Data ss:Type="String">Ok</Data></Cell>
+    <Cell><Data ss:Type="String">Ok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Notification</Data></Cell>
+    <Cell><Data ss:Type="String">Notification</Data></Cell>
+    <Cell><Data ss:Type="String">Powiadomienie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ApplyChanges</Data></Cell>
+    <Cell><Data ss:Type="String">Apply changes?</Data></Cell>
+    <Cell><Data ss:Type="String">Zatwierdzić zmiany?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_RevertChanges</Data></Cell>
+    <Cell><Data ss:Type="String">Revert changes?</Data></Cell>
+    <Cell><Data ss:Type="String">Odrzucić zmiany?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ExitGame</Data></Cell>
+    <Cell><Data ss:Type="String">Do you want to exit the game?</Data></Cell>
+    <Cell><Data ss:Type="String">Czy na pewno chcesz wyjść z gry?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ExitToMainQ</Data></Cell>
+    <Cell><Data ss:Type="String">Do you want to exit to main menu?</Data></Cell>
+    <Cell><Data ss:Type="String">Czy na pewno chcesz przejść do menu?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_PerformSuicideQ</Data></Cell>
+    <Cell><Data ss:Type="String">Commit suicide? All progress will be lost.</Data></Cell>
+    <Cell><Data ss:Type="String">Uwaga, popełniasz samobójstwo! Utracisz wszystkie osiągnięcia.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_loadingWorld</Data></Cell>
+    <Cell><Data ss:Type="String">Loading world...</Data></Cell>
+    <Cell><Data ss:Type="String">Ładowanie świata...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_synchronizingWorld</Data></Cell>
+    <Cell><Data ss:Type="String">Synchronizing world state...</Data></Cell>
+    <Cell><Data ss:Type="String">Synchronizacja świata...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ShowJoinSession</Data></Cell>
+    <Cell><Data ss:Type="String">Joining server...</Data></Cell>
+    <Cell><Data ss:Type="String">Dołączanie do serwera...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_connecting</Data></Cell>
+    <Cell><Data ss:Type="String">Connecting...</Data></Cell>
+    <Cell><Data ss:Type="String">Połączenie...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_LobbyError</Data></Cell>
+    <Cell><Data ss:Type="String">Lobby Error</Data></Cell>
+    <Cell><Data ss:Type="String">Lobby Error</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ok</Data></Cell>
+    <Cell><Data ss:Type="String">OK</Data></Cell>
+    <Cell><Data ss:Type="String">OK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">cancel</Data></Cell>
+    <Cell><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell><Data ss:Type="String">Anuluj</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">store_skin_title</Data></Cell>
+    <Cell><Data ss:Type="String">Store Skinned Item</Data></Cell>
+    <Cell><Data ss:Type="String">Magazyn skórek dla przedmiotów</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">store_skin_message</Data></Cell>
+    <Cell><Data ss:Type="String">This is a skinned item. Storing it will remove the applied skin.</Data></Cell>
+    <Cell><Data ss:Type="String">To jest skórka dla przedmiotu. Jej przechowywanie w magazynie zakończy się po akceptacji.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ModdedServer</Data></Cell>
+    <Cell><Data ss:Type="String">Modded Server</Data></Cell>
+    <Cell><Data ss:Type="String">Serwer modowany</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Islands</Data></Cell>
+    <Cell><Data ss:Type="String">Islands</Data></Cell>
+    <Cell><Data ss:Type="String">Wyspy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_BattleRoyale</Data></Cell>
+    <Cell><Data ss:Type="String">Battle Royale</Data></Cell>
+    <Cell><Data ss:Type="String">Battle Royale</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ModdedMessage</Data></Cell>
+    <Cell><Data ss:Type="String">This server requires the installation of mods to join. When leaving the server the game will need to be restarted.\nContinue and join the server?</Data></Cell>
+    <Cell><Data ss:Type="String">Ten serwer wymaga instalacji modów. Po opuszczeniu serwera gra będzie musiała zostać ponownie uruchomiona.\nKontynuować i przyłączyć się do serwera?</Data></Cell>
+   </Row>
+   <Row ss:Index="28" ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s70"><Data ss:Type="String">CRYSIS 3 CRYLOBBY ERROR TRANSLATIONS</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_0</Data></Cell>
+    <Cell><Data ss:Type="String">Success!</Data></Cell>
+    <Cell><Data ss:Type="String">Sukces!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_1</Data></Cell>
+    <Cell><Data ss:Type="String">Success! Continuing...</Data></Cell>
+    <Cell><Data ss:Type="String">Sukces! Kontynuacja...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_2</Data></Cell>
+    <Cell><Data ss:Type="String">Service not supported</Data></Cell>
+    <Cell><Data ss:Type="String">Usługa nie jest wspierana</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_3</Data></Cell>
+    <Cell><Data ss:Type="String">Already initialized</Data></Cell>
+    <Cell><Data ss:Type="String">Inicjalizacja</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_4</Data></Cell>
+    <Cell><Data ss:Type="String">Not initialized</Data></Cell>
+    <Cell><Data ss:Type="String">Brak inicjalizacji</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_5</Data></Cell>
+    <Cell><Data ss:Type="String">Too many tasks</Data></Cell>
+    <Cell><Data ss:Type="String">Za dużo zadań</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_6</Data></Cell>
+    <Cell><Data ss:Type="String">Out of memory</Data></Cell>
+    <Cell><Data ss:Type="String">Brak pamięci</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_7</Data></Cell>
+    <Cell><Data ss:Type="String">Out of session user data</Data></Cell>
+    <Cell><Data ss:Type="String">Dane użytkownika poza sesją</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_8</Data></Cell>
+    <Cell><Data ss:Type="String">User data not registered</Data></Cell>
+    <Cell><Data ss:Type="String">Brak rejestracji danych użytkownika</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_9</Data></Cell>
+    <Cell><Data ss:Type="String">User data type mismatch</Data></Cell>
+    <Cell><Data ss:Type="String">Niegodność danych użytkownika</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_10</Data></Cell>
+    <Cell><Data ss:Type="String">Too many sessions</Data></Cell>
+    <Cell><Data ss:Type="String">Za dużo sesji</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_11</Data></Cell>
+    <Cell><Data ss:Type="String">Session has ended</Data></Cell>
+    <Cell><Data ss:Type="String">Sesja została zakończona</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_12</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid request</Data></Cell>
+    <Cell><Data ss:Type="String">Nieprawidłowe żądanie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_13</Data></Cell>
+    <Cell><Data ss:Type="String">SPA file out-of-date</Data></Cell>
+    <Cell><Data ss:Type="String">Nieaktualny plik SPA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_14</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Server connection lost or can't be made</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Połączenie z serwerem zostało utracone lub nie można go nawiązać</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_15</Data></Cell>
+    <Cell><Data ss:Type="String">The server is full</Data></Cell>
+    <Cell><Data ss:Type="String">Serwer jest pełny</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_16</Data></Cell>
+    <Cell><Data ss:Type="String">Session is in the wrong state</Data></Cell>
+    <Cell><Data ss:Type="String">Sesja posiada zły status</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_17</Data></Cell>
+    <Cell><Data ss:Type="String">User not signed in</Data></Cell>
+    <Cell><Data ss:Type="String">Użytkownik nie został zalogowany</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_18</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid parameter</Data></Cell>
+    <Cell><Data ss:Type="String">Błędny parametr</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_19</Data></Cell>
+    <Cell><Data ss:Type="String">Timeout</Data></Cell>
+    <Cell><Data ss:Type="String">Przekroczono czas ładowania</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_20</Data></Cell>
+    <Cell><Data ss:Type="String">Insufficient privileges</Data></Cell>
+    <Cell><Data ss:Type="String">Niewystarczające uprawnienia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_21</Data></Cell>
+    <Cell><Data ss:Type="String">Already in session</Data></Cell>
+    <Cell><Data ss:Type="String">Jesteś w sesji</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_22</Data></Cell>
+    <Cell><Data ss:Type="String">Leaderboard not registered</Data></Cell>
+    <Cell><Data ss:Type="String">Tabela rekordów nie została zarejestrowana</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_23</Data></Cell>
+    <Cell><Data ss:Type="String">This game session no longer exists</Data></Cell>
+    <Cell><Data ss:Type="String">Ta sesja gry już nie istnieje</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_24</Data></Cell>
+    <Cell><Data ss:Type="String">Out of user data</Data></Cell>
+    <Cell><Data ss:Type="String">Brak danych użytkownika</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_25</Data></Cell>
+    <Cell><Data ss:Type="String">No user data registered</Data></Cell>
+    <Cell><Data ss:Type="String">Brak zarejestrowanych danych użytkownika</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_26</Data></Cell>
+    <Cell><Data ss:Type="String">Read data not written</Data></Cell>
+    <Cell><Data ss:Type="String">Odczyt danych nie został zapisany</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_27</Data></Cell>
+    <Cell><Data ss:Type="String">User data mismatch</Data></Cell>
+    <Cell><Data ss:Type="String">Niezgodność danych użytkownika</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_28</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid user</Data></Cell>
+    <Cell><Data ss:Type="String">Błędny użytkownik</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_29</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network context error</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network context error</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_30</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network wrong support state</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network wrong support state</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_31</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network signaling error</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network signaling error</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_32</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network no rooms</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network no rooms</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_33</Data></Cell>
+    <Cell><Data ss:Type="String">World not defined</Data></Cell>
+    <Cell><Data ss:Type="String">Świat nie został zdefiniowany</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_34</Data></Cell>
+    <Cell><Data ss:Type="String">System is busy</Data></Cell>
+    <Cell><Data ss:Type="String">System jest zajęty</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_35</Data></Cell>
+    <Cell><Data ss:Type="String">Too many parameters</Data></Cell>
+    <Cell><Data ss:Type="String">Za dużo parametrów</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_36</Data></Cell>
+    <Cell><Data ss:Type="String">Not enough parameters</Data></Cell>
+    <Cell><Data ss:Type="String">Niewystarczająca liczba parametrów</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_37</Data></Cell>
+    <Cell><Data ss:Type="String">Duplicate parameters</Data></Cell>
+    <Cell><Data ss:Type="String">Duplikowanie parametrów</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_38</Data></Cell>
+    <Cell><Data ss:Type="String">Exceeded read-write limits</Data></Cell>
+    <Cell><Data ss:Type="String">Przekroczono limity odczytu i zapisu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_39</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid title id</Data></Cell>
+    <Cell><Data ss:Type="String">Nieprawidłowy identyfikator tytułu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_40</Data></Cell>
+    <Cell><Data ss:Type="String">Illegal session join</Data></Cell>
+    <Cell><Data ss:Type="String">Nielegalne połączenie sesji</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_41</Data></Cell>
+    <Cell><Data ss:Type="String">Not joined</Data></Cell>
+    <Cell><Data ss:Type="String">Brak połączenia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_42</Data></Cell>
+    <Cell><Data ss:Type="String">Join in progress</Data></Cell>
+    <Cell><Data ss:Type="String">Połączenie w toku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_43</Data></Cell>
+    <Cell><Data ss:Type="String">Already joined</Data></Cell>
+    <Cell><Data ss:Type="String">Połączono</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_44</Data></Cell>
+    <Cell><Data ss:Type="String">Internet connection is disabled</Data></Cell>
+    <Cell><Data ss:Type="String">Połączenie internetowe zostało przerwane</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_45</Data></Cell>
+    <Cell><Data ss:Type="String">Not using an online enabled account</Data></Cell>
+    <Cell><Data ss:Type="String">Używasz konta z wyłączoną obsługą online</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_46</Data></Cell>
+    <Cell><Data ss:Type="String">Not connected</Data></Cell>
+    <Cell><Data ss:Type="String">Brak połączenia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_47</Data></Cell>
+    <Cell><Data ss:Type="String">Object not connected</Data></Cell>
+    <Cell><Data ss:Type="String">Obiekt nie uzyskał połączenia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_48</Data></Cell>
+    <Cell><Data ss:Type="String">Cycling for invite</Data></Cell>
+    <Cell><Data ss:Type="String">Powtarzanie zaproszenia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_49</Data></Cell>
+    <Cell><Data ss:Type="String">Unhandled nickname error</Data></Cell>
+    <Cell><Data ss:Type="String">Nieobsługiwany błąd nazwy użytkownika</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_50</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid login credentials</Data></Cell>
+    <Cell><Data ss:Type="String">Nieprawidłowe dane logowania</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_51</Data></Cell>
+    <Cell><Data ss:Type="String">Server unreachable</Data></Cell>
+    <Cell><Data ss:Type="String">Serwer nieosiągalny</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_52</Data></Cell>
+    <Cell><Data ss:Type="String">GP parameter error</Data></Cell>
+    <Cell><Data ss:Type="String">Błąd parametru GP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_53</Data></Cell>
+    <Cell><Data ss:Type="String">GP network error</Data></Cell>
+    <Cell><Data ss:Type="String">Błąd łączenia GP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_54</Data></Cell>
+    <Cell><Data ss:Type="String">Cable not connected</Data></Cell>
+    <Cell><Data ss:Type="String">Kabel nie został podłączony</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_55</Data></Cell>
+    <Cell><Data ss:Type="String">Session not migratable</Data></Cell>
+    <Cell><Data ss:Type="String">Sesja nie podlega migracji</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_56</Data></Cell>
+    <Cell><Data ss:Type="String">Success! Invalid Session</Data></Cell>
+    <Cell><Data ss:Type="String">Sukces! Nieprawidłowa sesja</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_57</Data></Cell>
+    <Cell><Data ss:Type="String">Session is no longer available</Data></Cell>
+    <Cell><Data ss:Type="String">Sesja nie jest już dostępna</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_58</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network is currently unavailable</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network is currently unavailable</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_59</Data></Cell>
+    <Cell><Data ss:Type="String">Too many orders</Data></Cell>
+    <Cell><Data ss:Type="String">Za dużo poleceń</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_60</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid order</Data></Cell>
+    <Cell><Data ss:Type="String">Błędne polecenie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_61</Data></Cell>
+    <Cell><Data ss:Type="String">Order in use</Data></Cell>
+    <Cell><Data ss:Type="String">Zamówienie w użyciu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_62</Data></Cell>
+    <Cell><Data ss:Type="String">Online account blocked</Data></Cell>
+    <Cell><Data ss:Type="String">Konto online zablokowane</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_63</Data></Cell>
+    <Cell><Data ss:Type="String">Online service is disabled on your Sony Entertainment Network account due to parental control restrictions</Data></Cell>
+    <Cell><Data ss:Type="String">Online service is disabled on your Sony Entertainment Network account due to parental control restrictions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_64</Data></Cell>
+    <Cell><Data ss:Type="String">Online user data is corrupt</Data></Cell>
+    <Cell><Data ss:Type="String">Dane użytkownika online są uszkodzone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_65</Data></Cell>
+    <Cell><Data ss:Type="String">Password incorrect</Data></Cell>
+    <Cell><Data ss:Type="String">Błędne hasło</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_66</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid invite data</Data></Cell>
+    <Cell><Data ss:Type="String">Błędne dane zaproszenia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_67</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid join data</Data></Cell>
+    <Cell><Data ss:Type="String">Błędne dane połączenia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_79</Data></Cell>
+    <Cell><Data ss:Type="String">Internal Error</Data></Cell>
+    <Cell><Data ss:Type="String">Błąd wewnętrzny</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_0</Data></Cell>
+    <Cell><Data ss:Type="String">Connection to the host has timed out</Data></Cell>
+    <Cell><Data ss:Type="String">Upłynął limit czasu połączenia z hostem</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_1</Data></Cell>
+    <Cell><Data ss:Type="String">Protocol error</Data></Cell>
+    <Cell><Data ss:Type="String">Błąd protokołu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_2</Data></Cell>
+    <Cell><Data ss:Type="String">Resolve failed</Data></Cell>
+    <Cell><Data ss:Type="String">Próba naprawy nie powiodła się</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_3</Data></Cell>
+    <Cell><Data ss:Type="String">Version mismatch</Data></Cell>
+    <Cell><Data ss:Type="String">Niepoprawna wersja</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_4</Data></Cell>
+    <Cell><Data ss:Type="String">Server full</Data></Cell>
+    <Cell><Data ss:Type="String">Serwer jest pełny</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_5</Data></Cell>
+    <Cell><Data ss:Type="String">Kicked</Data></Cell>
+    <Cell><Data ss:Type="String">Kop</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_6</Data></Cell>
+    <Cell><Data ss:Type="String">Banned</Data></Cell>
+    <Cell><Data ss:Type="String">Ban</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_7</Data></Cell>
+    <Cell><Data ss:Type="String">Context corruption</Data></Cell>
+    <Cell><Data ss:Type="String">Uszkodzenie pliku context</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_8</Data></Cell>
+    <Cell><Data ss:Type="String">Authentication failed</Data></Cell>
+    <Cell><Data ss:Type="String">Uwierzytelnianie nie powiodło się</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_9</Data></Cell>
+    <Cell><Data ss:Type="String">Game error</Data></Cell>
+    <Cell><Data ss:Type="String">Błąd gry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_10</Data></Cell>
+    <Cell><Data ss:Type="String">Not DX11 capable</Data></Cell>
+    <Cell><Data ss:Type="String">Nie obsługuje DX11</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_11</Data></Cell>
+    <Cell><Data ss:Type="String">Nub destroyed</Data></Cell>
+    <Cell><Data ss:Type="String">Uszkodzenie nub</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_12</Data></Cell>
+    <Cell><Data ss:Type="String">Connection to the host has been lost</Data></Cell>
+    <Cell><Data ss:Type="String">Połączenie z hostem zostało utracone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_13</Data></Cell>
+    <Cell><Data ss:Type="String">Nat neg error</Data></Cell>
+    <Cell><Data ss:Type="String">Błąd nat neg</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_14</Data></Cell>
+    <Cell><Data ss:Type="String">Punk detected</Data></Cell>
+    <Cell><Data ss:Type="String">Wykryto błąd</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_15</Data></Cell>
+    <Cell><Data ss:Type="String">Demo playback finished</Data></Cell>
+    <Cell><Data ss:Type="String">Odtwarzanie dema zakończone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_16</Data></Cell>
+    <Cell><Data ss:Type="String">Demo playback file not found</Data></Cell>
+    <Cell><Data ss:Type="String">Nie znaleziono pliku dema</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_17</Data></Cell>
+    <Cell><Data ss:Type="String">User requested</Data></Cell>
+    <Cell><Data ss:Type="String">Żądanie użytkownika</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_19</Data></Cell>
+    <Cell><Data ss:Type="String">Can't connect</Data></Cell>
+    <Cell><Data ss:Type="String">Brak połączenia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_20</Data></Cell>
+    <Cell><Data ss:Type="String">Arbitration failed</Data></Cell>
+    <Cell><Data ss:Type="String">Arbitraż nie powiódł się</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_21</Data></Cell>
+    <Cell><Data ss:Type="String">Failed to migrate to new host</Data></Cell>
+    <Cell><Data ss:Type="String">Nie można przeprowadzić migracji do nowego hosta</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_22</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell><Data ss:Type="String">Nieznany</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">whitelistOnlyDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Only display non-whitelisted servers that anyone can join. Whitelisted servers would require permission from the server administrator to join.</Data></Cell>
+    <Cell><Data ss:Type="String">Wyświetlaj tylko te serwery, do których każdy może dołączyć. Pozostałe serwery (whitelisted) wymagają zgody administratora serwera, aby do nich dołączyć.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">daytimeOnlyDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Only display servers where it is currently daytime in the game</Data></Cell>
+    <Cell><Data ss:Type="String">Wyświetlaj tylko te serwery, na których w grze jest dzień</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">hostedOnlyDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Only display servers that are centrally hosted. Non-central servers have some features disabled and admins have cheat capabilities.</Data></Cell>
+    <Cell><Data ss:Type="String">Wyświetlaj tylko te serwery, które są oficjalnie hostowane. Pozostałe serwery mają wyłączone niektóre funkcje, a administratorzy mają dostęp do cheatów.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>3</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>26</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
