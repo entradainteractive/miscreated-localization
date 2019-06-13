@@ -17,7 +17,7 @@
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <WindowHeight>12030</WindowHeight>
-  <WindowWidth>29655</WindowWidth>
+  <WindowWidth>23760</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
@@ -2849,13 +2849,13 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">total_title</Data></Cell>
-    <Cell><Data ss:Type="String">TOTAL:</Data></Cell>
-    <Cell><Data ss:Type="String">TOTAL:</Data></Cell>
+    <Cell><Data ss:Type="String">Total:</Data></Cell>
+    <Cell><Data ss:Type="String">Total:</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">kiosk_title</Data></Cell>
-    <Cell><Data ss:Type="String">AMALGAMATED KIOSK</Data></Cell>
-    <Cell><Data ss:Type="String">AMALGAMATED KIOSK</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Kiosk</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Kiosk</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">page_title</Data></Cell>
@@ -3024,43 +3024,43 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">skin_vehicle</Data></Cell>
-    <Cell><Data ss:Type="String">SKIN VEHICLE</Data></Cell>
-    <Cell><Data ss:Type="String">SKIN VEHICLE</Data></Cell>
+    <Cell><Data ss:Type="String">Skin Vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">Skin Vehicle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">refresh_list</Data></Cell>
-    <Cell><Data ss:Type="String">REFRESH</Data></Cell>
-    <Cell><Data ss:Type="String">REFRESH</Data></Cell>
+    <Cell><Data ss:Type="String">Refresh</Data></Cell>
+    <Cell><Data ss:Type="String">Refresh</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">health_title</Data></Cell>
-    <Cell><Data ss:Type="String">HEALTH</Data></Cell>
-    <Cell><Data ss:Type="String">HEALTH</Data></Cell>
+    <Cell><Data ss:Type="String">Health</Data></Cell>
+    <Cell><Data ss:Type="String">Health</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">oil_title</Data></Cell>
-    <Cell><Data ss:Type="String">OIL</Data></Cell>
-    <Cell><Data ss:Type="String">OIL</Data></Cell>
+    <Cell><Data ss:Type="String">Oil</Data></Cell>
+    <Cell><Data ss:Type="String">Oil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fuel_title</Data></Cell>
-    <Cell><Data ss:Type="String">DIESEL FUEL</Data></Cell>
-    <Cell><Data ss:Type="String">DIESEL FUEL</Data></Cell>
+    <Cell><Data ss:Type="String">Diesel Fuel</Data></Cell>
+    <Cell><Data ss:Type="String">Diesel Fuel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">battery_title</Data></Cell>
-    <Cell><Data ss:Type="String">BATTERY</Data></Cell>
-    <Cell><Data ss:Type="String">BATTERY</Data></Cell>
+    <Cell><Data ss:Type="String">Battery</Data></Cell>
+    <Cell><Data ss:Type="String">Battery</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">spark_plugs_title</Data></Cell>
-    <Cell><Data ss:Type="String">SPARK PLUGS</Data></Cell>
-    <Cell><Data ss:Type="String">SPARK PLUGS</Data></Cell>
+    <Cell><Data ss:Type="String">Spark Plugs</Data></Cell>
+    <Cell><Data ss:Type="String">Spark Plugs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">drive_belt_title</Data></Cell>
-    <Cell><Data ss:Type="String">DRIVE BELT</Data></Cell>
-    <Cell><Data ss:Type="String">DRIVE BELT</Data></Cell>
+    <Cell><Data ss:Type="String">Drive Belt</Data></Cell>
+    <Cell><Data ss:Type="String">Drive Belt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">generator_start</Data></Cell>
@@ -3074,23 +3074,23 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">lights_title</Data></Cell>
-    <Cell><Data ss:Type="String">LIGHTS</Data></Cell>
-    <Cell><Data ss:Type="String">LIGHTS</Data></Cell>
+    <Cell><Data ss:Type="String">Lights</Data></Cell>
+    <Cell><Data ss:Type="String">Lights</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">batteries_title</Data></Cell>
-    <Cell><Data ss:Type="String">BATTERIES</Data></Cell>
-    <Cell><Data ss:Type="String">BATTERIES</Data></Cell>
+    <Cell><Data ss:Type="String">Batteries</Data></Cell>
+    <Cell><Data ss:Type="String">Batteries</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">amount2_title</Data></Cell>
-    <Cell><Data ss:Type="String">AMOUNT</Data></Cell>
-    <Cell><Data ss:Type="String">AMOUNT</Data></Cell>
+    <Cell><Data ss:Type="String">Amount</Data></Cell>
+    <Cell><Data ss:Type="String">Amount</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">add_title</Data></Cell>
-    <Cell><Data ss:Type="String">ADD</Data></Cell>
-    <Cell><Data ss:Type="String">ADD</Data></Cell>
+    <Cell><Data ss:Type="String">Add</Data></Cell>
+    <Cell><Data ss:Type="String">Add</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">light_num</Data></Cell>
@@ -3557,13 +3557,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>610</TopRowVisible>
+   <TopRowVisible>567</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>625</ActiveRow>
-     <ActiveCol>3</ActiveCol>
-     <RangeSelection>R626C4:R689C4</RangeSelection>
+     <ActiveRow>585</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
