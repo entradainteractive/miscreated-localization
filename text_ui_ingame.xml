@@ -3444,8 +3444,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tear_off_tarp</Data></Cell>
-    <Cell><Data ss:Type="String">Tear Off Trap</Data></Cell>
-    <Cell><Data ss:Type="String">Tear Off Trap</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Tarp</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Off Tarp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">search_sandbags</Data></Cell>
@@ -3557,12 +3557,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>567</TopRowVisible>
+   <TopRowVisible>648</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>585</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>669</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
