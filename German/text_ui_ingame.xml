@@ -108,267 +108,267 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">open_door</Data></Cell>
     <Cell><Data ss:Type="String">Open Door</Data></Cell>
-    <Cell><Data ss:Type="String">Open Door</Data></Cell>
+    <Cell><Data ss:Type="String">Tür öffnen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">close_door</Data></Cell>
     <Cell><Data ss:Type="String">Close Door</Data></Cell>
-    <Cell><Data ss:Type="String">Close Door</Data></Cell>
+    <Cell><Data ss:Type="String">Tür schließen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">use_ladder</Data></Cell>
     <Cell><Data ss:Type="String">Use Ladder</Data></Cell>
-    <Cell><Data ss:Type="String">Use Ladder</Data></Cell>
+    <Cell><Data ss:Type="String">Benutze Leiter</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">use_door</Data></Cell>
     <Cell><Data ss:Type="String">Use Door</Data></Cell>
-    <Cell><Data ss:Type="String">Use Door</Data></Cell>
+    <Cell><Data ss:Type="String">Benutze Tür</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">use_object</Data></Cell>
     <Cell><Data ss:Type="String">Use Object</Data></Cell>
-    <Cell><Data ss:Type="String">Use Object</Data></Cell>
+    <Cell><Data ss:Type="String">Objekt verwenden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">food_consumed</Data></Cell>
     <Cell><Data ss:Type="String">You are less hungry</Data></Cell>
-    <Cell><Data ss:Type="String">You are less hungry</Data></Cell>
+    <Cell><Data ss:Type="String">Du bist nicht mehr so hungrig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">food_player_full</Data></Cell>
     <Cell><Data ss:Type="String">You are no longer hungry</Data></Cell>
-    <Cell><Data ss:Type="String">You are no longer hungry</Data></Cell>
+    <Cell><Data ss:Type="String">Du bist nicht mehr hungrig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_consumed</Data></Cell>
     <Cell><Data ss:Type="String">You are less thirsty</Data></Cell>
-    <Cell><Data ss:Type="String">You are less thirsty</Data></Cell>
+    <Cell><Data ss:Type="String">Du bist nicht mehr so durstig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_player_full</Data></Cell>
     <Cell><Data ss:Type="String">You are no longer thirsty</Data></Cell>
-    <Cell><Data ss:Type="String">You are no longer thirsty</Data></Cell>
+    <Cell><Data ss:Type="String">Du bist nicht mehr durstig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_refilled</Data></Cell>
     <Cell><Data ss:Type="String">The item has been refilled</Data></Cell>
-    <Cell><Data ss:Type="String">The item has been refilled</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand wurde aufgefüllt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_not_refilled</Data></Cell>
     <Cell><Data ss:Type="String">The item cannot be refilled here</Data></Cell>
-    <Cell><Data ss:Type="String">The item cannot be refilled here</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand kann hier nicht aufgefüllt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_too_heavy</Data></Cell>
     <Cell><Data ss:Type="String">The item would exceed your weight limit</Data></Cell>
-    <Cell><Data ss:Type="String">The item would exceed your weight limit</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand würde dein Gewichtslimit überschreiten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_inside_itself</Data></Cell>
     <Cell><Data ss:Type="String">The item cannot be moved inside of itself</Data></Cell>
-    <Cell><Data ss:Type="String">The item cannot be moved inside of itself</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand kann nicht in sich selbst verschoben werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_not_allowed</Data></Cell>
     <Cell><Data ss:Type="String">The item cannot be moved</Data></Cell>
-    <Cell><Data ss:Type="String">The item cannot be moved</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand kann nicht bewegt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_not_owned</Data></Cell>
     <Cell><Data ss:Type="String">Only owned items can be dropped</Data></Cell>
-    <Cell><Data ss:Type="String">Only owned items can be dropped</Data></Cell>
+    <Cell><Data ss:Type="String">Nur Gegenstände die sie besitzen können fallengelassen werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_not_empty</Data></Cell>
     <Cell><Data ss:Type="String">The item is not empty</Data></Cell>
-    <Cell><Data ss:Type="String">The item is not empty</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand ist nicht leer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_partially_repaired</Data></Cell>
     <Cell><Data ss:Type="String">The item was partially repaired</Data></Cell>
-    <Cell><Data ss:Type="String">The item was partially repaired</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand wurde teilweise repariert</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_fully_repaired</Data></Cell>
     <Cell><Data ss:Type="String">The item was fully repaired</Data></Cell>
-    <Cell><Data ss:Type="String">The item was fully repaired</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand wurde komplett repariert</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_player_close</Data></Cell>
     <Cell><Data ss:Type="String">Another player is too close</Data></Cell>
-    <Cell><Data ss:Type="String">Another player is too close</Data></Cell>
+    <Cell><Data ss:Type="String">Ein anderer Spieler ist zu nah</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_converted</Data></Cell>
     <Cell><Data ss:Type="String">The item was successfully converted</Data></Cell>
-    <Cell><Data ss:Type="String">The item was successfully converted</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand wurde erfolgreich umgewandelt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">craft_invalid_recipe</Data></Cell>
     <Cell><Data ss:Type="String">Invalid crafting recipe</Data></Cell>
-    <Cell><Data ss:Type="String">Invalid crafting recipe</Data></Cell>
+    <Cell><Data ss:Type="String">Unültiges Herstellungsrezept</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">craft_begin_recipe</Data></Cell>
     <Cell><Data ss:Type="String">Item crafting started</Data></Cell>
-    <Cell><Data ss:Type="String">Item crafting started</Data></Cell>
+    <Cell><Data ss:Type="String">Gegenstandsherstellung gestartet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">craft_finalized_recipe</Data></Cell>
     <Cell><Data ss:Type="String">Item crafting finished</Data></Cell>
-    <Cell><Data ss:Type="String">Item crafting finished</Data></Cell>
+    <Cell><Data ss:Type="String">Gegenstandsherstellung fertig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">sit_with_weapon</Data></Cell>
     <Cell><Data ss:Type="String">Cannot sit while holding a weapon</Data></Cell>
-    <Cell><Data ss:Type="String">Cannot sit while holding a weapon</Data></Cell>
+    <Cell><Data ss:Type="String">Du kannst nicht sitzen während du eine Waffe in der Hand trägst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bandage_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">Your wounds are healing faster now</Data></Cell>
-    <Cell><Data ss:Type="String">Your wounds are healing faster now</Data></Cell>
+    <Cell><Data ss:Type="String">Deine Wunden heilen schneller</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bandage_succeeded_other</Data></Cell>
     <Cell><Data ss:Type="String">Their wounds are healing faster now</Data></Cell>
-    <Cell><Data ss:Type="String">Their wounds are healing faster now</Data></Cell>
+    <Cell><Data ss:Type="String">Seine Wunden heilen schneller</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bandage_failed</Data></Cell>
     <Cell><Data ss:Type="String">The bandage was not needed yet</Data></Cell>
-    <Cell><Data ss:Type="String">The bandage was not needed yet</Data></Cell>
+    <Cell><Data ss:Type="String">Der Verband wurde nicht benötigt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bandage_finished</Data></Cell>
     <Cell><Data ss:Type="String">Your bandage has fallen off</Data></Cell>
-    <Cell><Data ss:Type="String">Your bandage has fallen off</Data></Cell>
+    <Cell><Data ss:Type="String">Dein Verband ist abgefallen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antirad_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">You are starting to feel better now</Data></Cell>
-    <Cell><Data ss:Type="String">You are starting to feel better now</Data></Cell>
+    <Cell><Data ss:Type="String">Du fängst an dich besser zu fühlen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antirad_failed</Data></Cell>
     <Cell><Data ss:Type="String">The antirad pills/food was not needed yet</Data></Cell>
-    <Cell><Data ss:Type="String">The antirad pills/food was not needed yet</Data></Cell>
+    <Cell><Data ss:Type="String">Die Anti-Radioaktivitätpillen wurde nicht benötigt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antirad_finished</Data></Cell>
     <Cell><Data ss:Type="String">The antirad pills/food has worn off</Data></Cell>
-    <Cell><Data ss:Type="String">The antirad pills/food has worn off</Data></Cell>
+    <Cell><Data ss:Type="String">Die Anti-Radioaktivitätpillen sind abgenutzt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">resistrad_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">You are now more resistant to radiation</Data></Cell>
-    <Cell><Data ss:Type="String">You are now more resistant to radiation</Data></Cell>
+    <Cell><Data ss:Type="String">Du bist nun mehr gegen Radioaktivität resistent</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">resistrad_failed</Data></Cell>
     <Cell><Data ss:Type="String">The radiation resistance pills were not needed yet</Data></Cell>
-    <Cell><Data ss:Type="String">The radiation resistance pills were not needed yet</Data></Cell>
+    <Cell><Data ss:Type="String">Die Strahlenschutzpillen wurden noch nicht benötigt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">resistrad_finished</Data></Cell>
     <Cell><Data ss:Type="String">The radiation resistance pills have worn off</Data></Cell>
-    <Cell><Data ss:Type="String">The radiation resistance pills have worn off</Data></Cell>
+    <Cell><Data ss:Type="String">Die Strahlenschutzpillen sind abgenutzt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">heat_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">The heatpack has been applied</Data></Cell>
-    <Cell><Data ss:Type="String">The heatpack has been applied</Data></Cell>
+    <Cell><Data ss:Type="String">Das Wärmekissen wurde benutzt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">heat_failed</Data></Cell>
     <Cell><Data ss:Type="String">The heatpack was not needed yet</Data></Cell>
-    <Cell><Data ss:Type="String">The heatpack was not needed yet</Data></Cell>
+    <Cell><Data ss:Type="String">Das Wärmekissen war nicht nötig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">heat_finished</Data></Cell>
     <Cell><Data ss:Type="String">The heatpack has cooled beyond use</Data></Cell>
-    <Cell><Data ss:Type="String">The heatpack has cooled beyond use</Data></Cell>
+    <Cell><Data ss:Type="String">Das Wärmekissen ist durch die Benutzung abgekühlt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">guide_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">You have learned new crafting recipes</Data></Cell>
-    <Cell><Data ss:Type="String">You have learned new crafting recipes</Data></Cell>
+    <Cell><Data ss:Type="String">Du hast ein neues Herstellungsrezept gelernt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">guide_failed</Data></Cell>
     <Cell><Data ss:Type="String">You have already learned that guide</Data></Cell>
-    <Cell><Data ss:Type="String">You have already learned that guide</Data></Cell>
+    <Cell><Data ss:Type="String">Du hast das Herstellungsrezept schon gelernt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotCarryMore</Data></Cell>
     <Cell><Data ss:Type="String">Can't carry item. Check your inventory has room</Data></Cell>
-    <Cell><Data ss:Type="String">Can't carry item. Check your inventory has room</Data></Cell>
+    <Cell><Data ss:Type="String">Das Item kann nicht getragen werden. Kontrolliere dein Inventar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotPackup</Data></Cell>
     <Cell><Data ss:Type="String">You cannot packup this part</Data></Cell>
-    <Cell><Data ss:Type="String">You cannot packup this part</Data></Cell>
+    <Cell><Data ss:Type="String">Du kannst den Gegenstand nicht aufheben</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotDismantle</Data></Cell>
     <Cell><Data ss:Type="String">You cannot dismantle this part</Data></Cell>
-    <Cell><Data ss:Type="String">You cannot dismantle this part</Data></Cell>
+    <Cell><Data ss:Type="String">Du kannst den Gegenstand nicht zerlegen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotDismantlePlotSign</Data></Cell>
     <Cell><Data ss:Type="String">All parts must be removed first</Data></Cell>
-    <Cell><Data ss:Type="String">All parts must be removed first</Data></Cell>
+    <Cell><Data ss:Type="String">Alle Gegenstände müssen zuerst entfernt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotPackupPlotSign</Data></Cell>
     <Cell><Data ss:Type="String">All parts must be removed first</Data></Cell>
-    <Cell><Data ss:Type="String">All parts must be removed first</Data></Cell>
+    <Cell><Data ss:Type="String">Alle Gegenstände müssen zuerst entfernt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotDamagePlotSign</Data></Cell>
     <Cell><Data ss:Type="String">All parts must be destroyed first</Data></Cell>
-    <Cell><Data ss:Type="String">All parts must be destroyed first</Data></Cell>
+    <Cell><Data ss:Type="String">Alle Gegenstände müssen zuerst entfernt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotPackupGenerator</Data></Cell>
     <Cell><Data ss:Type="String">All powered items must be detached first</Data></Cell>
-    <Cell><Data ss:Type="String">All powered items must be detached first</Data></Cell>
+    <Cell><Data ss:Type="String">Alle angeschlossenen Gegenstände müssen zuerst getrennt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clanname_EndsWithSpace</Data></Cell>
     <Cell><Data ss:Type="String">The clan name cannot end with a space character</Data></Cell>
-    <Cell><Data ss:Type="String">The clan name cannot end with a space character</Data></Cell>
+    <Cell><Data ss:Type="String">Der Clanname darf nicht mit einem Leerzeichen enden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clanname_StartsWithSpace</Data></Cell>
     <Cell><Data ss:Type="String">The clan name cannot start with a space character</Data></Cell>
-    <Cell><Data ss:Type="String">The clan name cannot start with a space character</Data></Cell>
+    <Cell><Data ss:Type="String">Der Clanname darf nicht mit einem Leerzeichen anfangen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clanname_TooShort</Data></Cell>
     <Cell><Data ss:Type="String">The clan name must at least three characters long</Data></Cell>
-    <Cell><Data ss:Type="String">The clan name must at least three characters long</Data></Cell>
+    <Cell><Data ss:Type="String">Der Clanname muss länger als 3 Zeichen sein</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clanname_TooLong</Data></Cell>
     <Cell><Data ss:Type="String">The clan name is too long</Data></Cell>
-    <Cell><Data ss:Type="String">The clan name is too long</Data></Cell>
+    <Cell><Data ss:Type="String">Der Clanname ist zu lang</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clanname_NoAlphanumeric</Data></Cell>
     <Cell><Data ss:Type="String">The clan name must contain at least one letter or number</Data></Cell>
-    <Cell><Data ss:Type="String">The clan name must contain at least one letter or number</Data></Cell>
+    <Cell><Data ss:Type="String">Der Clanname muss mindestens ein Buchstaben oder Zahl enthalten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clanname_InvalidCharacter</Data></Cell>
     <Cell><Data ss:Type="String">The clan name must only contain a-z, A-Z, spaces, and -_. characters</Data></Cell>
-    <Cell><Data ss:Type="String">The clan name must only contain a-z, A-Z, spaces, and -_. characters</Data></Cell>
+    <Cell><Data ss:Type="String">Der Clanname darf nur a-z, A-Z, Leerzeichen oder -_. enthalten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clanname_AlreadyExists</Data></Cell>
     <Cell><Data ss:Type="String">The clan name already exists</Data></Cell>
-    <Cell><Data ss:Type="String">The clan name already exists</Data></Cell>
+    <Cell><Data ss:Type="String">Der Clanname existiert bereits</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_prematch_warning</Data></Cell>
@@ -378,252 +378,252 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_prematch_opponents</Data></Cell>
     <Cell><Data ss:Type="String">WAITING FOR OPPONENTS</Data></Cell>
-    <Cell><Data ss:Type="String">WAITING FOR OPPONENTS</Data></Cell>
+    <Cell><Data ss:Type="String">Warte auf Gegener</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_prematch_oneplayer_warning</Data></Cell>
     <Cell><Data ss:Type="String">WAITING FOR 1 MORE PLAYER</Data></Cell>
-    <Cell><Data ss:Type="String">WAITING FOR 1 MORE PLAYER</Data></Cell>
+    <Cell><Data ss:Type="String">Warte auf einen weitern Spieler</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_prematch_playercount_warning</Data></Cell>
     <Cell><Data ss:Type="String">WAITING FOR %1 MORE PLAYERS</Data></Cell>
-    <Cell><Data ss:Type="String">WAITING FOR %1 MORE PLAYERS</Data></Cell>
+    <Cell><Data ss:Type="String">Warte auf 1% mehr Spieler</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_msg_mis_matchstart</Data></Cell>
     <Cell><Data ss:Type="String">MATCH START</Data></Cell>
-    <Cell><Data ss:Type="String">MATCH START</Data></Cell>
+    <Cell><Data ss:Type="String">Spiel beginnt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_msg_br_matchstart</Data></Cell>
     <Cell><Data ss:Type="String">MATCH START</Data></Cell>
-    <Cell><Data ss:Type="String">MATCH START</Data></Cell>
+    <Cell><Data ss:Type="String">Spiel beginnt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stamina_jumping</Data></Cell>
     <Cell><Data ss:Type="String">You are too exhausted to jump</Data></Cell>
-    <Cell><Data ss:Type="String">You are too exhausted to jump</Data></Cell>
+    <Cell><Data ss:Type="String">Du bist zu erschöpft um zu springen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stamina_stance</Data></Cell>
     <Cell><Data ss:Type="String">You are too exhausted to change stance</Data></Cell>
-    <Cell><Data ss:Type="String">You are too exhausted to change stance</Data></Cell>
+    <Cell><Data ss:Type="String">Du bist zu erschöpft um deine Körperhaltung zu ändern</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">damage_bleeding</Data></Cell>
     <Cell><Data ss:Type="String">You are bleeding! Heal with a bandage</Data></Cell>
-    <Cell><Data ss:Type="String">You are bleeding! Heal with a bandage</Data></Cell>
+    <Cell><Data ss:Type="String">Du blutest! Benutze einen Verband</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">heat</Data></Cell>
     <Cell><Data ss:Type="String">Heat Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Heat Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Hitzebeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">cold</Data></Cell>
     <Cell><Data ss:Type="String">Cold Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Cold Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Kältebeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">gas_smoke</Data></Cell>
     <Cell><Data ss:Type="String">Gas Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Gas Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Gasbeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">gas_radiation</Data></Cell>
     <Cell><Data ss:Type="String">Radiation Gas Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Radiation Gas Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Strahlungsgasbeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">humidity</Data></Cell>
     <Cell><Data ss:Type="String">Humidity Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Humidity Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Feuchtigkeitsbeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">rain</Data></Cell>
     <Cell><Data ss:Type="String">Rain Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Rain Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Regenbeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">rain_acid</Data></Cell>
     <Cell><Data ss:Type="String">Acid Rain Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Acid Rain Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Säureregenbeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">rain_radiation</Data></Cell>
     <Cell><Data ss:Type="String">Radiation Rain Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Radiation Rain Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Strahlungsregenresistenz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">physical</Data></Cell>
     <Cell><Data ss:Type="String">Physical Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Physical Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Physischer Widerstand</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ray_radiation</Data></Cell>
     <Cell><Data ss:Type="String">Radiation Ray Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Radiation Ray Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Strahlenbeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">explosion</Data></Cell>
     <Cell><Data ss:Type="String">Explosion Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Explosion Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Explosionsschutz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">feet_sharp</Data></Cell>
     <Cell><Data ss:Type="String">Feet Sharp Object Protection</Data></Cell>
-    <Cell><Data ss:Type="String">Feet Sharp Object Protection</Data></Cell>
+    <Cell><Data ss:Type="String">Schutz der Füße vor scharfen Gegenständen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">feet_blunt</Data></Cell>
     <Cell><Data ss:Type="String">Feet Blunt Object Protection</Data></Cell>
-    <Cell><Data ss:Type="String">Feet Blunt Object Protection</Data></Cell>
+    <Cell><Data ss:Type="String">Schutz der Füße vor stumpfen Gegenständen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">eye_light</Data></Cell>
     <Cell><Data ss:Type="String">Blindness Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Blindness Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Blindheitsresistenz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fire</Data></Cell>
     <Cell><Data ss:Type="String">Fire Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Fire Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Feuerbeständigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">electricity</Data></Cell>
     <Cell><Data ss:Type="String">Electricity Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Electricity Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Elektrizitätswiderstand</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">pool_acid</Data></Cell>
     <Cell><Data ss:Type="String">Acid Pool Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Acid Pool Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Säure-Resistenz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">damagep</Data></Cell>
     <Cell><Data ss:Type="String">Damage</Data></Cell>
-    <Cell><Data ss:Type="String">Damage</Data></Cell>
+    <Cell><Data ss:Type="String">Schaden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">damagedpsp</Data></Cell>
     <Cell><Data ss:Type="String">Damage/Second</Data></Cell>
-    <Cell><Data ss:Type="String">Damage/Second</Data></Cell>
+    <Cell><Data ss:Type="String">Schaden/Sekunde</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">silentp</Data></Cell>
     <Cell><Data ss:Type="String">Silent</Data></Cell>
-    <Cell><Data ss:Type="String">Silent</Data></Cell>
+    <Cell><Data ss:Type="String">lautlos</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bleedp</Data></Cell>
     <Cell><Data ss:Type="String">Bleed Chance</Data></Cell>
-    <Cell><Data ss:Type="String">Bleed Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Blutungschance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">radiationp</Data></Cell>
     <Cell><Data ss:Type="String">Radiation Effect</Data></Cell>
-    <Cell><Data ss:Type="String">Radiation Effect</Data></Cell>
+    <Cell><Data ss:Type="String">Strahlungseffekt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">firep</Data></Cell>
     <Cell><Data ss:Type="String">Fire Chance</Data></Cell>
-    <Cell><Data ss:Type="String">Fire Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Feuerchance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">poisonp</Data></Cell>
     <Cell><Data ss:Type="String">Poison Chance</Data></Cell>
-    <Cell><Data ss:Type="String">Poison Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Vergiftungschance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">torpidityp</Data></Cell>
     <Cell><Data ss:Type="String">Torpidity Effect</Data></Cell>
-    <Cell><Data ss:Type="String">Torpidity Effect</Data></Cell>
+    <Cell><Data ss:Type="String">Trägheitseffekt/Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">staminap</Data></Cell>
     <Cell><Data ss:Type="String">Stamina Effect</Data></Cell>
-    <Cell><Data ss:Type="String">Stamina Effect</Data></Cell>
+    <Cell><Data ss:Type="String">Ausdauereffekt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">blindp</Data></Cell>
     <Cell><Data ss:Type="String">Blindness Effect</Data></Cell>
-    <Cell><Data ss:Type="String">Blindness Effect</Data></Cell>
+    <Cell><Data ss:Type="String">Blindheitseffekt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">torpiditydpsp</Data></Cell>
     <Cell><Data ss:Type="String">Torpidity/Second</Data></Cell>
-    <Cell><Data ss:Type="String">Torpidity/Second</Data></Cell>
+    <Cell><Data ss:Type="String">Trägheit/Sekunde</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">staminadpsp</Data></Cell>
     <Cell><Data ss:Type="String">Stamina/Second</Data></Cell>
-    <Cell><Data ss:Type="String">Stamina/Second</Data></Cell>
+    <Cell><Data ss:Type="String">Ausdauer/Sekunde</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">itemdmgp</Data></Cell>
     <Cell><Data ss:Type="String">Damage Contents Chance</Data></Cell>
-    <Cell><Data ss:Type="String">Damage Contents Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Schadensinhaltschance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antibleedp</Data></Cell>
     <Cell><Data ss:Type="String">Bleed Reduction Level</Data></Cell>
-    <Cell><Data ss:Type="String">Bleed Reduction Level</Data></Cell>
+    <Cell><Data ss:Type="String">Blutungsreduzierungslevel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antiradp</Data></Cell>
     <Cell><Data ss:Type="String">Reduces Radiation</Data></Cell>
-    <Cell><Data ss:Type="String">Reduces Radiation</Data></Cell>
+    <Cell><Data ss:Type="String">Reduziere Strahlung</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antiraddpsp</Data></Cell>
     <Cell><Data ss:Type="String">Radiation/Second</Data></Cell>
-    <Cell><Data ss:Type="String">Radiation/Second</Data></Cell>
+    <Cell><Data ss:Type="String">Strahlung/Sekunde</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antipoisonp</Data></Cell>
     <Cell><Data ss:Type="String">Cures Poison and Sickness</Data></Cell>
-    <Cell><Data ss:Type="String">Cures Poison and Sickness</Data></Cell>
+    <Cell><Data ss:Type="String">Heilt Gift und Krankheiten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">healthregenp</Data></Cell>
     <Cell><Data ss:Type="String">Health Regeneration Boost</Data></Cell>
-    <Cell><Data ss:Type="String">Health Regeneration Boost</Data></Cell>
+    <Cell><Data ss:Type="String">Gesundheitsregenrationsschub</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">anticoldp</Data></Cell>
     <Cell><Data ss:Type="String">Heating</Data></Cell>
-    <Cell><Data ss:Type="String">Heating</Data></Cell>
+    <Cell><Data ss:Type="String">Wärmen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antiheatp</Data></Cell>
     <Cell><Data ss:Type="String">Cooling</Data></Cell>
-    <Cell><Data ss:Type="String">Cooling</Data></Cell>
+    <Cell><Data ss:Type="String">kühlen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">foodp</Data></Cell>
     <Cell><Data ss:Type="String">Food</Data></Cell>
-    <Cell><Data ss:Type="String">Food</Data></Cell>
+    <Cell><Data ss:Type="String">Essen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">drinkp</Data></Cell>
     <Cell><Data ss:Type="String">Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Fluid</Data></Cell>
+    <Cell><Data ss:Type="String">Flüssigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">protection</Data></Cell>
     <Cell><Data ss:Type="String">Protection</Data></Cell>
-    <Cell><Data ss:Type="String">protection</Data></Cell>
+    <Cell><Data ss:Type="String">Schutz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">slots</Data></Cell>
     <Cell><Data ss:Type="String">Slots</Data></Cell>
-    <Cell><Data ss:Type="String">Slots</Data></Cell>
+    <Cell><Data ss:Type="String">Slot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">attachmentslots</Data></Cell>
     <Cell><Data ss:Type="String">Attachment Slots</Data></Cell>
-    <Cell><Data ss:Type="String">Attachment slots</Data></Cell>
+    <Cell><Data ss:Type="String">Erweiterungsslot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">gatherrate</Data></Cell>
@@ -633,47 +633,47 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood</Data></Cell>
     <Cell><Data ss:Type="String">Wood</Data></Cell>
-    <Cell><Data ss:Type="String">Wood</Data></Cell>
+    <Cell><Data ss:Type="String">Holz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">rock</Data></Cell>
     <Cell><Data ss:Type="String">Rock</Data></Cell>
-    <Cell><Data ss:Type="String">Rock</Data></Cell>
+    <Cell><Data ss:Type="String">Stein</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">metal</Data></Cell>
     <Cell><Data ss:Type="String">Metal</Data></Cell>
-    <Cell><Data ss:Type="String">Metal</Data></Cell>
+    <Cell><Data ss:Type="String">Metall</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_default</Data></Cell>
     <Cell><Data ss:Type="String">Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Hit</Data></Cell>
+    <Cell><Data ss:Type="String">Treffer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_melee</Data></Cell>
     <Cell><Data ss:Type="String">Melee</Data></Cell>
-    <Cell><Data ss:Type="String">Melee</Data></Cell>
+    <Cell><Data ss:Type="String">Nahkampf</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_event</Data></Cell>
     <Cell><Data ss:Type="String">Environment</Data></Cell>
-    <Cell><Data ss:Type="String">Environment</Data></Cell>
+    <Cell><Data ss:Type="String">Umgebung/Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_impulse_hit</Data></Cell>
     <Cell><Data ss:Type="String">Physics</Data></Cell>
-    <Cell><Data ss:Type="String">Physics</Data></Cell>
+    <Cell><Data ss:Type="String">Physik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_bullet</Data></Cell>
     <Cell><Data ss:Type="String">Bullet</Data></Cell>
-    <Cell><Data ss:Type="String">Bullet</Data></Cell>
+    <Cell><Data ss:Type="String">Geschoss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_heavyBullet</Data></Cell>
     <Cell><Data ss:Type="String">Heavy bullet</Data></Cell>
-    <Cell><Data ss:Type="String">Heavy bullet</Data></Cell>
+    <Cell><Data ss:Type="String">Schweres Geschoss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_explosion</Data></Cell>
@@ -688,7 +688,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_fire</Data></Cell>
     <Cell><Data ss:Type="String">Fire</Data></Cell>
-    <Cell><Data ss:Type="String">Fire</Data></Cell>
+    <Cell><Data ss:Type="String">Feuer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_10mm</Data></Cell>
@@ -713,22 +713,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_22</Data></Cell>
     <Cell><Data ss:Type="String">.22 caliber</Data></Cell>
-    <Cell><Data ss:Type="String">.22 caliber</Data></Cell>
+    <Cell><Data ss:Type="String">.22 Kaliber</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_223</Data></Cell>
     <Cell><Data ss:Type="String">.223 caliber</Data></Cell>
-    <Cell><Data ss:Type="String">.223 caliber</Data></Cell>
+    <Cell><Data ss:Type="String">.223 Kaliber</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_308</Data></Cell>
     <Cell><Data ss:Type="String">.308 caliber</Data></Cell>
-    <Cell><Data ss:Type="String">.308 caliber</Data></Cell>
+    <Cell><Data ss:Type="String">.308 Kaliber</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_357</Data></Cell>
     <Cell><Data ss:Type="String">.357 caliber</Data></Cell>
-    <Cell><Data ss:Type="String">.357 caliber</Data></Cell>
+    <Cell><Data ss:Type="String">.357 Kaliber</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_5_45x39</Data></Cell>
@@ -768,37 +768,37 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_rock_lge</Data></Cell>
     <Cell><Data ss:Type="String">Large rock</Data></Cell>
-    <Cell><Data ss:Type="String">Large rock</Data></Cell>
+    <Cell><Data ss:Type="String">Großer Stein</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_rock_sml</Data></Cell>
     <Cell><Data ss:Type="String">Small rock</Data></Cell>
-    <Cell><Data ss:Type="String">Small rock</Data></Cell>
+    <Cell><Data ss:Type="String">Kleiner Stein</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_tranquilizer_dart</Data></Cell>
     <Cell><Data ss:Type="String">Tranq dart</Data></Cell>
-    <Cell><Data ss:Type="String">Tranq dart</Data></Cell>
+    <Cell><Data ss:Type="String">Beutäubungspfeil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_venom_spit</Data></Cell>
     <Cell><Data ss:Type="String">Venom spit</Data></Cell>
-    <Cell><Data ss:Type="String">Venom spit</Data></Cell>
+    <Cell><Data ss:Type="String">Gift</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_arrow</Data></Cell>
     <Cell><Data ss:Type="String">Arrow</Data></Cell>
-    <Cell><Data ss:Type="String">Arrow</Data></Cell>
+    <Cell><Data ss:Type="String">Pfeil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_blunt</Data></Cell>
     <Cell><Data ss:Type="String">Blunt</Data></Cell>
-    <Cell><Data ss:Type="String">Blunt</Data></Cell>
+    <Cell><Data ss:Type="String">Stumpf</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_flare</Data></Cell>
     <Cell><Data ss:Type="String">Flare</Data></Cell>
-    <Cell><Data ss:Type="String">Flare</Data></Cell>
+    <Cell><Data ss:Type="String">Leuchtfackel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_hammer</Data></Cell>
@@ -808,92 +808,92 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_hatchet</Data></Cell>
     <Cell><Data ss:Type="String">Hatchet</Data></Cell>
-    <Cell><Data ss:Type="String">Hatchet</Data></Cell>
+    <Cell><Data ss:Type="String">Beil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_knife</Data></Cell>
     <Cell><Data ss:Type="String">Knife</Data></Cell>
-    <Cell><Data ss:Type="String">Knife</Data></Cell>
+    <Cell><Data ss:Type="String">Messer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_pickaxe</Data></Cell>
     <Cell><Data ss:Type="String">Pickaxe</Data></Cell>
-    <Cell><Data ss:Type="String">Pickaxe</Data></Cell>
+    <Cell><Data ss:Type="String">Spitzhacke</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_torch</Data></Cell>
     <Cell><Data ss:Type="String">Torch</Data></Cell>
-    <Cell><Data ss:Type="String">Torch</Data></Cell>
+    <Cell><Data ss:Type="String">Fackel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_default</Data></Cell>
     <Cell><Data ss:Type="String">Body</Data></Cell>
-    <Cell><Data ss:Type="String">Body</Data></Cell>
+    <Cell><Data ss:Type="String">Körper</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_armLeft</Data></Cell>
     <Cell><Data ss:Type="String">Left Arm</Data></Cell>
-    <Cell><Data ss:Type="String">Left Arm</Data></Cell>
+    <Cell><Data ss:Type="String">Linker Arm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_armRight</Data></Cell>
     <Cell><Data ss:Type="String">Right Arm</Data></Cell>
-    <Cell><Data ss:Type="String">Right Arm</Data></Cell>
+    <Cell><Data ss:Type="String">Rechter Arm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_handLeft</Data></Cell>
     <Cell><Data ss:Type="String">Left Hand</Data></Cell>
-    <Cell><Data ss:Type="String">Left Hand</Data></Cell>
+    <Cell><Data ss:Type="String">Linke Hand</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_handRight</Data></Cell>
     <Cell><Data ss:Type="String">Right Hand</Data></Cell>
-    <Cell><Data ss:Type="String">Right Hand</Data></Cell>
+    <Cell><Data ss:Type="String">Rechte Hand</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_head</Data></Cell>
     <Cell><Data ss:Type="String">Head</Data></Cell>
-    <Cell><Data ss:Type="String">Head</Data></Cell>
+    <Cell><Data ss:Type="String">Kopf</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_footLeft</Data></Cell>
     <Cell><Data ss:Type="String">Left Foot</Data></Cell>
-    <Cell><Data ss:Type="String">Left Foot</Data></Cell>
+    <Cell><Data ss:Type="String">Linker Fuß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_footRight</Data></Cell>
     <Cell><Data ss:Type="String">Right Foot</Data></Cell>
-    <Cell><Data ss:Type="String">Right Foot</Data></Cell>
+    <Cell><Data ss:Type="String">Rechter Fuß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_legLeft</Data></Cell>
     <Cell><Data ss:Type="String">Left Leg</Data></Cell>
-    <Cell><Data ss:Type="String">Left Leg</Data></Cell>
+    <Cell><Data ss:Type="String">Linkes Bein</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_legRight</Data></Cell>
     <Cell><Data ss:Type="String">Right Leg</Data></Cell>
-    <Cell><Data ss:Type="String">Right Leg</Data></Cell>
+    <Cell><Data ss:Type="String">Rechtes Bein</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_torso</Data></Cell>
     <Cell><Data ss:Type="String">Torso</Data></Cell>
-    <Cell><Data ss:Type="String">Torso</Data></Cell>
+    <Cell><Data ss:Type="String">Rumpf</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_pelvis</Data></Cell>
     <Cell><Data ss:Type="String">Pelvis</Data></Cell>
-    <Cell><Data ss:Type="String">Pelvis</Data></Cell>
+    <Cell><Data ss:Type="String">Becken</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_shoulderLeft</Data></Cell>
     <Cell><Data ss:Type="String">Left Shoulder</Data></Cell>
-    <Cell><Data ss:Type="String">Left Shoulder</Data></Cell>
+    <Cell><Data ss:Type="String">Linke Schulter</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_shoulderRight</Data></Cell>
     <Cell><Data ss:Type="String">Right Shoulder</Data></Cell>
-    <Cell><Data ss:Type="String">Right Shoulder</Data></Cell>
+    <Cell><Data ss:Type="String">Rechte Schulter</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_arm</Data></Cell>
@@ -908,57 +908,57 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_headshot</Data></Cell>
     <Cell><Data ss:Type="String">Head</Data></Cell>
-    <Cell><Data ss:Type="String">Head</Data></Cell>
+    <Cell><Data ss:Type="String">Kopf</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_foot</Data></Cell>
     <Cell><Data ss:Type="String">Feet</Data></Cell>
-    <Cell><Data ss:Type="String">Feet</Data></Cell>
+    <Cell><Data ss:Type="String">Fuß</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bp_knee</Data></Cell>
     <Cell><Data ss:Type="String">Knee</Data></Cell>
-    <Cell><Data ss:Type="String">Knee</Data></Cell>
+    <Cell><Data ss:Type="String">Knie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_single</Data></Cell>
     <Cell><Data ss:Type="String">Single</Data></Cell>
-    <Cell><Data ss:Type="String">Single</Data></Cell>
+    <Cell><Data ss:Type="String">einzeln</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_rapid</Data></Cell>
     <Cell><Data ss:Type="String">Rapid</Data></Cell>
-    <Cell><Data ss:Type="String">Rapid</Data></Cell>
+    <Cell><Data ss:Type="String">Rapid Modus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_burst</Data></Cell>
     <Cell><Data ss:Type="String">Burst</Data></Cell>
-    <Cell><Data ss:Type="String">Burst</Data></Cell>
+    <Cell><Data ss:Type="String">Burst Modus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_melee</Data></Cell>
     <Cell><Data ss:Type="String">Melee</Data></Cell>
-    <Cell><Data ss:Type="String">Melee</Data></Cell>
+    <Cell><Data ss:Type="String">Messer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_shotgun</Data></Cell>
     <Cell><Data ss:Type="String">Shotgun</Data></Cell>
-    <Cell><Data ss:Type="String">Shotgun</Data></Cell>
+    <Cell><Data ss:Type="String">Schrotflinte</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_throw</Data></Cell>
     <Cell><Data ss:Type="String">Throw</Data></Cell>
-    <Cell><Data ss:Type="String">Throw</Data></Cell>
+    <Cell><Data ss:Type="String">Werfen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_automatic</Data></Cell>
     <Cell><Data ss:Type="String">Auto</Data></Cell>
-    <Cell><Data ss:Type="String">Auto</Data></Cell>
+    <Cell><Data ss:Type="String">Automatik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_bow</Data></Cell>
     <Cell><Data ss:Type="String">Bow</Data></Cell>
-    <Cell><Data ss:Type="String">Bow</Data></Cell>
+    <Cell><Data ss:Type="String">Bogen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_c4</Data></Cell>
@@ -968,12 +968,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_chemlight</Data></Cell>
     <Cell><Data ss:Type="String">Light</Data></Cell>
-    <Cell><Data ss:Type="String">Light</Data></Cell>
+    <Cell><Data ss:Type="String">Licht</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_smokegrenade</Data></Cell>
     <Cell><Data ss:Type="String">Grenade</Data></Cell>
-    <Cell><Data ss:Type="String">Grenade</Data></Cell>
+    <Cell><Data ss:Type="String">Granate</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_molotov</Data></Cell>
@@ -983,777 +983,777 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_emptybottle</Data></Cell>
     <Cell><Data ss:Type="String">Bottle</Data></Cell>
-    <Cell><Data ss:Type="String">Bottle</Data></Cell>
+    <Cell><Data ss:Type="String">Flasche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_flashbang</Data></Cell>
     <Cell><Data ss:Type="String">Grenade</Data></Cell>
-    <Cell><Data ss:Type="String">Grenade</Data></Cell>
+    <Cell><Data ss:Type="String">Granate</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_pipebomb</Data></Cell>
     <Cell><Data ss:Type="String">Pipebomb</Data></Cell>
-    <Cell><Data ss:Type="String">Pipebomb</Data></Cell>
+    <Cell><Data ss:Type="String">Rohrbombe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_grenade</Data></Cell>
     <Cell><Data ss:Type="String">Grenade</Data></Cell>
-    <Cell><Data ss:Type="String">Grenade</Data></Cell>
+    <Cell><Data ss:Type="String">Granate</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_stand_no_permission</Data></Cell>
     <Cell><Data ss:Type="String">You are not a member of this base's clan</Data></Cell>
-    <Cell><Data ss:Type="String">You are not a member of this base's clan</Data></Cell>
+    <Cell><Data ss:Type="String">Du bist kein Mietglied dieses Clangrundstücks</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_retrieve_item_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">Item successfully retrieved</Data></Cell>
-    <Cell><Data ss:Type="String">Item successfully retrieved</Data></Cell>
+    <Cell><Data ss:Type="String">Gegenstand erfolgreich herausgeholt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_retrieve_item_failed</Data></Cell>
     <Cell><Data ss:Type="String">Kiosk system is experiencing issues. Try again later.</Data></Cell>
-    <Cell><Data ss:Type="String">Kiosk system is experiencing issues. Try again later.</Data></Cell>
+    <Cell><Data ss:Type="String">Das Kiosksystem hat Probleme. Versuche es später noch einmal.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_store_item_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">Item successfully stored</Data></Cell>
-    <Cell><Data ss:Type="String">Item successfully stored</Data></Cell>
+    <Cell><Data ss:Type="String">Gegenstand erfolgreich eingelagert</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_store_item_failed</Data></Cell>
     <Cell><Data ss:Type="String">Kiosk system is experiencing issues. Try again later.</Data></Cell>
-    <Cell><Data ss:Type="String">Kiosk system is experiencing issues. Try again later.</Data></Cell>
+    <Cell><Data ss:Type="String">Das Kiosksystem hat Probleme. Versuche es später noch einmal.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_store_no_inventory_space</Data></Cell>
     <Cell><Data ss:Type="String">Player inventory is full or the weight limit would be exceeded</Data></Cell>
-    <Cell><Data ss:Type="String">Player inventory is full or the weight limit would be exceeded</Data></Cell>
+    <Cell><Data ss:Type="String">Spielerinventar voll oder das Gewichtslimit ist erreicht</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_insufficient_amcoins</Data></Cell>
     <Cell><Data ss:Type="String">You have insufficient amCoins for this transaction</Data></Cell>
-    <Cell><Data ss:Type="String">You have insufficient amCoins for this transaction</Data></Cell>
+    <Cell><Data ss:Type="String">Du hast zu wenig amCoins um diese Aktion durchzuführen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_non_empty_item</Data></Cell>
     <Cell><Data ss:Type="String">The item must be empty to be stored</Data></Cell>
-    <Cell><Data ss:Type="String">The item must be empty to be stored</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand muss leer sein um es zu lagern</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_damaged_item</Data></Cell>
     <Cell><Data ss:Type="String">The item is damaged and cannot be stored</Data></Cell>
-    <Cell><Data ss:Type="String">The item is damaged and cannot be stored</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand ist beschädigt und kann nicht eingelagert werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_not_full_stack</Data></Cell>
     <Cell><Data ss:Type="String">The item must be a full stack to be stored</Data></Cell>
-    <Cell><Data ss:Type="String">The item must be a full stack to be stored</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand muss ein voller Stapel sein um es zu lagern</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_not_empty_magazine</Data></Cell>
     <Cell><Data ss:Type="String">Magazines must be empty to be stored</Data></Cell>
-    <Cell><Data ss:Type="String">Magazines must be empty to be stored</Data></Cell>
+    <Cell><Data ss:Type="String">Magazine müssen leer sein um diese einzulagern</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_inventory_disabled_admin</Data></Cell>
     <Cell><Data ss:Type="String">Kiosks are disabled by the server admin</Data></Cell>
-    <Cell><Data ss:Type="String">Kiosks are disabled by the server admin</Data></Cell>
+    <Cell><Data ss:Type="String">Kiosks sind durch den Server Admin ausgeschaltet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_inventory_disabled_server</Data></Cell>
     <Cell><Data ss:Type="String">Kiosks are disabled on the server</Data></Cell>
-    <Cell><Data ss:Type="String">Kiosks are disabled on the server</Data></Cell>
+    <Cell><Data ss:Type="String">Kiosks sind auf diesem Server deaktiviert</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">steam_inventory_enabled_sqlite</Data></Cell>
     <Cell><Data ss:Type="String">Kiosks only support skins when the server is self-hosted</Data></Cell>
-    <Cell><Data ss:Type="String">Kiosks only support skins when the server is self-hosted</Data></Cell>
+    <Cell><Data ss:Type="String">Kiosks unterstützt bei Selbstgehosteten Servern Skins</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">skin_successfully_applied</Data></Cell>
     <Cell><Data ss:Type="String">The skin was successfully applied</Data></Cell>
-    <Cell><Data ss:Type="String">The skin was successfully applied</Data></Cell>
+    <Cell><Data ss:Type="String">Der Skin wurde erfolgreich aufgetragen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">skin_not_applied</Data></Cell>
     <Cell><Data ss:Type="String">The skin could not be applied</Data></Cell>
-    <Cell><Data ss:Type="String">The skin could not be applied</Data></Cell>
+    <Cell><Data ss:Type="String">Der Skin konnte nicht aufgetragen werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">skin_no_vehicle_in_area</Data></Cell>
     <Cell><Data ss:Type="String">No vehicle was found in the skinning area</Data></Cell>
-    <Cell><Data ss:Type="String">No vehicle was found in the skinning area</Data></Cell>
+    <Cell><Data ss:Type="String">Es wurde kein Auto in der Nähe gefunden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">skin_not_vehicle_skin</Data></Cell>
     <Cell><Data ss:Type="String">The skin cannot be applied to the current vehicle</Data></Cell>
-    <Cell><Data ss:Type="String">The skin cannot be applied to the current vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">Der Skin kann auf das aktuelle Auto nicht aufgetragen werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_successfully_destroyed</Data></Cell>
     <Cell><Data ss:Type="String">The destroy operation was successful</Data></Cell>
-    <Cell><Data ss:Type="String">The destroy operation was successful</Data></Cell>
+    <Cell><Data ss:Type="String">Die Zerstörung war erfolgreich</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_not_destroyed</Data></Cell>
     <Cell><Data ss:Type="String">An error occurred during the destroy operation</Data></Cell>
-    <Cell><Data ss:Type="String">An error occurred during the destroy operation</Data></Cell>
+    <Cell><Data ss:Type="String">Während des Zerstörungsvorgangs ist ein Fehler aufgetreten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plant_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">The seeds were successfully planted</Data></Cell>
-    <Cell><Data ss:Type="String">The seeds were successfully planted</Data></Cell>
+    <Cell><Data ss:Type="String">Die Samen wurden erfolgreich eingepflanzt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plant_failed</Data></Cell>
     <Cell><Data ss:Type="String">The seeds need to be planted in a planter box</Data></Cell>
-    <Cell><Data ss:Type="String">The seeds need to be planted in a planter box</Data></Cell>
+    <Cell><Data ss:Type="String">Die Samen müssen in einer Anpflanzkiste gepflanzt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_needs_dirt</Data></Cell>
     <Cell><Data ss:Type="String">The planter needs to be filled with dirt</Data></Cell>
-    <Cell><Data ss:Type="String">The planter needs to be filled with dirt</Data></Cell>
+    <Cell><Data ss:Type="String">Der Pflanzer muss erst mit Erde gefüllt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_needs_water</Data></Cell>
     <Cell><Data ss:Type="String">The planter needs water added to it</Data></Cell>
-    <Cell><Data ss:Type="String">The planter needs water added to it</Data></Cell>
+    <Cell><Data ss:Type="String">Der Pflanzer braucht Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_needs_seeds</Data></Cell>
     <Cell><Data ss:Type="String">The planter needs seeds added to it</Data></Cell>
-    <Cell><Data ss:Type="String">The planter needs seeds added to it</Data></Cell>
+    <Cell><Data ss:Type="String">Der Pflanzer braucht Samen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_dead</Data></Cell>
     <Cell><Data ss:Type="String">The crop has died</Data></Cell>
-    <Cell><Data ss:Type="String">The crop has died</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze ist gestorben</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_needs_pesticide</Data></Cell>
     <Cell><Data ss:Type="String">The crop needs a pesticide applied to it</Data></Cell>
-    <Cell><Data ss:Type="String">The crop needs a pesticide applied to it</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze benötigt Pestizide</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_rotten</Data></Cell>
     <Cell><Data ss:Type="String">The crop is rotten</Data></Cell>
-    <Cell><Data ss:Type="String">The crop is rotten</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze ist verrottet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_needs_more_water</Data></Cell>
     <Cell><Data ss:Type="String">The crop could use more water</Data></Cell>
-    <Cell><Data ss:Type="String">The crop could use more water</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze könnte mehr Wasser gebrauchen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_could_use_fertilizer</Data></Cell>
     <Cell><Data ss:Type="String">The planter could use more fertilizer</Data></Cell>
-    <Cell><Data ss:Type="String">The planter could use more fertilizer</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze könnte etwas Dünger vertragen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_growing_fine</Data></Cell>
     <Cell><Data ss:Type="String">The crop is growing well</Data></Cell>
-    <Cell><Data ss:Type="String">The crop is growing well</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze wächst sehr gut</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_has_enough_dirt</Data></Cell>
     <Cell><Data ss:Type="String">The planter has enough dirt</Data></Cell>
-    <Cell><Data ss:Type="String">The planter has enough dirt</Data></Cell>
+    <Cell><Data ss:Type="String">Der Pflanzer hat genug Erde</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_has_enough_fertilizer</Data></Cell>
     <Cell><Data ss:Type="String">The planter has enough fertilizer</Data></Cell>
-    <Cell><Data ss:Type="String">The planter has enough fertilizer</Data></Cell>
+    <Cell><Data ss:Type="String">Der Pflanze hat genug Dünger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_has_enough_water</Data></Cell>
     <Cell><Data ss:Type="String">The planter has enough water</Data></Cell>
-    <Cell><Data ss:Type="String">The planter has enough water</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze hat genug Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_has_no_water</Data></Cell>
     <Cell><Data ss:Type="String">The item is empty</Data></Cell>
-    <Cell><Data ss:Type="String">The item is empty</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand ist leer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_already_has_seeds</Data></Cell>
     <Cell><Data ss:Type="String">The planter already has seeds in it</Data></Cell>
-    <Cell><Data ss:Type="String">The planter already has seeds in it</Data></Cell>
+    <Cell><Data ss:Type="String">Der Pflanzer hat bereits Samen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_doesnt_need_pesticide</Data></Cell>
     <Cell><Data ss:Type="String">The crop doesnt need a pesticide applied right now</Data></Cell>
-    <Cell><Data ss:Type="String">The crop doesnt need a pesticide applied right now</Data></Cell>
+    <Cell><Data ss:Type="String">Der Pflanze braucht im Moment keine Pestizide</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_fertilizer_added</Data></Cell>
     <Cell><Data ss:Type="String">The fertilizer was added, but the planter could use more</Data></Cell>
-    <Cell><Data ss:Type="String">The fertilizer was added, but the planter could use more</Data></Cell>
+    <Cell><Data ss:Type="String">Dünger wurde hinzugefügt. Die Pflanze könnte noch mehr vertragen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_water_added</Data></Cell>
     <Cell><Data ss:Type="String">The water was added, but the planter could use more</Data></Cell>
-    <Cell><Data ss:Type="String">The water was added, but the planter could use more</Data></Cell>
+    <Cell><Data ss:Type="String">Wasser wurde hinzugefügt. Die Pflanze könnte mehr vertragen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_seeds_added</Data></Cell>
     <Cell><Data ss:Type="String">The seeds were planted</Data></Cell>
-    <Cell><Data ss:Type="String">The seeds were planted</Data></Cell>
+    <Cell><Data ss:Type="String">Die Samen wurden gepflanzt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_dirt_added</Data></Cell>
     <Cell><Data ss:Type="String">The dirt was added and the planter has enough</Data></Cell>
-    <Cell><Data ss:Type="String">The dirt was added and the planter has enough</Data></Cell>
+    <Cell><Data ss:Type="String">Erde wurde hinzugefügt und der Pflanzer hat genug</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_harvested</Data></Cell>
     <Cell><Data ss:Type="String">You have harvested the crop!</Data></Cell>
-    <Cell><Data ss:Type="String">You have harvested the crop!</Data></Cell>
+    <Cell><Data ss:Type="String">Sie haben erfolgreich geerntet!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_destroyed</Data></Cell>
     <Cell><Data ss:Type="String">You have destroyed the crop</Data></Cell>
-    <Cell><Data ss:Type="String">You have destroyed the crop</Data></Cell>
+    <Cell><Data ss:Type="String">Du hast die Ernte zerstört</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">destroy_item_title</Data></Cell>
     <Cell><Data ss:Type="String">Permanently Destroy</Data></Cell>
-    <Cell><Data ss:Type="String">Permanently Destroy</Data></Cell>
+    <Cell><Data ss:Type="String">Dauerhaft zerstört</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_growth_stopped</Data></Cell>
     <Cell><Data ss:Type="String">The crop is not growing</Data></Cell>
-    <Cell><Data ss:Type="String">The crop is not growing</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze wächst nicht</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_growth_slow</Data></Cell>
     <Cell><Data ss:Type="String">The crop is growing slower than expected</Data></Cell>
-    <Cell><Data ss:Type="String">The crop is growing slower than expected</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze wächst langsamer als gedacht</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_growth_medium</Data></Cell>
     <Cell><Data ss:Type="String">The crop is growing normally</Data></Cell>
-    <Cell><Data ss:Type="String">The crop is growing normally</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze wächst im normalen Tempo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_growth_fast</Data></Cell>
     <Cell><Data ss:Type="String">The crop is growing faster than expected</Data></Cell>
-    <Cell><Data ss:Type="String">The crop is growing faster than expected</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze wächst schneller als gedacht</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_growth_very_fast</Data></Cell>
     <Cell><Data ss:Type="String">The crop is growing very fast</Data></Cell>
-    <Cell><Data ss:Type="String">The crop is growing very fast</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze wächst sehr schnell</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_temp_optimal</Data></Cell>
     <Cell><Data ss:Type="String">Temperature optimal</Data></Cell>
-    <Cell><Data ss:Type="String">Temperature optimal</Data></Cell>
+    <Cell><Data ss:Type="String">Temperatur optimal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_temp_not_optimal</Data></Cell>
     <Cell><Data ss:Type="String">The temperature is not optimal</Data></Cell>
-    <Cell><Data ss:Type="String">The temperature is not optimal</Data></Cell>
+    <Cell><Data ss:Type="String">Die Temperatur ist nicht optimal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_temp_ok</Data></Cell>
     <Cell><Data ss:Type="String">Temperature ok</Data></Cell>
-    <Cell><Data ss:Type="String">Temperature ok</Data></Cell>
+    <Cell><Data ss:Type="String">Temperatur ok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_temp_cold</Data></Cell>
     <Cell><Data ss:Type="String">The temperature is too low</Data></Cell>
-    <Cell><Data ss:Type="String">The temperature is too low</Data></Cell>
+    <Cell><Data ss:Type="String">Die Temperatur ist zu niedrig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_temp_hot</Data></Cell>
     <Cell><Data ss:Type="String">The temperature is too high</Data></Cell>
-    <Cell><Data ss:Type="String">The temperature is too high</Data></Cell>
+    <Cell><Data ss:Type="String">Die Temperatur ist zu hoch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_water_rain</Data></Cell>
     <Cell><Data ss:Type="String">Water rising</Data></Cell>
-    <Cell><Data ss:Type="String">Water rising</Data></Cell>
+    <Cell><Data ss:Type="String">Wasser steigend</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_water_no</Data></Cell>
     <Cell><Data ss:Type="String">Water constant</Data></Cell>
-    <Cell><Data ss:Type="String">Water constant</Data></Cell>
+    <Cell><Data ss:Type="String">Wasser konstant</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_water_evap</Data></Cell>
     <Cell><Data ss:Type="String">Water evaporating</Data></Cell>
-    <Cell><Data ss:Type="String">Water evaporating</Data></Cell>
+    <Cell><Data ss:Type="String">Wasser verdunstet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_light_ideal</Data></Cell>
     <Cell><Data ss:Type="String">Ideal light</Data></Cell>
-    <Cell><Data ss:Type="String">Ideal light</Data></Cell>
+    <Cell><Data ss:Type="String">Perfektes Licht</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_light_ok</Data></Cell>
     <Cell><Data ss:Type="String">OK light</Data></Cell>
-    <Cell><Data ss:Type="String">OK light</Data></Cell>
+    <Cell><Data ss:Type="String">Licht ist ok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_env_light_bad</Data></Cell>
     <Cell><Data ss:Type="String">The crop has bad lighting</Data></Cell>
-    <Cell><Data ss:Type="String">The crop has bad lighting</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze hat schlechtest Licht</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_has_no_diesel</Data></Cell>
     <Cell><Data ss:Type="String">The item does not contain any diesel fuel</Data></Cell>
-    <Cell><Data ss:Type="String">The item does not contain any diesel fuel</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand enthält keinen Kraftstoff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">using</Data></Cell>
     <Cell><Data ss:Type="String">Using</Data></Cell>
-    <Cell><Data ss:Type="String">Using</Data></Cell>
+    <Cell><Data ss:Type="String">Benutze</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_clean</Data></Cell>
     <Cell><Data ss:Type="String">clean water</Data></Cell>
-    <Cell><Data ss:Type="String">clean water</Data></Cell>
+    <Cell><Data ss:Type="String">Frisches Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_irradiated</Data></Cell>
     <Cell><Data ss:Type="String">irradiated water</Data></Cell>
-    <Cell><Data ss:Type="String">irradiated water</Data></Cell>
+    <Cell><Data ss:Type="String">Verstrahltes Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_diesel</Data></Cell>
     <Cell><Data ss:Type="String">diesel fuel</Data></Cell>
-    <Cell><Data ss:Type="String">diesel fuel</Data></Cell>
+    <Cell><Data ss:Type="String">Dieselkraftstoff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_propane</Data></Cell>
     <Cell><Data ss:Type="String">propane</Data></Cell>
-    <Cell><Data ss:Type="String">propane</Data></Cell>
+    <Cell><Data ss:Type="String">Propan</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_dirty</Data></Cell>
     <Cell><Data ss:Type="String">dirty water</Data></Cell>
-    <Cell><Data ss:Type="String">dirty water</Data></Cell>
+    <Cell><Data ss:Type="String">Dreckiges Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_poisoned</Data></Cell>
     <Cell><Data ss:Type="String">strange water</Data></Cell>
-    <Cell><Data ss:Type="String">strange water</Data></Cell>
+    <Cell><Data ss:Type="String">Seltsames Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_poisonedirradiated</Data></Cell>
     <Cell><Data ss:Type="String">strange irradiated water</Data></Cell>
-    <Cell><Data ss:Type="String">strange irradiated water</Data></Cell>
+    <Cell><Data ss:Type="String">Seltsames verstrahltes Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_alcohol</Data></Cell>
     <Cell><Data ss:Type="String">alcohol</Data></Cell>
-    <Cell><Data ss:Type="String">alcohol</Data></Cell>
+    <Cell><Data ss:Type="String">Alkohol</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consumable_appears_clean</Data></Cell>
     <Cell><Data ss:Type="String">The item appears to be fine</Data></Cell>
-    <Cell><Data ss:Type="String">The item appears to be fine</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand scheint gut zu sein</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consumable_appears_irradiated</Data></Cell>
     <Cell><Data ss:Type="String">The item is irradiated</Data></Cell>
-    <Cell><Data ss:Type="String">The item is irradiated</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand ist verstrahlt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consumable_appears_diesel</Data></Cell>
     <Cell><Data ss:Type="String">The item smells like diesel fuel</Data></Cell>
-    <Cell><Data ss:Type="String">The item smells like diesel fuel</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegendstand riecht nach Kraftstoff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consumable_appears_propane</Data></Cell>
     <Cell><Data ss:Type="String">The item smells like propane</Data></Cell>
-    <Cell><Data ss:Type="String">The item smells like propane</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegendstand riecht nach Propangas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consumable_appears_dirty</Data></Cell>
     <Cell><Data ss:Type="String">The item is old and dirty</Data></Cell>
-    <Cell><Data ss:Type="String">The item is old and dirty</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand ist alt und dreckig</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consumable_appears_poisoned</Data></Cell>
     <Cell><Data ss:Type="String">The item smells strange</Data></Cell>
-    <Cell><Data ss:Type="String">The item smells strange</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand riecht seltsam</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consumable_appears_poisonedirradiated</Data></Cell>
     <Cell><Data ss:Type="String">The item smells strange and is irradiated</Data></Cell>
-    <Cell><Data ss:Type="String">The item smells strange and is irradiated</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand riecht seltsam und ist verstrahlt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consumable_appears_alcohol</Data></Cell>
     <Cell><Data ss:Type="String">The item smells alcoholic</Data></Cell>
-    <Cell><Data ss:Type="String">The item smells alcoholic</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand riecht alkoholisch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">player_doesnt_have_scrapmetal</Data></Cell>
     <Cell><Data ss:Type="String">You need Scrap Metal in your inventory</Data></Cell>
-    <Cell><Data ss:Type="String">You need Scrap Metal in your inventory</Data></Cell>
+    <Cell><Data ss:Type="String">Du brauchst Altmetall in deinem Inventar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">electricityp</Data></Cell>
     <Cell><Data ss:Type="String">Electricity Effect</Data></Cell>
-    <Cell><Data ss:Type="String">Electricity Effect</Data></Cell>
+    <Cell><Data ss:Type="String">Elektrizitätseffekt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acidp</Data></Cell>
     <Cell><Data ss:Type="String">Acid Effect</Data></Cell>
-    <Cell><Data ss:Type="String">Acid Effect</Data></Cell>
+    <Cell><Data ss:Type="String">Säureeffekt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">server_self_hosted</Data></Cell>
     <Cell><Data ss:Type="String">This is a self-hosted server. Admins have access to some cheat commands.</Data></Cell>
-    <Cell><Data ss:Type="String">This is a self-hosted server. Admins have access to some cheat commands.</Data></Cell>
+    <Cell><Data ss:Type="String">Dies ist ein Selbsgehosteter Server. Admins haben Zugriff auf manche Cheat-Befehle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">server_central_relaxed</Data></Cell>
     <Cell><Data ss:Type="String">This central server supports custom rules. Admins have access to customization features.</Data></Cell>
-    <Cell><Data ss:Type="String">This central server supports custom rules. Admins have access to customization features.</Data></Cell>
+    <Cell><Data ss:Type="String">Dieser zentrale Server unterstützt benutzerdefinierte Regeln. Admins haben Zugriff auf Anpassungsfunktionen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_has_no_propane</Data></Cell>
     <Cell><Data ss:Type="String">The grill needs a propane tank for fuel</Data></Cell>
-    <Cell><Data ss:Type="String">The grill needs a propane tank for fuel</Data></Cell>
+    <Cell><Data ss:Type="String">Der Grill braucht einen Propantank</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_has_no_wood</Data></Cell>
     <Cell><Data ss:Type="String">The grill needs some wood to light it</Data></Cell>
-    <Cell><Data ss:Type="String">The grill needs some wood to light it</Data></Cell>
+    <Cell><Data ss:Type="String">Der Grill braucht Holz um zu brennen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_is_turned_off</Data></Cell>
     <Cell><Data ss:Type="String">The grill needs to be lit</Data></Cell>
-    <Cell><Data ss:Type="String">The grill needs to be lit</Data></Cell>
+    <Cell><Data ss:Type="String">Der Grill muss angemacht werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_needs_food</Data></Cell>
     <Cell><Data ss:Type="String">The grill needs food to cook</Data></Cell>
-    <Cell><Data ss:Type="String">The grill needs food to cook</Data></Cell>
+    <Cell><Data ss:Type="String">Der Grill braucht essen um zu grillen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_has_fuel</Data></Cell>
     <Cell><Data ss:Type="String">The grill already has a fuel source</Data></Cell>
-    <Cell><Data ss:Type="String">The grill already has a fuel source</Data></Cell>
+    <Cell><Data ss:Type="String">Der Grill hat bereits eine Brennstoffquelle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_fuel_added</Data></Cell>
     <Cell><Data ss:Type="String">The grill has a fuel source now and can be lit</Data></Cell>
-    <Cell><Data ss:Type="String">The grill has a fuel source now and can be lit</Data></Cell>
+    <Cell><Data ss:Type="String">Der Grill hat jetzt Brennstoff und kann angezündet werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_already_has_food</Data></Cell>
     <Cell><Data ss:Type="String">The grill is already cooking some food</Data></Cell>
-    <Cell><Data ss:Type="String">The grill is already cooking some food</Data></Cell>
+    <Cell><Data ss:Type="String">Der Grill grillt bereits essen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_food_cannot_be_cooked</Data></Cell>
     <Cell><Data ss:Type="String">That item cannot be cooked</Data></Cell>
-    <Cell><Data ss:Type="String">That item cannot be cooked</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand kann nicht gekocht werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_food_added</Data></Cell>
     <Cell><Data ss:Type="String">Food was added to the grill</Data></Cell>
-    <Cell><Data ss:Type="String">Food was added to the grill</Data></Cell>
+    <Cell><Data ss:Type="String">Essen wurde auf den Grill gelegt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_food_retrieved</Data></Cell>
     <Cell><Data ss:Type="String">You retrieved food from the grill</Data></Cell>
-    <Cell><Data ss:Type="String">You retrieved food from the grill</Data></Cell>
+    <Cell><Data ss:Type="String">Du hast Essen vom Grill genommen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">microwave_has_no_power</Data></Cell>
     <Cell><Data ss:Type="String">The microwave needs power to operate</Data></Cell>
-    <Cell><Data ss:Type="String">The microwave needs power to operate</Data></Cell>
+    <Cell><Data ss:Type="String">Die Mikrowelle benötigt zum Betrieb Strom</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">microwave_needs_food</Data></Cell>
     <Cell><Data ss:Type="String">The microwave needs food to cook</Data></Cell>
-    <Cell><Data ss:Type="String">The microwave needs food to cook</Data></Cell>
+    <Cell><Data ss:Type="String">Die Mikrowelle braucht essen um zu kochen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">microwave_is_turned_off</Data></Cell>
     <Cell><Data ss:Type="String">The microwave is not turned on</Data></Cell>
-    <Cell><Data ss:Type="String">The microwave is not turned on</Data></Cell>
+    <Cell><Data ss:Type="String">Die Mikrowelle is nicht an</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">oven_has_no_power</Data></Cell>
     <Cell><Data ss:Type="String">The oven needs power to operate</Data></Cell>
-    <Cell><Data ss:Type="String">The oven needs power to operate</Data></Cell>
+    <Cell><Data ss:Type="String">Der Ofen benötigt zum Betrieb Strom</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">oven_is_turned_off</Data></Cell>
     <Cell><Data ss:Type="String">The oven is not turned on</Data></Cell>
-    <Cell><Data ss:Type="String">The oven is not turned on</Data></Cell>
+    <Cell><Data ss:Type="String">Der Ofen ist nicht an</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">oven_needs_food</Data></Cell>
     <Cell><Data ss:Type="String">The oven needs food to cook</Data></Cell>
-    <Cell><Data ss:Type="String">The oven needs food to cook</Data></Cell>
+    <Cell><Data ss:Type="String">Der Ofen braucht essen um zu kochen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">oven_already_has_food</Data></Cell>
     <Cell><Data ss:Type="String">The oven is already cooking some food</Data></Cell>
-    <Cell><Data ss:Type="String">The oven is already cooking some food</Data></Cell>
+    <Cell><Data ss:Type="String">Im Ofen wird schon essen gekocht</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">oven_food_cannot_be_cooked</Data></Cell>
     <Cell><Data ss:Type="String">That item cannot be cooked</Data></Cell>
-    <Cell><Data ss:Type="String">That item cannot be cooked</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand kann nicht gekocht werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">oven_food_added</Data></Cell>
     <Cell><Data ss:Type="String">Food was added to the oven</Data></Cell>
-    <Cell><Data ss:Type="String">Food was added to the oven</Data></Cell>
+    <Cell><Data ss:Type="String">Essen wurde in den Ofen gelegt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">oven_food_retrieved</Data></Cell>
     <Cell><Data ss:Type="String">You retrieved food from the oven</Data></Cell>
-    <Cell><Data ss:Type="String">You retrieved food from the oven</Data></Cell>
+    <Cell><Data ss:Type="String">Du holst das essen aus dem Ofen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_barrel_is_empty</Data></Cell>
     <Cell><Data ss:Type="String">The water barrel is empty</Data></Cell>
-    <Cell><Data ss:Type="String">The water barrel is empty</Data></Cell>
+    <Cell><Data ss:Type="String">Das Wasserfass ist leer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_barrel_is_full</Data></Cell>
     <Cell><Data ss:Type="String">The water barrel is full</Data></Cell>
-    <Cell><Data ss:Type="String">The water barrel is full</Data></Cell>
+    <Cell><Data ss:Type="String">Das Wasserfass ist voll</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_barrel_different_fluid_type</Data></Cell>
     <Cell><Data ss:Type="String">The water barrel has a different type of fluid in it</Data></Cell>
-    <Cell><Data ss:Type="String">The water barrel has a different type of fluid in it</Data></Cell>
+    <Cell><Data ss:Type="String">Das Wasserfass enthält eine andere Art von Flüssigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_barrel_fluid_added</Data></Cell>
     <Cell><Data ss:Type="String">Fluid was added to the water barrel</Data></Cell>
-    <Cell><Data ss:Type="String">Fluid was added to the water barrel</Data></Cell>
+    <Cell><Data ss:Type="String">Flüssigkeit wurde in das Wasserfass gegeben</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_barrel_cant_fill_container</Data></Cell>
     <Cell><Data ss:Type="String">The container is full or has a different type of fluid</Data></Cell>
-    <Cell><Data ss:Type="String">The container is full or has a different type of fluid</Data></Cell>
+    <Cell><Data ss:Type="String">Der Behälter ist voll oder enthält eine andere Art von Flüssigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_barrel_filled_container</Data></Cell>
     <Cell><Data ss:Type="String">Fluid was added to the container</Data></Cell>
-    <Cell><Data ss:Type="String">Fluid was added to the container</Data></Cell>
+    <Cell><Data ss:Type="String">Flüssigkeit wurde in den Behälter gegeben</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_collector_is_empty</Data></Cell>
     <Cell><Data ss:Type="String">The water collector is empty</Data></Cell>
-    <Cell><Data ss:Type="String">The water collector is empty</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wassersammler ist leer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_has_no_fuel</Data></Cell>
     <Cell><Data ss:Type="String">The purifier needs some wood to light it</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier needs some wood to light it</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger braucht etwas Holz um es anzuzünden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_has_no_tank</Data></Cell>
     <Cell><Data ss:Type="String">The purifier needs an empty propane tank</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier needs an empty propane tank</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger braucht einen leeren Propantank</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_has_no_dirty_water</Data></Cell>
     <Cell><Data ss:Type="String">The purifier has no dirty water to clean</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier has no dirty water to clean</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger hat kein dreckiges Wasser um es zu reinigen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_is_full_clean_water</Data></Cell>
     <Cell><Data ss:Type="String">The purifier is full of clean water</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier is full of clean water</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger ist voll mit frischem Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_is_turned_off</Data></Cell>
     <Cell><Data ss:Type="String">The purifier needs to be lit</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier needs to be lit</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger muss angezündet werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_has_fuel</Data></Cell>
     <Cell><Data ss:Type="String">The purifier already has wood for a fuel source</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier already has wood for a fuel source</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger hat bereits Holz als Brennstoffquelle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_fuel_added</Data></Cell>
     <Cell><Data ss:Type="String">The purifier has a fuel source now and can be lit</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier has a fuel source now and can be lit</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger hat Brennstoff und kann angezündet werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_has_tank</Data></Cell>
     <Cell><Data ss:Type="String">The purifier already has a tank</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier already has a tank</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger hat bereits einen Tank</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_tank_added</Data></Cell>
     <Cell><Data ss:Type="String">The tank was added to the purifier</Data></Cell>
-    <Cell><Data ss:Type="String">The tank was added to the purifier</Data></Cell>
+    <Cell><Data ss:Type="String">Der Tank wurde dem Wasserreiniger hinzugefügt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_dirty_water_is_full</Data></Cell>
     <Cell><Data ss:Type="String">The purifier is full of dirty water</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier is full of dirty water</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger ist voll mit dreckigem Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_cant_add_fluid</Data></Cell>
     <Cell><Data ss:Type="String">The container does not have fluid that can be cleaned</Data></Cell>
-    <Cell><Data ss:Type="String">The container does not have fluid that can be cleaned</Data></Cell>
+    <Cell><Data ss:Type="String">Der Behälter enthält keine zu reinigende Flüssigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_fluid_added</Data></Cell>
     <Cell><Data ss:Type="String">Fluid was added to the purifier</Data></Cell>
-    <Cell><Data ss:Type="String">Fluid was added to the purifier</Data></Cell>
+    <Cell><Data ss:Type="String">Flüssigkeit wurde dem Wasserreiniger hinzugefügt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_clean_water_is_empty</Data></Cell>
     <Cell><Data ss:Type="String">The purifier has no clean water</Data></Cell>
-    <Cell><Data ss:Type="String">The purifier has no clean water</Data></Cell>
+    <Cell><Data ss:Type="String">Der Wasserreiniger hat kein frisches Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_cant_fill_container</Data></Cell>
     <Cell><Data ss:Type="String">The container is full or has contaminated water</Data></Cell>
-    <Cell><Data ss:Type="String">The container is full or has contaminated water</Data></Cell>
+    <Cell><Data ss:Type="String">Der Behälter ist voll mit verstrahltem Wasser</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">purifier_filled_container</Data></Cell>
     <Cell><Data ss:Type="String">Fluid was added to the container</Data></Cell>
-    <Cell><Data ss:Type="String">Fluid was added to the container</Data></Cell>
+    <Cell><Data ss:Type="String">Wasser in den Behälter geschüttet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_can_harvest</Data></Cell>
     <Cell><Data ss:Type="String">The crop is ready to harvest</Data></Cell>
-    <Cell><Data ss:Type="String">The crop is ready to harvest</Data></Cell>
+    <Cell><Data ss:Type="String">Die Pflanze ist bereit zum ernten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fluid_container_not_empty</Data></Cell>
     <Cell><Data ss:Type="String">The container has a different type of fluid in it</Data></Cell>
-    <Cell><Data ss:Type="String">The container has a different type of fluid in it</Data></Cell>
+    <Cell><Data ss:Type="String">Der Behälter enthält eine andere Art von Flüssigkeit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_has_no_wood</Data></Cell>
     <Cell><Data ss:Type="String">The campfire needs some wood to light it</Data></Cell>
-    <Cell><Data ss:Type="String">The campfire needs some wood to light it</Data></Cell>
+    <Cell><Data ss:Type="String">Das Lagerfeuer braucht etwas Holz um es anzuzünden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_is_turned_off</Data></Cell>
     <Cell><Data ss:Type="String">The campfire needs to be lit</Data></Cell>
-    <Cell><Data ss:Type="String">The campfire needs to be lit</Data></Cell>
+    <Cell><Data ss:Type="String">Das Lagerfeuer muss angezündet werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_needs_food</Data></Cell>
     <Cell><Data ss:Type="String">The campfire needs food to cook</Data></Cell>
-    <Cell><Data ss:Type="String">The campfire needs food to cook</Data></Cell>
+    <Cell><Data ss:Type="String">Das Lagerfeuer braucht essen um zu kochen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_has_fuel</Data></Cell>
     <Cell><Data ss:Type="String">The campfire already has wood in it</Data></Cell>
-    <Cell><Data ss:Type="String">The campfire already has wood in it</Data></Cell>
+    <Cell><Data ss:Type="String">Das Lagerfeuer hat bereits Holz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_fuel_added</Data></Cell>
     <Cell><Data ss:Type="String">The campfire has wood and can be lit</Data></Cell>
-    <Cell><Data ss:Type="String">The campfire has wood and can be lit</Data></Cell>
+    <Cell><Data ss:Type="String">Das Lagerfeuer hat Holz und kann angezündet werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_already_has_food</Data></Cell>
     <Cell><Data ss:Type="String">The campfire is already cooking some food</Data></Cell>
-    <Cell><Data ss:Type="String">The campfire is already cooking some food</Data></Cell>
+    <Cell><Data ss:Type="String">Das Lagerfeuer kocht bereits essen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_food_cannot_be_cooked</Data></Cell>
     <Cell><Data ss:Type="String">That item cannot be cooked</Data></Cell>
-    <Cell><Data ss:Type="String">That item cannot be cooked</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand kann nicht gekocht werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_food_added</Data></Cell>
     <Cell><Data ss:Type="String">Food was added to the campfire</Data></Cell>
-    <Cell><Data ss:Type="String">Food was added to the campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Essen wurde auf das Lagerfeuer gelegt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">campfire_food_retrieved</Data></Cell>
     <Cell><Data ss:Type="String">You retrieved food from the campfire</Data></Cell>
-    <Cell><Data ss:Type="String">You retrieved food from the campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Du hast Essen vom Lagerfeuer geholt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">craft_contents_combined</Data></Cell>
     <Cell><Data ss:Type="String">The contents of the items have been combined</Data></Cell>
-    <Cell><Data ss:Type="String">The contents of the items have been combined</Data></Cell>
+    <Cell><Data ss:Type="String">Der Inhalt der Artikel wurde kombiniert</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">craft_contents_poisoned</Data></Cell>
     <Cell><Data ss:Type="String">The item has been poisoned</Data></Cell>
-    <Cell><Data ss:Type="String">The item has been poisoned</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand wurde vergiftet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">craft_contents_purified</Data></Cell>
     <Cell><Data ss:Type="String">The item has been purified</Data></Cell>
-    <Cell><Data ss:Type="String">The item has been purified</Data></Cell>
+    <Cell><Data ss:Type="String">Der Gegenstand wurde gereinigt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_tank_retrieved</Data></Cell>
     <Cell><Data ss:Type="String">The tank has been disconnected</Data></Cell>
-    <Cell><Data ss:Type="String">The tank has been disconnected</Data></Cell>
+    <Cell><Data ss:Type="String">Der Tank wurde abgeklemmt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_hunger</Data></Cell>
     <Cell><Data ss:Type="String">Body Hunger</Data></Cell>
-    <Cell><Data ss:Type="String">Body Hunger</Data></Cell>
+    <Cell><Data ss:Type="String">Umwelt ist warmHunger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_thirst</Data></Cell>
     <Cell><Data ss:Type="String">Body Thirst</Data></Cell>
-    <Cell><Data ss:Type="String">Body Thirst</Data></Cell>
+    <Cell><Data ss:Type="String">Durst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_wetness</Data></Cell>
     <Cell><Data ss:Type="String">Body Wetness</Data></Cell>
-    <Cell><Data ss:Type="String">Body Wetness</Data></Cell>
+    <Cell><Data ss:Type="String">Nass</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_torpidity</Data></Cell>
     <Cell><Data ss:Type="String">Body Torpidity</Data></Cell>
-    <Cell><Data ss:Type="String">Body Torpidity</Data></Cell>
+    <Cell><Data ss:Type="String">träge</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_stamina</Data></Cell>
     <Cell><Data ss:Type="String">Body Exhaustion/Stamina</Data></Cell>
-    <Cell><Data ss:Type="String">Body Exhaustion/Stamina</Data></Cell>
+    <Cell><Data ss:Type="String">erschöpft</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_poisoned</Data></Cell>
     <Cell><Data ss:Type="String">Body Sick/Poisoned</Data></Cell>
-    <Cell><Data ss:Type="String">Body Sick/Poisoned</Data></Cell>
+    <Cell><Data ss:Type="String">Krank/Vergiftet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_bleeding</Data></Cell>
     <Cell><Data ss:Type="String">Body Bleeding</Data></Cell>
-    <Cell><Data ss:Type="String">Body Bleeding</Data></Cell>
+    <Cell><Data ss:Type="String">Körperblutung</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_heat</Data></Cell>
     <Cell><Data ss:Type="String">Environment Heating</Data></Cell>
-    <Cell><Data ss:Type="String">Environment Heating</Data></Cell>
+    <Cell><Data ss:Type="String">Umwelt ist warm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_cold</Data></Cell>
     <Cell><Data ss:Type="String">Environment Coldness</Data></Cell>
-    <Cell><Data ss:Type="String">Environment Coldness</Data></Cell>
+    <Cell><Data ss:Type="String">Umwelt ist kalt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_boverheat</Data></Cell>
     <Cell><Data ss:Type="String">Body Overheating/Fever</Data></Cell>
-    <Cell><Data ss:Type="String">Body Overheating/Fever</Data></Cell>
+    <Cell><Data ss:Type="String">Körperüberhitzung/Fieber</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stat_bfreeze</Data></Cell>
     <Cell><Data ss:Type="String">Body Freezing</Data></Cell>
-    <Cell><Data ss:Type="String">Body Freezing</Data></Cell>
+    <Cell><Data ss:Type="String">Körper friert</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">degC</Data></Cell>
@@ -1763,97 +1763,97 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">skin_dlc_no_destroy</Data></Cell>
     <Cell><Data ss:Type="String">This is a skin from a DLC and cannot be destroyed</Data></Cell>
-    <Cell><Data ss:Type="String">This is a skin from a DLC and cannot be destroyed</Data></Cell>
+    <Cell><Data ss:Type="String">Dies ist ein Skin aus einem DLC und kann nicht zerstört werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_gather_thatch</Data></Cell>
     <Cell><Data ss:Type="String">Gather Thatch</Data></Cell>
-    <Cell><Data ss:Type="String">Gather Thatch</Data></Cell>
+    <Cell><Data ss:Type="String">Sammle Stroh</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_gather_thatch_details</Data></Cell>
     <Cell><Data ss:Type="String">Thatch and sticks can be obtained from some large, green bushes</Data></Cell>
-    <Cell><Data ss:Type="String">Thatch and sticks can be obtained from some large, green bushes</Data></Cell>
+    <Cell><Data ss:Type="String">Stroh und Stöcke können von einigen großen, grünen Büschen gesammelt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_gather_sticks</Data></Cell>
     <Cell><Data ss:Type="String">Gather Sticks</Data></Cell>
-    <Cell><Data ss:Type="String">Gather Sticks</Data></Cell>
+    <Cell><Data ss:Type="String">Sammle Stöcke</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_gather_sticks_details</Data></Cell>
     <Cell><Data ss:Type="String">Thatch and sticks can be obtained from some large, green bushes</Data></Cell>
-    <Cell><Data ss:Type="String">Thatch and sticks can be obtained from some large, green bushes</Data></Cell>
+    <Cell><Data ss:Type="String">Stroh und Stöcke können von einigen großen, grünen Büschen gesammelt werden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_fire_drill</Data></Cell>
     <Cell><Data ss:Type="String">Craft a Fire Drill</Data></Cell>
-    <Cell><Data ss:Type="String">Craft a Fire Drill</Data></Cell>
+    <Cell><Data ss:Type="String">Baue einen Feuerbohrer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_fire_drill_details</Data></Cell>
     <Cell><Data ss:Type="String">Crafting: Other -&gt; Fire category</Data></Cell>
-    <Cell><Data ss:Type="String">Crafting: Other -&gt; Fire category</Data></Cell>
+    <Cell><Data ss:Type="String">Bauen: Anderes -&gt; Feuerkategorie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_campfire</Data></Cell>
     <Cell><Data ss:Type="String">Craft a Campfire</Data></Cell>
-    <Cell><Data ss:Type="String">Craft a Campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Baue ein Lagerfeuer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_campfire_details</Data></Cell>
     <Cell><Data ss:Type="String">Crafting: Structures -&gt; Rock -&gt; Campfires category</Data></Cell>
-    <Cell><Data ss:Type="String">Crafting: Structures -&gt; Rock -&gt; Campfires category</Data></Cell>
+    <Cell><Data ss:Type="String">Bauen: Strukturen -&gt; Stein -&gt; Lagerfeuer Kategorie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_place_campfire</Data></Cell>
     <Cell><Data ss:Type="String">Place the Campfire in an allowed area</Data></Cell>
-    <Cell><Data ss:Type="String">Place the Campfire in an allowed area</Data></Cell>
+    <Cell><Data ss:Type="String">Platziere das Lagerfeuer in einem baubaren Areal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_place_campfire_details</Data></Cell>
     <Cell><Data ss:Type="String">Right-click on the Campfire to place it</Data></Cell>
-    <Cell><Data ss:Type="String">Right-click on the Campfire to place it</Data></Cell>
+    <Cell><Data ss:Type="String">Rechtsklick auf das Lagerfeuer und platzieren</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_light_campfire</Data></Cell>
     <Cell><Data ss:Type="String">Light a Campfire using a Fire Drill</Data></Cell>
-    <Cell><Data ss:Type="String">Light a Campfire using a Fire Drill</Data></Cell>
+    <Cell><Data ss:Type="String">Zünde das Lagerfeuer mit dem Feuerbohrer an</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_light_campfire_details</Data></Cell>
     <Cell><Data ss:Type="String">Target the Campfire then scroll down and select Light Campfire</Data></Cell>
-    <Cell><Data ss:Type="String">Target the Campfire then scroll down and select Light Campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Anvisiere das Lagerfeuer, scrolle nach unten und klicke auf Lagerfeuer anzünden</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_horseshoe_pack</Data></Cell>
     <Cell><Data ss:Type="String">Craft a Horseshoe Pack</Data></Cell>
-    <Cell><Data ss:Type="String">Craft a Horseshoe Pack</Data></Cell>
+    <Cell><Data ss:Type="String">Baue einen Hufeisenrucksack</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_horseshoe_pack_details</Data></Cell>
     <Cell><Data ss:Type="String">Crafting: Cloth -&gt; Backpacks category</Data></Cell>
-    <Cell><Data ss:Type="String">Crafting: Cloth -&gt; Backpacks category</Data></Cell>
+    <Cell><Data ss:Type="String">Bauen: Stoff -&gt; Rucksack Kategorie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_tear_to_rags</Data></Cell>
     <Cell><Data ss:Type="String">Tear a cloth item into Rags</Data></Cell>
-    <Cell><Data ss:Type="String">Tear a cloth item into Rags</Data></Cell>
+    <Cell><Data ss:Type="String">Zerreiße einen Stoffgegenstand in Rags/Stoff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_tear_to_rags_details</Data></Cell>
     <Cell><Data ss:Type="String">Right-click on a cloth item to create Rags used in crafting or to cure bleeding</Data></Cell>
-    <Cell><Data ss:Type="String">Right-click on a cloth item to create Rags used in crafting or to cure bleeding</Data></Cell>
+    <Cell><Data ss:Type="String">Rechtsklick auf einen Stoffgegenstand, zerreiße ihn zu Rags/Stoff und benutze ihn zum Bauen oder um eine Blutung zu stoppen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_gather_rocks</Data></Cell>
     <Cell><Data ss:Type="String">Gather Rocks</Data></Cell>
-    <Cell><Data ss:Type="String">Gather Rocks</Data></Cell>
+    <Cell><Data ss:Type="String">Sammle Steine</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_gather_rocks_details</Data></Cell>
     <Cell><Data ss:Type="String">Rocks can be found by looking down at rocky terrain or by using a Pickaxe on boulders</Data></Cell>
-    <Cell><Data ss:Type="String">Rocks can be found by looking down at rocky terrain or by using a Pickaxe on boulders</Data></Cell>
+    <Cell><Data ss:Type="String">Steine können in einem steinigen Terrain gefunden werden in dem du auf den Boden schaust oder mit einer Spitzhacke auf Steine schlägst</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
