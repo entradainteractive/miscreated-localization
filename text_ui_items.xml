@@ -10,7 +10,7 @@
   <LastAuthor>tevans</LastAuthor>
   <Created>2019-03-13T12:39:08Z</Created>
   <LastSaved>2019-03-13T12:39:08Z</LastSaved>
-  <Version>16.00</Version>
+  <Version>12.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
@@ -18,8 +18,8 @@
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <WindowHeight>12030</WindowHeight>
   <WindowWidth>29655</WindowWidth>
-  <WindowTopX>32767</WindowTopX>
-  <WindowTopY>32767</WindowTopY>
+  <WindowTopX>32760</WindowTopX>
+  <WindowTopY>32760</WindowTopY>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -1142,8 +1142,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BearMeatBurnedDescription</Data></Cell>
-    <Cell><Data ss:Type="String">Burned bear meat. Still provides some nurishment.</Data></Cell>
-    <Cell><Data ss:Type="String">Burned bear meat. Still provides some nurishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned bear meat. Still provides some nourishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned bear meat. Still provides some nourishment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BearMeatCooked</Data></Cell>
@@ -3117,8 +3117,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChickenBurnedDescription</Data></Cell>
-    <Cell><Data ss:Type="String">Burned chicken meat. Still provides some nurishment.</Data></Cell>
-    <Cell><Data ss:Type="String">Burned chicken meat. Still provides some nurishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned chicken meat. Still provides some nourishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned chicken meat. Still provides some nourishment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChickenCooked</Data></Cell>
@@ -3767,8 +3767,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DeerMeatSteakBurnedDescription</Data></Cell>
-    <Cell><Data ss:Type="String">Burned deer meat. Still provides some nurishment.</Data></Cell>
-    <Cell><Data ss:Type="String">Burned deer meat. Still provides some nurishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned deer meat. Still provides some nourishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned deer meat. Still provides some nourishment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DeerMeatSteakCooked</Data></Cell>
@@ -3827,8 +3827,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DeerMeatSteakRawDescription</Data></Cell>
-    <Cell><Data ss:Type="String">Raw deer meat. Can be cooked for more nurishment.</Data></Cell>
-    <Cell><Data ss:Type="String">Raw deer meat. Can be cooked for more nurishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Raw deer meat. Can be cooked for more nourishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Raw deer meat. Can be cooked for more nourishment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DeerMeatSteakRotten</Data></Cell>
@@ -5097,8 +5097,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HamBurnedDescription</Data></Cell>
-    <Cell><Data ss:Type="String">Burned ham. Still provides some nurishment.</Data></Cell>
-    <Cell><Data ss:Type="String">Burned ham. Still provides some nurishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned ham. Still provides some nourishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned ham. Still provides some nourishment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HamCooked</Data></Cell>
@@ -12897,8 +12897,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WolfMeatSteakBurnedDescription</Data></Cell>
-    <Cell><Data ss:Type="String">Burned wolf meat. Still provides some nurishment.</Data></Cell>
-    <Cell><Data ss:Type="String">Burned wolf meat. Still provides some nurishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned wolf meat. Still provides some nourishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Burned wolf meat. Still provides some nourishment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WolfMeatSteakCooked</Data></Cell>
@@ -12957,8 +12957,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WolfMeatSteakRawDescription</Data></Cell>
-    <Cell><Data ss:Type="String">Raw wolf meat. Can be cooked for more nurishment.</Data></Cell>
-    <Cell><Data ss:Type="String">Raw wolf meat. Can be cooked for more nurishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Raw wolf meat. Can be cooked for more nourishment.</Data></Cell>
+    <Cell><Data ss:Type="String">Raw wolf meat. Can be cooked for more nourishment.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WolfMeatSteakRotten</Data></Cell>
@@ -17460,12 +17460,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>45</TopRowVisible>
+   <TopRowVisible>980</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>59</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>1012</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
