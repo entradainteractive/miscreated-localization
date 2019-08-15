@@ -18,5 +18,7 @@
 
 
 ## Important Notes
+* Do not add any new files.
+* Do not delete any existing files.
 * Do not add or delete any new rows or columns.
 * Do not change the order of any columns or rows.
