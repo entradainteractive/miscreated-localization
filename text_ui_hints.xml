@@ -17,7 +17,7 @@
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <WindowHeight>15510</WindowHeight>
-  <WindowWidth>29805</WindowWidth>
+  <WindowWidth>29810</WindowWidth>
   <WindowTopX>32760</WindowTopX>
   <WindowTopY>32760</WindowTopY>
   <RefModeR1C1/>
@@ -93,8 +93,10 @@
  <Worksheet ss:Name="Sheet1">
   <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="200" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
-   <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="14.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="87.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="708.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="823"/>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
@@ -957,8 +959,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint171</Data></Cell>
-    <Cell><Data ss:Type="String">Freezing? Find and use fire pits, campfires, candles, burning barrels and cars to warm up.\nAlternatively stay in shelter inside or underground.</Data></Cell>
-    <Cell><Data ss:Type="String">Freezing? Find and use fire pits, campfires, candles, burning barrels and cars to warm up.\Alternatively stay in shelter inside or underground.</Data></Cell>
+    <Cell><Data ss:Type="String">Freezing? Find and use fire pits, campfires, candles, burning barrels and cars to warm up. Alternatively, stay in shelter inside or underground.</Data></Cell>
+    <Cell><Data ss:Type="String">Freezing? Find and use fire pits, campfires, candles, burning barrels and cars to warm up. Alternatively, stay in shelter inside or underground.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint172</Data></Cell>
@@ -1110,11 +1112,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>35</TopRowVisible>
+   <TopRowVisible>141</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>55</ActiveRow>
+     <ActiveRow>172</ActiveRow>
      <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
