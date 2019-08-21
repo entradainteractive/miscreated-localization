@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -267,12 +267,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bandage_failed</Data></Cell>
     <Cell><Data ss:Type="String">The bandage was not needed yet</Data></Cell>
-    <Cell><Data ss:Type="String">不需要使用绷带</Data></Cell>
+    <Cell><Data ss:Type="String">绷带还不需要</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bandage_finished</Data></Cell>
     <Cell><Data ss:Type="String">Your bandage has fallen off</Data></Cell>
-    <Cell><Data ss:Type="String">你的绷带效果消失</Data></Cell>
+    <Cell><Data ss:Type="String">你的绷带掉了</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antirad_succeeded</Data></Cell>
@@ -312,7 +312,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">heat_failed</Data></Cell>
     <Cell><Data ss:Type="String">The heatpack was not needed yet</Data></Cell>
-    <Cell><Data ss:Type="String">不需要使用暖宝宝</Data></Cell>
+    <Cell><Data ss:Type="String">暖宝宝装还不需要</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">heat_finished</Data></Cell>
@@ -322,12 +322,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">guide_succeeded</Data></Cell>
     <Cell><Data ss:Type="String">You have learned new crafting recipes</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">你已经学会了新的图纸</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">你已经学会了新的指南</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">guide_failed</Data></Cell>
     <Cell><Data ss:Type="String">You have already learned that guide</Data></Cell>
-    <Cell><Data ss:Type="String">你已经学会了图纸</Data></Cell>
+    <Cell><Data ss:Type="String">你已经学会了指南</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotCarryMore</Data></Cell>
@@ -337,7 +337,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotPackup</Data></Cell>
     <Cell><Data ss:Type="String">You cannot packup this part</Data></Cell>
-    <Cell><Data ss:Type="String">你不能把这个物品收起</Data></Cell>
+    <Cell><Data ss:Type="String">你不能把这部分打包</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mp_CannotDismantle</Data></Cell>
@@ -487,7 +487,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">physical</Data></Cell>
     <Cell><Data ss:Type="String">Physical Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">物理防御</Data></Cell>
+    <Cell><Data ss:Type="String">物理阻力</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ray_radiation</Data></Cell>
@@ -532,12 +532,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">damagep</Data></Cell>
     <Cell><Data ss:Type="String">Damage</Data></Cell>
-    <Cell><Data ss:Type="String">伤害</Data></Cell>
+    <Cell><Data ss:Type="String">损坏</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">damagedpsp</Data></Cell>
     <Cell><Data ss:Type="String">Damage/Second</Data></Cell>
-    <Cell><Data ss:Type="String">伤害/Second</Data></Cell>
+    <Cell><Data ss:Type="String">损坏/Second</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">silentp</Data></Cell>
@@ -547,7 +547,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">bleedp</Data></Cell>
     <Cell><Data ss:Type="String">Bleed Chance</Data></Cell>
-    <Cell><Data ss:Type="String">流血的几率</Data></Cell>
+    <Cell><Data ss:Type="String">流血的机会</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">radiationp</Data></Cell>
@@ -557,17 +557,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">firep</Data></Cell>
     <Cell><Data ss:Type="String">Fire Chance</Data></Cell>
-    <Cell><Data ss:Type="String">着火几率</Data></Cell>
+    <Cell><Data ss:Type="String">火的几率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">poisonp</Data></Cell>
     <Cell><Data ss:Type="String">Poison Chance</Data></Cell>
-    <Cell><Data ss:Type="String">中毒几率</Data></Cell>
+    <Cell><Data ss:Type="String">有毒的几率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">torpidityp</Data></Cell>
     <Cell><Data ss:Type="String">Torpidity Effect</Data></Cell>
-    <Cell><Data ss:Type="String">麻痹效果</Data></Cell>
+    <Cell><Data ss:Type="String">扭转效果</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">staminap</Data></Cell>
@@ -582,17 +582,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">torpiditydpsp</Data></Cell>
     <Cell><Data ss:Type="String">Torpidity/Second</Data></Cell>
-    <Cell><Data ss:Type="String">麻痹/秒</Data></Cell>
+    <Cell><Data ss:Type="String">扭矩/秒</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">staminadpsp</Data></Cell>
     <Cell><Data ss:Type="String">Stamina/Second</Data></Cell>
-    <Cell><Data ss:Type="String">耐力/秒</Data></Cell>
+    <Cell><Data ss:Type="String">耐力第二</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">itemdmgp</Data></Cell>
     <Cell><Data ss:Type="String">Damage Contents Chance</Data></Cell>
-    <Cell><Data ss:Type="String">损伤内容物几率</Data></Cell>
+    <Cell><Data ss:Type="String">损坏内容的几率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">antibleedp</Data></Cell>
@@ -637,7 +637,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">drinkp</Data></Cell>
     <Cell><Data ss:Type="String">Fluid</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">水份</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">液体</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">protection</Data></Cell>
@@ -657,7 +657,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">gatherrate</Data></Cell>
     <Cell><Data ss:Type="String">Gather Rate</Data></Cell>
-    <Cell><Data ss:Type="String">收集速率</Data></Cell>
+    <Cell><Data ss:Type="String">集合率</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood</Data></Cell>
@@ -727,17 +727,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_12_gauge_beanbag</Data></Cell>
     <Cell><Data ss:Type="String">12-gauge Beanbag</Data></Cell>
-    <Cell><Data ss:Type="String">12号豆包弹</Data></Cell>
+    <Cell><Data ss:Type="String">12-gauge Beanbag</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_12_gauge_pellet</Data></Cell>
     <Cell><Data ss:Type="String">12-gauge Pellet</Data></Cell>
-    <Cell><Data ss:Type="String">12号标准弹</Data></Cell>
+    <Cell><Data ss:Type="String">12-gauge Pellet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_12_gauge_slug</Data></Cell>
     <Cell><Data ss:Type="String">12-gauge Slug</Data></Cell>
-    <Cell><Data ss:Type="String">12号独弹头</Data></Cell>
+    <Cell><Data ss:Type="String">12-gauge Slug</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_ammo_22</Data></Cell>
@@ -827,7 +827,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_blunt</Data></Cell>
     <Cell><Data ss:Type="String">Blunt</Data></Cell>
-    <Cell><Data ss:Type="String">钝器</Data></Cell>
+    <Cell><Data ss:Type="String">钝</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_flare</Data></Cell>
@@ -847,12 +847,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_knife</Data></Cell>
     <Cell><Data ss:Type="String">Knife</Data></Cell>
-    <Cell><Data ss:Type="String">小刀</Data></Cell>
+    <Cell><Data ss:Type="String">刀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_pickaxe</Data></Cell>
     <Cell><Data ss:Type="String">Pickaxe</Data></Cell>
-    <Cell><Data ss:Type="String">矿稿</Data></Cell>
+    <Cell><Data ss:Type="String">鹤嘴锄</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_torch</Data></Cell>
@@ -957,17 +957,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_single</Data></Cell>
     <Cell><Data ss:Type="String">Single</Data></Cell>
-    <Cell><Data ss:Type="String">单发</Data></Cell>
+    <Cell><Data ss:Type="String">单</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_rapid</Data></Cell>
     <Cell><Data ss:Type="String">Rapid</Data></Cell>
-    <Cell><Data ss:Type="String">速射</Data></Cell>
+    <Cell><Data ss:Type="String">快速</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_burst</Data></Cell>
     <Cell><Data ss:Type="String">Burst</Data></Cell>
-    <Cell><Data ss:Type="String">三连发</Data></Cell>
+    <Cell><Data ss:Type="String">爆</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_melee</Data></Cell>
@@ -977,7 +977,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_shotgun</Data></Cell>
     <Cell><Data ss:Type="String">Shotgun</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">霰弹</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">猎枪</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_throw</Data></Cell>
@@ -987,7 +987,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_automatic</Data></Cell>
     <Cell><Data ss:Type="String">Auto</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">连发</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">汽车</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_bow</Data></Cell>
@@ -1002,7 +1002,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_chemlight</Data></Cell>
     <Cell><Data ss:Type="String">Light</Data></Cell>
-    <Cell><Data ss:Type="String">闪光</Data></Cell>
+    <Cell><Data ss:Type="String">光</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_smokegrenade</Data></Cell>
@@ -1012,7 +1012,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_molotov</Data></Cell>
     <Cell><Data ss:Type="String">Molotov</Data></Cell>
-    <Cell><Data ss:Type="String">燃烧弹</Data></Cell>
+    <Cell><Data ss:Type="String">莫洛托夫</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">fm_emptybottle</Data></Cell>
@@ -1154,7 +1154,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_needs_dirt</Data></Cell>
     <Cell><Data ss:Type="String">The planter needs to be filled with dirt</Data></Cell>
-    <Cell><Data ss:Type="String">播种机需要充满泥土</Data></Cell>
+    <Cell><Data ss:Type="String">播种机需要充满污垢</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_needs_water</Data></Cell>
@@ -1199,7 +1199,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_has_enough_dirt</Data></Cell>
     <Cell><Data ss:Type="String">The planter has enough dirt</Data></Cell>
-    <Cell><Data ss:Type="String">播种机有足够的泥土</Data></Cell>
+    <Cell><Data ss:Type="String">播种机有足够的污垢</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_has_enough_fertilizer</Data></Cell>
@@ -1244,7 +1244,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_dirt_added</Data></Cell>
     <Cell><Data ss:Type="String">The dirt was added and the planter has enough</Data></Cell>
-    <Cell><Data ss:Type="String">添加了泥土，播种机就足够了</Data></Cell>
+    <Cell><Data ss:Type="String">添加了污垢，播种机就足够了</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_crop_harvested</Data></Cell>
@@ -1954,7 +1954,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_consume</Data></Cell>
     <Cell><Data ss:Type="String">Consume</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">吃掉\喝掉</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">消耗</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_drink_until_full</Data></Cell>
@@ -1979,7 +1979,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_empty_fluid_on_ground</Data></Cell>
     <Cell><Data ss:Type="String">Empty Fluid On Ground</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">把水倒掉</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">地面没有水</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_empty_tank</Data></Cell>
@@ -2077,7 +2077,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">item_craft_combine</Data></Cell>
     <Cell><Data ss:Type="String">Craft / Combine</Data></Cell>
     <Cell ss:StyleID="s69"><ss:Data ss:Type="String"
-      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">制作</Font><Font
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">工艺</Font><Font
        html:Face="Calibri" x:Family="Swiss" html:Color="#000000">/</Font><Font
        html:Color="#000000">组合</Font></ss:Data></Cell>
    </Row>
@@ -2099,7 +2099,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_get</Data></Cell>
     <Cell><Data ss:Type="String">Get</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">拾取</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">得到</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_use</Data></Cell>
@@ -2124,7 +2124,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">placeable_place</Data></Cell>
     <Cell><Data ss:Type="String">Place</Data></Cell>
-    <Cell><Data ss:Type="String">放置</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">地点</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">pack_up_plotsign</Data></Cell>
@@ -2134,12 +2134,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">item_open_inventory</Data></Cell>
     <Cell><Data ss:Type="String">Open Inventory</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">打开物品存储</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">未清存货</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">pack_up_item</Data></Cell>
     <Cell><Data ss:Type="String">Pack Up</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">收起</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">打包</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">dismantle_item</Data></Cell>
@@ -2204,7 +2204,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">player_invite_to_clan</Data></Cell>
     <Cell><Data ss:Type="String">Invite To Clan</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">邀请加入队伍</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">邀请加入小队</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">vehicle_flip_vehicle</Data></Cell>
@@ -2214,7 +2214,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">vehicle_enter_vehicle</Data></Cell>
     <Cell><Data ss:Type="String">Enter Vehicle</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">驾驶车辆/坐车辆</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">进入车辆</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">vehicle_push_vehicle</Data></Cell>
@@ -2309,12 +2309,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">door_open</Data></Cell>
     <Cell><Data ss:Type="String">Open</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">打开门</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">正常开放</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">door_pull</Data></Cell>
     <Cell><Data ss:Type="String">Pull</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">开</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">拉</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">door_close</Data></Cell>
@@ -2409,7 +2409,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">part_upgrade_to_plated</Data></Cell>
     <Cell><Data ss:Type="String">Upgrade to Plated</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">升级至金属</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">升级至电镀</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">grill_check_grill</Data></Cell>
@@ -2460,7 +2460,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">switched_fire_mode_to</Data></Cell>
     <Cell><Data ss:Type="String">Switched fire mode to</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">将开火模式切换到</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">将火灾模式切换到</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">switched_fire_mode</Data></Cell>
@@ -2495,12 +2495,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tent_needs_empty</Data></Cell>
     <Cell><Data ss:Type="String">The tent must be empty before it can be packed up</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">帐篷在收起之前必须是空的</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">帐篷在打包之前必须是空的</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tent_needs_repaired</Data></Cell>
     <Cell><Data ss:Type="String">The tent must be repaired before it can be packed up</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">帐篷在收起前必须修理好</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">帐篷在打包前必须修理好</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">nearby_generator_needed</Data></Cell>
@@ -2609,17 +2609,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_disbanded</Data></Cell>
     <Cell><Data ss:Type="String">Your clan has been disbanded</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">你的队伍经解散了</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">你的小队经解散了</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_left</Data></Cell>
     <Cell><Data ss:Type="String">You are no longer in a clan</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">你不再是一个队伍了</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">你不再是一个小队了</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_pending_invite</Data></Cell>
     <Cell><Data ss:Type="String">You have a pending clan invite</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">你有一个待定的队伍邀请</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">你有一个待定的小队邀请</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">vehicle_needs_components</Data></Cell>
@@ -2694,7 +2694,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">awm_picked_up</Data></Cell>
     <Cell><Data ss:Type="String">You picked up:</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">得到：</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">您收到：</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">awm_no_space_for</Data></Cell>
@@ -2724,7 +2724,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">player_left</Data></Cell>
     <Cell><Data ss:Type="String">Player left:</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">玩家：</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">玩家左：</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">faction_none</Data></Cell>
@@ -2756,13 +2756,13 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_name</Data></Cell>
     <Cell><Data ss:Type="String">Clan Name:</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">队伍名称：</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">小队名称：</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_name_invalid</Data></Cell>
     <Cell><Data ss:Type="String">The clan name must only contain a-z, A-Z, spaces, and -_. characters</Data></Cell>
     <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
-       html:Face="宋体" x:CharSet="134" html:Color="#000000">队伍名只能包含</Font><Font
+       html:Face="宋体" x:CharSet="134" html:Color="#000000">小队名只能包含</Font><Font
        html:Color="#000000">a-z</Font><Font html:Face="宋体" x:CharSet="134"
        html:Color="#000000">、</Font><Font html:Color="#000000">a-z</Font><Font
        html:Face="宋体" x:CharSet="134" html:Color="#000000">、空格和</Font><Font
@@ -2772,7 +2772,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_name_too_long</Data></Cell>
     <Cell><Data ss:Type="String">The clan name is too long</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">队伍名太长</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">小队名太长</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_name_ends_with_space</Data></Cell>
@@ -2802,17 +2802,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">craft_item_title</Data></Cell>
     <Cell><Data ss:Type="String">Craft Item</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">制作项目</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">工艺项目</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">primary_title</Data></Cell>
     <Cell><Data ss:Type="String">PRIMARY</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">主武器</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">初级</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">secondary_title</Data></Cell>
     <Cell><Data ss:Type="String">SECONDARY</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">副武器</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">次要</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">backpack_title</Data></Cell>
@@ -3063,17 +3063,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tab_inventory_title</Data></Cell>
     <Cell><Data ss:Type="String">Inventory</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">背包</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">库存</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tab_crafting_title</Data></Cell>
     <Cell><Data ss:Type="String">Crafting</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">制作</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">工艺</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tab_clan_title</Data></Cell>
     <Cell><Data ss:Type="String">Clan</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">队伍</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">小队</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">items_title</Data></Cell>
@@ -3172,12 +3172,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_disband</Data></Cell>
     <Cell><Data ss:Type="String">Disband Clan</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">解散队伍</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">解散小队</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_leave</Data></Cell>
     <Cell><Data ss:Type="String">Leave Clan</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">离开队伍</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">离开小队</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_remove_player</Data></Cell>
@@ -3202,7 +3202,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_create</Data></Cell>
     <Cell><Data ss:Type="String">Create Clan</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">创建队伍</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">创建小队</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">clan_ignore_invites</Data></Cell>
@@ -3217,12 +3217,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafting_craft</Data></Cell>
     <Cell><Data ss:Type="String">Craft Item</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">制作项目</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">工艺项目</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">environmental_stats</Data></Cell>
     <Cell><Data ss:Type="String">Environmental Stats</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">当前人物状态</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">环境统计</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">open_close_door</Data></Cell>
@@ -3287,7 +3287,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">workbench_open_inventory</Data></Cell>
     <Cell><Data ss:Type="String">Craft Using Workbench</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">制作使用工作台</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">工艺使用工作台</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">consume_inspect_warning</Data></Cell>
@@ -3360,12 +3360,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">harvest_pyrite</Data></Cell>
     <Cell><Data ss:Type="String">Harvest Pyrite</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">收获硫磺矿</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">收获黄铁矿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">harvest_pyrite_failed</Data></Cell>
     <Cell><Data ss:Type="String">No usable pyrite left</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">没有可用的硫磺矿</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">没有可用的黄铁矿</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">drink_dirty_water</Data></Cell>
@@ -3395,7 +3395,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">drink_from_toilet</Data></Cell>
     <Cell><Data ss:Type="String">Drink From Toilet</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">厕所里的脏水</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">厕所里的饮料</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">drink_from_hydrant</Data></Cell>
@@ -3608,7 +3608,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">search_cranny</Data></Cell>
     <Cell><Data ss:Type="String">Search Cranny</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">搜索沙发</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">搜索缝隙</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">pick_berries</Data></Cell>

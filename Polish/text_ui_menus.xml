@@ -184,7 +184,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_synchronizingWorld</Data></Cell>
     <Cell><Data ss:Type="String">Synchronizing world state...</Data></Cell>
-    <Cell><Data ss:Type="String">Synchronizacja świata...</Data></Cell>
+    <Cell><Data ss:Type="String">Synchronizacja...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ShowJoinSession</Data></Cell>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -16,8 +16,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12360</WindowHeight>
-  <WindowWidth>28740</WindowWidth>
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <RefModeR1C1/>
@@ -93,32 +93,32 @@
    <Interior/>
   </Style>
   <Style ss:ID="s70">
-   <Borders>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
-  </Style>
-  <Style ss:ID="s71">
    <Alignment ss:Vertical="Bottom"/>
    <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
    <Interior/>
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s72">
+  <Style ss:ID="s71">
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
    <Interior ss:Color="#8DB4E3" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s73">
+  <Style ss:ID="s72">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
+  </Style>
+  <Style ss:ID="s73">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
@@ -189,22 +189,23 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_PerformSuicideQ</Data></Cell>
     <Cell><Data ss:Type="String">Commit suicide? All progress will be lost.</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">自杀？ 所有物品都将失去。</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">自杀？ 所有物品都将失去。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_loadingWorld</Data></Cell>
     <Cell><Data ss:Type="String">Loading world...</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">载入世界</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">载入世界......翻译:OPIC 斗鱼2235427</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_synchronizingWorld</Data></Cell>
-    <Cell><Data ss:Type="String">同步世界状态...</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">同步世界状态.....</Data></Cell>
+    <Cell><Data ss:Type="String">Synchronizing world state...</Data></Cell>
+    <Cell ss:StyleID="s70"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">同步世界状态.....</Font></ss:Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ShowJoinSession</Data></Cell>
     <Cell><Data ss:Type="String">Joining server...</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">加入服务器</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">加入服务器......</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_connecting</Data></Cell>
@@ -234,7 +235,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">store_skin_message</Data></Cell>
     <Cell><Data ss:Type="String">This is a skinned item. Storing it will remove the applied skin.</Data></Cell>
-    <Cell ss:StyleID="s71"><ss:Data ss:Type="String"
+    <Cell ss:StyleID="s70"><ss:Data ss:Type="String"
       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">这是一个擦除皮肤的项目。</Font><Font
        html:Face="Calibri" x:Family="Swiss" html:Color="#000000"> </Font><Font
        html:Color="#000000">存储它将删除应用的皮肤</Font></ss:Data></Cell>
@@ -257,16 +258,16 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ModdedMessage</Data></Cell>
     <Cell><Data ss:Type="String">This server requires the installation of mods to join. When leaving the server the game will need to be restarted.\nContinue and join the server?</Data></Cell>
-    <Cell ss:StyleID="s71"><ss:Data ss:Type="String"
+    <Cell ss:StyleID="s70"><ss:Data ss:Type="String"
       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">此服务器需要安装</Font><Font
        html:Face="Calibri" x:Family="Swiss" html:Color="#000000">mod</Font><Font
        html:Color="#000000">才能加入。</Font><Font html:Face="Calibri" x:Family="Swiss"
        html:Color="#000000"> </Font><Font html:Color="#000000">离开服务器时，需要重新启动游戏。继续加入服务器？</Font></ss:Data></Cell>
    </Row>
    <Row ss:Index="28" ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s72"><Data ss:Type="String">CRYSIS 3 CRYLOBBY ERROR TRANSLATIONS</Data></Cell>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
+    <Cell ss:Index="2" ss:StyleID="s71"><Data ss:Type="String">CRYSIS 3 CRYLOBBY ERROR TRANSLATIONS</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_0</Data></Cell>
@@ -340,8 +341,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_14</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Server connection lost or can't be made</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">服务器连接丢失或无法进行</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Server connection lost or can't be made</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">服务器连接丢失或无法进行</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_15</Data></Cell>
@@ -416,22 +417,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_29</Data></Cell>
     <Cell><Data ss:Type="String">PlayStation®Network context error</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">游戏上下文错误</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏上下文错误</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_30</Data></Cell>
     <Cell><Data ss:Type="String">PlayStation®Network wrong support state</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">游戏错误的支持状态</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏错误的支持状态</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_31</Data></Cell>
     <Cell><Data ss:Type="String">PlayStation®Network signaling error</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">游戏信号错误</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏信号错误</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_32</Data></Cell>
     <Cell><Data ss:Type="String">PlayStation®Network no rooms</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">游戏网络无房间</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏网络无房间</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_33</Data></Cell>
@@ -511,7 +512,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_48</Data></Cell>
     <Cell><Data ss:Type="String">Cycling for invite</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">网络邀请</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">网络邀请</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_49</Data></Cell>
@@ -561,12 +562,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_58</Data></Cell>
     <Cell><Data ss:Type="String">PlayStation®Network is currently unavailable</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">游戏网络目前无法使用</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏网络目前无法使用</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_59</Data></Cell>
     <Cell><Data ss:Type="String">Too many orders</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">订单太多</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">订单太多</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_60</Data></Cell>
@@ -576,17 +577,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_61</Data></Cell>
     <Cell><Data ss:Type="String">Order in use</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">使用中的订单</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">使用中的订单</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_62</Data></Cell>
     <Cell><Data ss:Type="String">Online account blocked</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">已阻止联机帐户</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">已阻止联机帐户</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_63</Data></Cell>
     <Cell><Data ss:Type="String">Online service is disabled on your Sony Entertainment Network account due to parental control restrictions</Data></Cell>
-    <Cell ss:StyleID="s71"><ss:Data ss:Type="String"
+    <Cell ss:StyleID="s70"><ss:Data ss:Type="String"
       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">由于家长控制限制，您的</Font><Font
        html:Face="Calibri" x:Family="Swiss" html:Color="#000000">Sony</Font><Font
        html:Color="#000000">娱乐网络帐户上的联机服务被禁用。</Font></ss:Data></Cell>
@@ -759,7 +760,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>15</ActiveRow>
+     <ActiveRow>12</ActiveRow>
      <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>

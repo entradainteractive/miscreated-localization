@@ -1018,7 +1018,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBatNails</Data></Cell>
     <Cell><Data ss:Type="String">Nailed Bat</Data></Cell>
-    <Cell><Data ss:Type="String">Kij bejbolowy</Data></Cell>
+    <Cell><Data ss:Type="String">Kij bejsbolowy</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBatNailsDescription</Data></Cell>
@@ -1028,7 +1028,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBatSawBlade</Data></Cell>
     <Cell><Data ss:Type="String">Sawblade Bat</Data></Cell>
-    <Cell><Data ss:Type="String">Kij bejbolowy</Data></Cell>
+    <Cell><Data ss:Type="String">Kij bejsbolowy</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBatSawBladeDescription</Data></Cell>
@@ -1038,7 +1038,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBatSawBladeNails</Data></Cell>
     <Cell><Data ss:Type="String">Nailed Saw Bat</Data></Cell>
-    <Cell><Data ss:Type="String">Kij bejbolowy</Data></Cell>
+    <Cell><Data ss:Type="String">Kij bejsbolowy</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBatSawBladeNailsDescription</Data></Cell>
@@ -1048,7 +1048,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBatScrapNails</Data></Cell>
     <Cell><Data ss:Type="String">Nailed Scrap Bat</Data></Cell>
-    <Cell><Data ss:Type="String">Kij bejbolowy</Data></Cell>
+    <Cell><Data ss:Type="String">Kij bejsbolowy</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBatScrapNailsDescription</Data></Cell>
@@ -2113,7 +2113,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BrushPeasRotten</Data></Cell>
     <Cell><Data ss:Type="String">Rotten Brush Peas</Data></Cell>
-    <Cell><Data ss:Type="String">Zgnił fasolka</Data></Cell>
+    <Cell><Data ss:Type="String">Zgniła fasolka</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BrushPeasRottenDescription</Data></Cell>
@@ -3580,6 +3580,16 @@
     <Cell><Data ss:Type="String">A bow crafted from sticks and rope</Data></Cell>
     <Cell><Data ss:Type="String">Ręczna robota, ale działa, jak trzeba.</Data></Cell>
 </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CraftedExplosiveArrowx8_0000</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Wood Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna strzała wybuchowa</Data></Cell>
+</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CraftedExplosiveArrowx8_0000Description</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of wooden explosive arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Drewniana strzała domowej roboty z ładunkiem wybuchowym.</Data></Cell>
+</Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedFannyPack</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Fanny Pack</Data></Cell>
@@ -4279,6 +4289,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">EnergyDrinkCanDescription</Data></Cell>
     <Cell><Data ss:Type="String">Wakes your inner mutant. Now with electrolytes.</Data></Cell>
     <Cell><Data ss:Type="String">Energetyk uważany kiedyś za szkodliwy. Dziś czasem ratuje życie.</Data></Cell>
+</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ExplosiveArrowx8_0000</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Aluminium Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Strzała wybuchowa</Data></Cell>
+</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ExplosiveArrowx8_0000Description</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of aluminium explosive arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Aluminiowa strzała z ładunkiem wybuchowym.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ExplosiveOilBarrel</Data></Cell>
@@ -12693,62 +12713,62 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsBlack</Data></Cell>
     <Cell><Data ss:Type="String">Black Wanderer Pants</Data></Cell>
-    <Cell><Data ss:Type="String">Bojówki</Data></Cell>
+    <Cell><Data ss:Type="String">Stare bojówki</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsBlackDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pair of black wasteland wanderer pants.</Data></Cell>
-    <Cell><Data ss:Type="String">Czarne, mocno sfatygowane spodnie z dodatkowymi kieszeniami.</Data></Cell>
+    <Cell><Data ss:Type="String">Czarne, mocno sfatygowane spodnie.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsBlue</Data></Cell>
     <Cell><Data ss:Type="String">Blue Wanderer Pants</Data></Cell>
-    <Cell><Data ss:Type="String">Bojówki</Data></Cell>
+    <Cell><Data ss:Type="String">Stare bojówki</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsBlueDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pair of blue wasteland wanderer pants.</Data></Cell>
-    <Cell><Data ss:Type="String">Ciemnoniebieskie, mocno sfatygowane spodnie z dodatkowymi kieszeniami.</Data></Cell>
+    <Cell><Data ss:Type="String">Ciemnoniebieskie, mocno sfatygowane spodnie.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsBrown</Data></Cell>
     <Cell><Data ss:Type="String">Brown Wanderer Pants</Data></Cell>
-    <Cell><Data ss:Type="String">Bojówki</Data></Cell>
+    <Cell><Data ss:Type="String">Stare bojówki</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsBrownDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pair of brown wasteland wanderer pants.</Data></Cell>
-    <Cell><Data ss:Type="String">Ciemnobrązowe, mocno sfatygowane spodnie z dodatkowymi kieszeniami.</Data></Cell>
+    <Cell><Data ss:Type="String">Ciemnobrązowe, mocno sfatygowane spodnie.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsGreen</Data></Cell>
     <Cell><Data ss:Type="String">Green Wanderer Pants</Data></Cell>
-    <Cell><Data ss:Type="String">Bojówki</Data></Cell>
+    <Cell><Data ss:Type="String">Stare bojówki</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsGreenDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pair of green wasteland wanderer pants.</Data></Cell>
-    <Cell><Data ss:Type="String">Ciemnozielone, mocno sfatygowane spodnie z dodatkowymi kieszeniami.</Data></Cell>
+    <Cell><Data ss:Type="String">Ciemnozielone, mocno sfatygowane spodnie.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsRed</Data></Cell>
     <Cell><Data ss:Type="String">Red Wanderer Pants</Data></Cell>
-    <Cell><Data ss:Type="String">Bojówki</Data></Cell>
+    <Cell><Data ss:Type="String">Stare bojówki</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsRedDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pair of red wasteland wanderer pants.</Data></Cell>
-    <Cell><Data ss:Type="String">Ciemnoczerwone, mocno sfatygowane spodnie z dodatkowymi kieszeniami.</Data></Cell>
+    <Cell><Data ss:Type="String">Ciemnoczerwone, mocno sfatygowane spodnie.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsTan</Data></Cell>
     <Cell><Data ss:Type="String">Tan Wanderer Pants</Data></Cell>
-    <Cell><Data ss:Type="String">Bojówki</Data></Cell>
+    <Cell><Data ss:Type="String">Stare bojówki</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsTanDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pair of tan wasteland wanderer pants.</Data></Cell>
-    <Cell><Data ss:Type="String">Ciemnobeżowe, mocno sfatygowane spodnie z dodatkowymi kieszeniami.</Data></Cell>
+    <Cell><Data ss:Type="String">Ciemnobeżowe, mocno sfatygowane spodnie.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Wasteland22</Data></Cell>
@@ -13395,6 +13415,16 @@
     <Cell><Data ss:Type="String">A barbeque grill that can be used to cook on. Can be placed in a base.</Data></Cell>
     <Cell><Data ss:Type="String">Wygląda na to, że ten grill wciąż jest sprawny. Wystarczy podpałka i coś na rusz.</Data></Cell>
 </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Algeria</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Algerii</Data></Cell>
+</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeriaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Algerian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Masz z flagą Algerii.</Data></Cell>
+</Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_amalgamated</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Amalgamated</Data></Cell>
@@ -13435,6 +13465,16 @@
     <Cell><Data ss:Type="String">A flagpole with a autralian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Australii.</Data></Cell>
 </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_austria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Austria</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Austrii</Data></Cell>
+</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_austriaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Austrian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Austrii.</Data></Cell>
+</Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_black</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Black</Data></Cell>
@@ -13454,6 +13494,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_blueDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a blue flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z niebieską flagą.</Data></Cell>
+	</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Brazylii</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_brazilDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Brazilian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Brazylii.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_canada</Data></Cell>
@@ -13494,6 +13544,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_donut_glowDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a glowing flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt i flaga z wielkim, świecącycm pączkiem.</Data></Cell>
+	</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_finland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Finland</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Finlandii</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_finlandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Finnish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Finlandii</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_france</Data></Cell>
@@ -13524,6 +13584,36 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_greenDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a green flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z zieloną flagą.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_holland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Holland</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Holandii</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_hollandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Dutch flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Holandii.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_india</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole India</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Indii</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indiaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Indii.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indonesia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Indonesia</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Indonezji</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indonesiaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indonesian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Indonezji.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_ironsons</Data></Cell>
@@ -13534,6 +13624,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_ironsonsDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Iron Sons flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Iron Sons.</Data></Cell>
+	</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_israel</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Israel</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Izraela</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_israelDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Israeli flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Izraela.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_japan</Data></Cell>
@@ -13544,6 +13644,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_japanDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a japanese flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Japonii.</Data></Cell>
+	</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_mexico</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Mexico</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Meksyku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_mexicoDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Mexican flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Meksyku.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_pink</Data></Cell>
@@ -13564,6 +13674,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_pirateDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a pirate flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z piracką flagą.</Data></Cell>
+	</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_poland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Poland</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Polski</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_polandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Polish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Polski.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_red</Data></Cell>
@@ -13584,16 +13704,66 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_russiaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Russian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Rosji.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_slovenia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Slovenia</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Słowacji</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_sloveniaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Slovene flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Słowacji.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_smiley_glow</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Smiley Glow</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Buźka</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
+   </Row>
+   <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_smiley_glowDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a glowing flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą świecącej, ośmiechnętej buźki.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_south_africa</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole South Africa</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga RPA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_south_africaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a South African flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą RPA.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_spain</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Spain</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Hiszpanii</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_spainDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Spanish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Hiszpanii.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_sweden</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Sweden</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Szwecji</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_swedenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Swedish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Szwecji.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_turkey</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Turkey</Data></Cell>
+    <Cell><Data ss:Type="String">Flaga Turcji</Data></Cell>
+	</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_turkeyDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Turkish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">Maszt z flagą Turcji.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_uk</Data></Cell>
@@ -17464,6 +17634,36 @@
     <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mmDescription</Data></Cell>
     <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
     <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru 10mm.</Data></Cell>
+</Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa gumowe kule 12"</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_BeanbagDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę gumowych kul kalibru 12 cali.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa śrut 12"</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_PelletDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków śrutowych kalibru 12 cali.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa loftki 12"</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_SlugDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę loftek 12 cali.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22</Data></Cell>
