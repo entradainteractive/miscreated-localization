@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3504" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3710" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -106,6 +106,16 @@
                 <Cell ss:StyleID="s66"><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
             </Row>
             <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">10mmx15</Data></Cell>
+    <Cell><Data ss:Type="String">15Rnd Vector 10mm</Data></Cell>
+    <Cell><Data ss:Type="String">15Rnd Vector 10mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">10mmx15Description</Data></Cell>
+    <Cell><Data ss:Type="String">A 10mm magazine with a 15 round capacity for the Vector</Data></Cell>
+    <Cell><Data ss:Type="String">A 10mm magazine with a 15 round capacity for the Vector</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx30</Data></Cell>
     <Cell><Data ss:Type="String">30Rnd MP55 10mm</Data></Cell>
     <Cell><Data ss:Type="String">30Rnd MP55 10mm</Data></Cell>
@@ -374,6 +384,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">AdvancedBandageDescription</Data></Cell>
     <Cell><Data ss:Type="String">Covers wounds with an alcohol-soaked bandage so you heal faster</Data></Cell>
     <Cell><Data ss:Type="String">用酒精浸湿的绷带覆盖伤口，让你愈合得更快</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AirDropCrate</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Amalgaduino</Data></Cell>
@@ -3596,6 +3611,16 @@
     <Cell><Data ss:Type="String">用棍棒和绳子制成的蝴蝶结</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CraftedExplosiveArrowx8_0000</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Wood Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Wood Arrows</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CraftedExplosiveArrowx8_0000Description</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of wooden explosive arrows</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of wooden explosive arrows</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedFannyPack</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Fanny Pack</Data></Cell>
     <Cell><Data ss:Type="String">精心制作的腰包</Data></Cell>
@@ -3744,6 +3769,156 @@
     <Cell ss:Index="2"><Data ss:Type="String">CraftedSilencerDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted noise suppressor which can be attached to certain rifles.</Data></Cell>
     <Cell><Data ss:Type="String">一种精心制作的噪音抑制器，可以安装在某些步枪上。</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 10x25mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 10x25mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mmDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Beanbag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_BeanbagDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_PelletDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_SlugDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .22x15mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .22x15mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .223x45mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .223x45mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .308x51mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .308x51mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .357x33mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .357x33mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_45x39</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.45x39mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.45x39mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_45x39Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_56x45</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.56x45mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.56x45mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_56x45Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_70x28</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.70x28mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.70x28mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_70x28Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x39</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x39mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x39mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x39Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x51</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x51mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x51mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x51Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_9mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 9x19mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 9x19mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_9mmDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_acp_45</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .45x23mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .45x23mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_acp_45Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Crossbow</Data></Cell>
@@ -4294,6 +4469,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">EnergyDrinkCanDescription</Data></Cell>
     <Cell><Data ss:Type="String">Wakes your inner mutant. Now with electrolytes.</Data></Cell>
     <Cell><Data ss:Type="String">唤醒你的内在能量。现在用电解质。</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ExplosiveArrowx8_0000</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Aluminium Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Aluminium Arrows</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ExplosiveArrowx8_0000Description</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of aluminium explosive arrows</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of aluminium explosive arrows</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ExplosiveOilBarrel</Data></Cell>
@@ -5104,6 +5289,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">GunpowderDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of gunpowder that is useful for crafting</Data></Cell>
     <Cell><Data ss:Type="String">一堆火药，有用于制作</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">Hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">Hacksaw</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HacksawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">An old hacksaw</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HamBurned</Data></Cell>
@@ -5991,6 +6186,21 @@
     <Cell><Data ss:Type="String">冶炼炉</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOre</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOreDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore used in various crafting recipes</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore used in various crafting recipes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOreSmeltInFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">IronsightKit</Data></Cell>
     <Cell><Data ss:Type="String">Ironsight Kit</Data></Cell>
     <Cell><Data ss:Type="String">瞄准具套件</Data></Cell>
@@ -6034,11 +6244,6 @@
     <Cell ss:Index="2"><Data ss:Type="String">JerryCanDieselWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
     <Cell><Data ss:Type="String">装水</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
-    <Cell><Data ss:Type="String">原文</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Katana</Data></Cell>
@@ -9184,6 +9389,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">RecurveBowDescription</Data></Cell>
     <Cell><Data ss:Type="String">Recurve Bow</Data></Cell>
     <Cell><Data ss:Type="String">反曲弓</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ReflexSight</Data></Cell>
+    <Cell><Data ss:Type="String">Holo Sight</Data></Cell>
+    <Cell><Data ss:Type="String">Holo Sight</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ReflexSightBow</Data></Cell>
+    <Cell><Data ss:Type="String">Recurve Bow Holo Sight</Data></Cell>
+    <Cell><Data ss:Type="String">Recurve Bow Holo Sight</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ReflexSightBowDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A reflex style sight which can be attached to the recurve bow.</Data></Cell>
+    <Cell><Data ss:Type="String">A reflex style sight which can be attached to the recurve bow.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ReflexSightDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A reflex style sight which can be attached to certain weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">A reflex style sight which can be attached to certain weapons.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Rem700</Data></Cell>
@@ -13399,6 +13624,16 @@ Tan Rugged Pack
     <Cell><Data ss:Type="String">设计10制作地毯。可以放在一个基地。</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_11</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 11</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 11</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_11Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 11 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 11 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">dws_grill2</Data></Cell>
     <Cell><Data ss:Type="String">BBQ Grill</Data></Cell>
     <Cell><Data ss:Type="String">烧烤炉</Data></Cell>
@@ -13407,6 +13642,16 @@ Tan Rugged Pack
     <Cell ss:Index="2"><Data ss:Type="String">dws_grill2Description</Data></Cell>
     <Cell><Data ss:Type="String">A barbeque grill that can be used to cook on. Can be placed in a base.</Data></Cell>
     <Cell><Data ss:Type="String">烧烤架，可用于烹饪。可以放在一个基地。</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Algeria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Algeria</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeriaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Algerian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Algerian flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_amalgamated</Data></Cell>
@@ -13449,6 +13694,16 @@ Tan Rugged Pack
     <Cell><Data ss:Type="String">旗杆上挂着澳大利亚国旗。</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_austria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Austria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Austria</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_austriaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Austrian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Austrian flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_black</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Black</Data></Cell>
     <Cell><Data ss:Type="String">旗杆黑色</Data></Cell>
@@ -13467,6 +13722,16 @@ Tan Rugged Pack
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_blueDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a blue flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">旗杆上挂着一面蓝旗。</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Brazil</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_brazilDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Brazilian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Brazilian flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_canada</Data></Cell>
@@ -13509,6 +13774,16 @@ Tan Rugged Pack
     <Cell><Data ss:Type="String">旗杆上挂着一面发光的旗帜。</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_finland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Finland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Finland</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_finlandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Finnish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Finnish flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_france</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole France</Data></Cell>
     <Cell><Data ss:Type="String">法国旗杆</Data></Cell>
@@ -13539,6 +13814,36 @@ Tan Rugged Pack
     <Cell><Data ss:Type="String">带有绿色标志的旗杆。</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_holland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Holland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Holland</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_hollandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Dutch flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Dutch flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_india</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole India</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole India</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indiaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indian flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indonesia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Indonesia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Indonesia</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indonesiaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indonesian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indonesian flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_ironsons</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Iron Sons</Data></Cell>
     <Cell><Data ss:Type="String">铁的标志旗杆</Data></Cell>
@@ -13549,6 +13854,16 @@ Tan Rugged Pack
     <Cell><Data ss:Type="String">一个带有铁的标志旗杆。</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_israel</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Israel</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Israel</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_israelDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Israeli flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Israeli flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_japan</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Japan</Data></Cell>
     <Cell><Data ss:Type="String">旗杆日本</Data></Cell>
@@ -13557,6 +13872,16 @@ Tan Rugged Pack
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_japanDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a japanese flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">旗杆上挂着日本国旗。</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_mexico</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Mexico</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Mexico</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_mexicoDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Mexican flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Mexican flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_pink</Data></Cell>
@@ -13579,6 +13904,16 @@ Tan Rugged Pack
     <Cell><Data ss:Type="String">旗杆上挂着海盗旗。</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_poland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Poland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Poland</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_polandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Polish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Polish flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_red</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Red</Data></Cell>
     <Cell><Data ss:Type="String">旗杆红</Data></Cell>
@@ -13599,6 +13934,16 @@ Tan Rugged Pack
     <Cell><Data ss:Type="String">带有俄罗斯国旗的旗杆。</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_slovenia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Slovenia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Slovenia</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_sloveniaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Slovene flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Slovene flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_smiley_glow</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Smiley Glow</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Smiley Glow</Data></Cell>
@@ -13607,6 +13952,46 @@ Tan Rugged Pack
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_smiley_glowDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a glowing flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">旗杆上挂着一面发光的旗帜。</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_south_africa</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole South Africa</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole South Africa</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_south_africaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a South African flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a South African flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_spain</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Spain</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Spain</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_spainDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Spanish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Spanish flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_sweden</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Sweden</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Sweden</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_swedenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Swedish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Swedish flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_turkey</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Turkey</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Turkey</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_turkeyDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Turkish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Turkish flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_uk</Data></Cell>
@@ -13627,6 +14012,626 @@ Tan Rugged Pack
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_whiteDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a white flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">旗杆上挂着一面白旗。</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black AC Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black AC Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue AC Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue AC Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_camo1</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Hunters AC Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Hunters AC Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_camo1Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_camo2</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Hex AC Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Hex AC Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_camo2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_camo3</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Woodland AC Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Woodland AC Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_camo3Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Desert AC Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Desert AC Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_acfrontback_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black AM Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black AM Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue AM Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue AM Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_camo1</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AM Hunters Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AM Hunters Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_camo1Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_camo2</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AM Hex Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AM Hex Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_camo2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_camo3</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AM Woodland Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AM Woodland Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_camo3Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AM Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AM Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_aclogofrontacback_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_ausfront_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AU Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan AU Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_ausfront_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_belfront_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan BE Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan BE Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_belfront_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_canadafront_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CA Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CA Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_canadafront_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black CE Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black CE Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_brown</Data></Cell>
+    <Cell><Data ss:Type="String">Brown CE Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Brown CE Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_brownDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_camo1</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CE Hunters Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CE Hunters Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_camo1Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_camo2</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CE Hex Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CE Hex Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_camo2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_camo3</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CE Woodland Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CE Woodland Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_camo3Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CE Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan CE Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_crytekfront_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black Dopefish Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black Dopefish Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Dopefish Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Dopefish Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_green</Data></Cell>
+    <Cell><Data ss:Type="String">Green Dopefish Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Green Dopefish Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_greenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_orange</Data></Cell>
+    <Cell><Data ss:Type="String">Orange Dopefish Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Orange Dopefish Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_orangeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_pink</Data></Cell>
+    <Cell><Data ss:Type="String">Pink Dopefish Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink Dopefish Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_pinkDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_red</Data></Cell>
+    <Cell><Data ss:Type="String">Red Dopefish Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Red Dopefish Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_dopefishfront_redDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_eilogo_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black Entrada Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black Entrada Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_eilogo_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_eilogo_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Entrada Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Entrada Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_eilogo_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_eilogo_khaki</Data></Cell>
+    <Cell><Data ss:Type="String">Khaki Entrada Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Khaki Entrada Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_eilogo_khakiDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_eilogo_pink</Data></Cell>
+    <Cell><Data ss:Type="String">Pink Entrada Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink Entrada Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_eilogo_pinkDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_firefrontback_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black Fire Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black Fire Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_firefrontback_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_firefrontback_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Fire Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Fire Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_firefrontback_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_flagfrontback_pink_camo1</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Hunters Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Hunters Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_flagfrontback_pink_camo1Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_flagfrontback_pink_camo2</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Hex Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Hex Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_flagfrontback_pink_camo2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_flagfrontback_pink_camo3</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Woodland Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Woodland Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_flagfrontback_pink_camo3Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_flagfrontback_pink_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_flagfrontback_pink_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_gbfront_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan UK Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan UK Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_gbfront_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_gerfront_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan DE Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan DE Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_gerfront_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_isrealfront_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan IL Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan IL Desert Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_isrealfront_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_green</Data></Cell>
+    <Cell><Data ss:Type="String">Green Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Green Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_greenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_orange</Data></Cell>
+    <Cell><Data ss:Type="String">Orange Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Orange Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_orangeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_pink</Data></Cell>
+    <Cell><Data ss:Type="String">Pink Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_pinkDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_red</Data></Cell>
+    <Cell><Data ss:Type="String">Red Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Red Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_nobranding_redDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black Police Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black Police Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Police Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Police Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_camo1</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Hunters Police Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Hunters Police Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_camo1Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_camo2</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Hex Police Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Hex Police Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_camo2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_camo3</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Woodland Police Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Woodland Police Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_camo3Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Desert Police Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Desert Police Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_policefrontback_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_polycountfront_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black Polycount Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black Polycount Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_polycountfront_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_polycountfront_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Polycount Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Polycount Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_polycountfront_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_polycountfront_pink</Data></Cell>
+    <Cell><Data ss:Type="String">Pink Polycount Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink Polycount Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_polycountfront_pinkDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfront_camo4</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Desert US Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Tan Desert US Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfront_camo4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_black</Data></Cell>
+    <Cell><Data ss:Type="String">Black US Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Black US Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue US Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Blue US Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_green</Data></Cell>
+    <Cell><Data ss:Type="String">Green US Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Green US Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_greenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_orange</Data></Cell>
+    <Cell><Data ss:Type="String">Orange US Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Orange US Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_orangeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_pink</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Pink US Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_pinkDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_red</Data></Cell>
+    <Cell><Data ss:Type="String">Red US Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Red US Flex Cap</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flexcap_usfrontback_redDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
+    <Cell><Data ss:Type="String">A flex band baseball cap.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">gnome_bronze</Data></Cell>
@@ -16359,6 +17364,16 @@ Tan Rugged Pack
     <Cell><Data ss:Type="String">木材3米宽x 4米长屋顶</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_roof_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 Roof</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 Roof</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_roof_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Wood 4m wide x 4m long roof</Data></Cell>
+    <Cell><Data ss:Type="String">Wood 4m wide x 4m long roof</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_roof_murderhole_3m_2m</Data></Cell>
     <Cell><Data ss:Type="String">3x2 Roof Murder-hole</Data></Cell>
     <Cell><Data ss:Type="String">3x2屋顶谋杀洞</Data></Cell>
@@ -16397,6 +17412,16 @@ Tan Rugged Pack
     <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_1_6m_0_9mDescription</Data></Cell>
     <Cell><Data ss:Type="String"> Base part</Data></Cell>
     <Cell><Data ss:Type="String">基础部分</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_small_lockable</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wooden Shutter</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wooden Shutter</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_small_lockableDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A lockable wooden shutter</Data></Cell>
+    <Cell><Data ss:Type="String">A lockable wooden shutter</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_stairs_0m_1_3m_1_2m_1_6m</Data></Cell>

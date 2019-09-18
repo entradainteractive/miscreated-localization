@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3572" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3582" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -3246,6 +3246,11 @@
     <Cell><Data ss:Type="String">Prezent świąteczny, prawdopodobnie zawiera jakieś ubrania.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentClothingOpenPresent</Data></Cell>
+    <Cell><Data ss:Type="String">Open Present</Data></Cell>
+    <Cell><Data ss:Type="String">Open Present</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentWeapon</Data></Cell>
     <Cell><Data ss:Type="String">Holiday Present</Data></Cell>
     <Cell><Data ss:Type="String">Prezent świąteczny</Data></Cell>
@@ -5286,6 +5291,16 @@
     <Cell><Data ss:Type="String">Proch strzelniczy - coś dla pirotechników.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">Hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">Hacksaw</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HacksawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">An old hacksaw</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HamBurned</Data></Cell>
     <Cell><Data ss:Type="String">Burned Ham</Data></Cell>
     <Cell><Data ss:Type="String">Spalona wieprzowina</Data></Cell>
@@ -6229,11 +6244,6 @@
     <Cell ss:Index="2"><Data ss:Type="String">JerryCanDieselWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
     <Cell><Data ss:Type="String">Pobierz zawartość</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
-    <Cell><Data ss:Type="String">TŁUMACZONY TEKST</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Katana</Data></Cell>
@@ -13056,9 +13066,24 @@
     <Cell><Data ss:Type="String">Bukłak z wilczej skóry</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolfDepositFluid</Data></Cell>
+    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
+    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolfDescription</Data></Cell>
     <Cell><Data ss:Type="String">A refillable crafted hide pouch to store water. Made from wolf pelts.</Data></Cell>
     <Cell><Data ss:Type="String">Duży pojemnik na wodę wykonany ręcznie ze skóry wilka. Wielokrotnego użytku.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolfWaterPlanter</Data></Cell>
+    <Cell><Data ss:Type="String">Water Planter</Data></Cell>
+    <Cell><Data ss:Type="String">Water Planter</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolfWithdrawFluid</Data></Cell>
+    <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
+    <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WeldersMask</Data></Cell>
@@ -17316,6 +17341,16 @@
     <Cell><Data ss:Type="String">Drewniany dach - szerokość 3m i długość 4m.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_roof_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 Roof</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 Roof</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_roof_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Wood 4m wide x 4m long roof</Data></Cell>
+    <Cell><Data ss:Type="String">Wood 4m wide x 4m long roof</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_roof_murderhole_3m_2m</Data></Cell>
     <Cell><Data ss:Type="String">3x2 Roof Murder-hole</Data></Cell>
     <Cell><Data ss:Type="String">Dach z otworem 3x2</Data></Cell>
@@ -17354,6 +17389,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_1_6m_0_9mDescription</Data></Cell>
     <Cell><Data ss:Type="String"> Base part</Data></Cell>
     <Cell><Data ss:Type="String">Drewniane okiennice o wymiarach 1.6m × 0.9m.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_small_lockable</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wooden Shutter</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wooden Shutter</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_small_lockableDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A lockable wooden shutter</Data></Cell>
+    <Cell><Data ss:Type="String">A lockable wooden shutter</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_stairs_0m_1_3m_1_2m_1_6m</Data></Cell>

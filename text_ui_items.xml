@@ -6246,11 +6246,6 @@
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
-    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Katana</Data></Cell>
     <Cell><Data ss:Type="String">Katana</Data></Cell>
     <Cell><Data ss:Type="String">Katana</Data></Cell>

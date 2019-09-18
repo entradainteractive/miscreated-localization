@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3443" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3582" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -384,6 +384,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">AdvancedBandageDescription</Data></Cell>
     <Cell><Data ss:Type="String">Covers wounds with an alcohol-soaked bandage so you heal faster</Data></Cell>
     <Cell><Data ss:Type="String">Bedeckt Wunden mit einem alkoholgetränkten Verband, damit Sie schneller heilen können</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AirDropCrate</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
+    <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Amalgaduino</Data></Cell>
@@ -1936,6 +1941,16 @@
     <Cell><Data ss:Type="String">Bietet eine unvergleichliche Zoomstufe.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Biofuel</Data></Cell>
+    <Cell><Data ss:Type="String">Biofuel</Data></Cell>
+    <Cell><Data ss:Type="String">Biofuel</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BiofuelDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A can containing some Biofuel - used for crafting explosives</Data></Cell>
+    <Cell><Data ss:Type="String">A can containing some Biofuel - used for crafting explosives</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BlueJeans</Data></Cell>
     <Cell><Data ss:Type="String">Blue Jeans</Data></Cell>
     <Cell><Data ss:Type="String">Blaue Jeans</Data></Cell>
@@ -3066,6 +3081,16 @@
     <Cell><Data ss:Type="String">Getreide weckt den Mörder in dir.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Charcoal</Data></Cell>
+    <Cell><Data ss:Type="String">Charcoal</Data></Cell>
+    <Cell><Data ss:Type="String">Charcoal</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CharcoalDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A chunk of charcoal that is useful in crafting</Data></Cell>
+    <Cell><Data ss:Type="String">A chunk of charcoal that is useful in crafting</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChemlightBluePickup</Data></Cell>
     <Cell><Data ss:Type="String">Blue Chemlight</Data></Cell>
     <Cell><Data ss:Type="String">Blaues Chemlight</Data></Cell>
@@ -3586,6 +3611,16 @@
     <Cell><Data ss:Type="String">Ein Bogen aus Stöcken und Seilen</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CraftedExplosiveArrowx8_0000</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Wood Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Wood Arrows</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CraftedExplosiveArrowx8_0000Description</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of wooden explosive arrows</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of wooden explosive arrows</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedFannyPack</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Fanny Pack</Data></Cell>
     <Cell><Data ss:Type="String">Handgefertigte Gürteltasche</Data></Cell>
@@ -3734,6 +3769,156 @@
     <Cell ss:Index="2"><Data ss:Type="String">CraftedSilencerDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted noise suppressor which can be attached to certain rifles.</Data></Cell>
     <Cell><Data ss:Type="String">Ein handgefertigter Schalldämpfer, der an bestimmten Gewehren befestigt werden kann.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 10x25mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 10x25mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mmDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Beanbag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_BeanbagDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_PelletDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_SlugDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .22x15mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .22x15mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .223x45mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .223x45mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .308x51mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .308x51mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .357x33mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .357x33mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_45x39</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.45x39mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.45x39mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_45x39Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_56x45</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.56x45mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.56x45mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_56x45Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_70x28</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.70x28mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.70x28mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_70x28Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x39</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x39mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x39mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x39Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x51</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x51mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x51mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x51Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_9mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 9x19mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 9x19mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_9mmDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_acp_45</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .45x23mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .45x23mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_acp_45Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Crossbow</Data></Cell>
@@ -4286,6 +4471,16 @@
     <Cell><Data ss:Type="String">Weckt deine innere Mutante. Jetzt mit Elektrolyten.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ExplosiveArrowx8_0000</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Aluminium Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive Aluminium Arrows</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ExplosiveArrowx8_0000Description</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of aluminium explosive arrows</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bundle of aluminium explosive arrows</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ExplosiveOilBarrel</Data></Cell>
     <Cell><Data ss:Type="String">Explosive Barrel</Data></Cell>
     <Cell><Data ss:Type="String">Explosives Fass</Data></Cell>
@@ -4469,6 +4664,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">FireDrillLightFirepit</Data></Cell>
     <Cell><Data ss:Type="String">Light Firepit</Data></Cell>
     <Cell><Data ss:Type="String">Leichte Feuerstelle</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">FireDrillLightFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Light Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Light Furnace</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FireDrillLightGrill</Data></Cell>
@@ -5079,6 +5279,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">GuitarDescription</Data></Cell>
     <Cell><Data ss:Type="String">A guitar you can play</Data></Cell>
     <Cell><Data ss:Type="String">Eine Gitarre, die du spielen kannst</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Gunpowder</Data></Cell>
+    <Cell><Data ss:Type="String">Gunpowder</Data></Cell>
+    <Cell><Data ss:Type="String">Gunpowder</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">GunpowderDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A pile of gunpowder that is useful for crafting</Data></Cell>
+    <Cell><Data ss:Type="String">A pile of gunpowder that is useful for crafting</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">Hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">Hacksaw</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HacksawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old hacksaw</Data></Cell>
+    <Cell><Data ss:Type="String">An old hacksaw</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HamBurned</Data></Cell>
@@ -5951,6 +6171,36 @@
     <Cell><Data ss:Type="String">Ein Jagdumfang mit leistungsstarken Zoomfunktionen.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronIngot</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ingot</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ingot</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronIngotDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ingot used in various crafting recipes</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ingot used in various crafting recipes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronIngotSmeltInFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOre</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOreDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore used in various crafting recipes</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore used in various crafting recipes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOreSmeltInFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">IronsightKit</Data></Cell>
     <Cell><Data ss:Type="String">Ironsight Kit</Data></Cell>
     <Cell><Data ss:Type="String">Ironsight Kit</Data></Cell>
@@ -6119,6 +6369,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightFirepit</Data></Cell>
     <Cell><Data ss:Type="String">Light Firepit</Data></Cell>
     <Cell><Data ss:Type="String">Leichte Feuerstelle</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">LighterLightFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Light Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Light Furnace</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightGrill</Data></Cell>
@@ -6319,6 +6574,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">MatchesLightFirepit</Data></Cell>
     <Cell><Data ss:Type="String">Light Firepit</Data></Cell>
     <Cell><Data ss:Type="String">Leichte Feuerstelle</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MatchesLightFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Light Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Light Furnace</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MatchesLightGrill</Data></Cell>
@@ -7581,6 +7841,16 @@
     <Cell><Data ss:Type="String">Ein Stapel von 12 nicht-tödlichen Sitzsäcken</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeCrafted</Data></Cell>
+    <Cell><Data ss:Type="String">12-Gauge Crafted Buckshot</Data></Cell>
+    <Cell><Data ss:Type="String">12-Gauge Crafted Buckshot</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeCraftedDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A pile of crafted gauge 00 buckshot shells</Data></Cell>
+    <Cell><Data ss:Type="String">A pile of crafted gauge 00 buckshot shells</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugePellet</Data></Cell>
     <Cell><Data ss:Type="String">12-Gauge Buckshot</Data></Cell>
     <Cell><Data ss:Type="String">12-Gauge Buckshot</Data></Cell>
@@ -8339,6 +8609,21 @@
     <Cell ss:Index="2"><Data ss:Type="String">PupTentTanDescription</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Pyrite</Data></Cell>
+    <Cell><Data ss:Type="String">Pyrite</Data></Cell>
+    <Cell><Data ss:Type="String">Pyrite</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PyriteDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Pyrite rock - can be placed in a furnace to extract sulphur from it</Data></Cell>
+    <Cell><Data ss:Type="String">Pyrite rock - can be placed in a furnace to extract sulphur from it</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PyriteSmeltInFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">R90</Data></Cell>
@@ -9626,6 +9911,11 @@
     <Cell><Data ss:Type="String">Metallschrott, der sich gut für den Bau eignet.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScrapMetalSmeltInFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Seaweed</Data></Cell>
     <Cell><Data ss:Type="String">Seaweed</Data></Cell>
     <Cell><Data ss:Type="String">Seetang</Data></Cell>
@@ -10269,6 +10559,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">StunBatonDescription</Data></Cell>
     <Cell><Data ss:Type="String">Can be used for personal protection.</Data></Cell>
     <Cell><Data ss:Type="String">Kann zum persönlichen Schutz verwendet werden.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Sulphur</Data></Cell>
+    <Cell><Data ss:Type="String">Sulphur</Data></Cell>
+    <Cell><Data ss:Type="String">Sulphur</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SulphurDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A pile of ground Sulphur that is useful in crafting</Data></Cell>
+    <Cell><Data ss:Type="String">A pile of ground Sulphur that is useful in crafting</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SunglassesABlack</Data></Cell>
@@ -13191,6 +13491,126 @@
     <Cell><Data ss:Type="String">Beutel mit Schmutz füllen</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_bed</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Bed</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Bed</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_bedDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bed. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A crafted bed. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_01</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 1</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 1</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_01Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 1 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 1 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_02</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 2</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 2</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 2 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 2 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_03</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 3</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 3</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_03Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 3 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 3 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_04</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 4</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 4</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_04Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 4 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 4 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_05</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 5</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 5</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_05Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 5 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 5 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_06</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 6</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 6</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_06Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 6 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 6 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_07</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 7</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 7</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_07Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 7 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 7 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_08</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 8</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 8</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_08Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 8 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 8 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_09</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 9</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 9</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_09Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 9 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 9 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_10</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 10</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 10</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_10Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 10 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 10 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_11</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 11</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Rug 11</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_11Description</Data></Cell>
+    <Cell><Data ss:Type="String">A design 11 crafted rug. Can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A design 11 crafted rug. Can be placed in a base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">dws_grill2</Data></Cell>
     <Cell><Data ss:Type="String">BBQ Grill</Data></Cell>
     <Cell><Data ss:Type="String">BBQ Grill</Data></Cell>
@@ -13199,6 +13619,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">dws_grill2Description</Data></Cell>
     <Cell><Data ss:Type="String">A barbeque grill that can be used to cook on. Can be placed in a base.</Data></Cell>
     <Cell><Data ss:Type="String">Ein Grill, auf dem gekocht werden kann. Kann in eine Basis gestellt werden.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Algeria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Algeria</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeriaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Algerian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Algerian flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_amalgamated</Data></Cell>
@@ -13241,6 +13671,16 @@
     <Cell><Data ss:Type="String">A flagpole with a autralian flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_austria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Austria</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Austria</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_austriaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Austrian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Austrian flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_black</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Black</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Black</Data></Cell>
@@ -13259,6 +13699,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_blueDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a blue flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a blue flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Brazil</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_brazilDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Brazilian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Brazilian flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_canada</Data></Cell>
@@ -13301,6 +13751,16 @@
     <Cell><Data ss:Type="String">A flagpole with a glowing flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_finland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Finland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Finland</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_finlandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Finnish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Finnish flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_france</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole France</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole France</Data></Cell>
@@ -13331,6 +13791,36 @@
     <Cell><Data ss:Type="String">A flagpole with a green flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_holland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Holland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Holland</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_hollandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Dutch flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Dutch flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_india</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole India</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole India</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indiaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indian flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indonesia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Indonesia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Indonesia</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_indonesiaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indonesian flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Indonesian flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_ironsons</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Iron Sons</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Iron Sons</Data></Cell>
@@ -13341,6 +13831,16 @@
     <Cell><Data ss:Type="String">A flagpole with a Iron Sons flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_israel</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Israel</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Israel</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_israelDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Israeli flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with an Israeli flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_japan</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Japan</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Japan</Data></Cell>
@@ -13349,6 +13849,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_japanDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a japanese flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a japanese flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_mexico</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Mexico</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Mexico</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_mexicoDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Mexican flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Mexican flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_pink</Data></Cell>
@@ -13371,6 +13881,16 @@
     <Cell><Data ss:Type="String">A flagpole with a pirate flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_poland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Poland</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Poland</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_polandDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Polish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Polish flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_red</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Red</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Red</Data></Cell>
@@ -13391,6 +13911,16 @@
     <Cell><Data ss:Type="String">A flagpole with a Russian flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_slovenia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Slovenia</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Slovenia</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_sloveniaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Slovene flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Slovene flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_smiley_glow</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Smiley Glow</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Smiley Glow</Data></Cell>
@@ -13399,6 +13929,46 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_smiley_glowDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a glowing flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a glowing flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_south_africa</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole South Africa</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole South Africa</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_south_africaDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a South African flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a South African flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_spain</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Spain</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Spain</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_spainDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Spanish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Spanish flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_sweden</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Sweden</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Sweden</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_swedenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Swedish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Swedish flag attached to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_turkey</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Turkey</Data></Cell>
+    <Cell><Data ss:Type="String">Flagpole Turkey</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flagpole_turkeyDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Turkish flag attached to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A flagpole with a Turkish flag attached to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_uk</Data></Cell>
@@ -14121,6 +14691,26 @@
     <Cell><Data ss:Type="String">Ein sammelbarer Gartenzwerg.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_explosives_1</Data></Cell>
+    <Cell><Data ss:Type="String">Explosives 1</Data></Cell>
+    <Cell><Data ss:Type="String">Explosives 1</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_explosives_1Description</Data></Cell>
+    <Cell><Data ss:Type="String">Basic explosives guide</Data></Cell>
+    <Cell><Data ss:Type="String">Basic explosives guide</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_explosives_2</Data></Cell>
+    <Cell><Data ss:Type="String">Explosives 1</Data></Cell>
+    <Cell><Data ss:Type="String">Explosives 1</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_explosives_2Description</Data></Cell>
+    <Cell><Data ss:Type="String">Advanced explosives guide</Data></Cell>
+    <Cell><Data ss:Type="String">Advanced explosives guide</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">guide_medical_bandages</Data></Cell>
     <Cell><Data ss:Type="String">Medical Guide</Data></Cell>
     <Cell><Data ss:Type="String">Medical Guide</Data></Cell>
@@ -14361,6 +14951,36 @@
     <Cell><Data ss:Type="String">Ein Nahkampfwaffenführer, der zum Basteln verwendet wird</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_weapons_ranged_1</Data></Cell>
+    <Cell><Data ss:Type="String">Ranged Weapons 1</Data></Cell>
+    <Cell><Data ss:Type="String">Ranged Weapons 1</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_weapons_ranged_1Description</Data></Cell>
+    <Cell><Data ss:Type="String">Basic ranged weapons guide</Data></Cell>
+    <Cell><Data ss:Type="String">Basic ranged weapons guide</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_weapons_ranged_2</Data></Cell>
+    <Cell><Data ss:Type="String">Ranged Weapons 2</Data></Cell>
+    <Cell><Data ss:Type="String">Ranged Weapons 2</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_weapons_ranged_2Description</Data></Cell>
+    <Cell><Data ss:Type="String">Advanced ranged weapons guide</Data></Cell>
+    <Cell><Data ss:Type="String">Advanced ranged weapons guide</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_weapons_ranged_3</Data></Cell>
+    <Cell><Data ss:Type="String">Ranged Weapons 3</Data></Cell>
+    <Cell><Data ss:Type="String">Ranged Weapons 3</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_weapons_ranged_3Description</Data></Cell>
+    <Cell><Data ss:Type="String">Specilalized ranged weapons guide</Data></Cell>
+    <Cell><Data ss:Type="String">Specilalized ranged weapons guide</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">hesco_barrier</Data></Cell>
     <Cell><Data ss:Type="String">Sand Barrier</Data></Cell>
     <Cell><Data ss:Type="String">Sandbarriere</Data></Cell>
@@ -14399,6 +15019,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">jack_o_lanternDescription</Data></Cell>
     <Cell><Data ss:Type="String">A placeable jack-o-lantern.</Data></Cell>
     <Cell><Data ss:Type="String">Eine platzierbare Kürbislaterne.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">jerry</Data></Cell>
+    <Cell><Data ss:Type="String">Jerry</Data></Cell>
+    <Cell><Data ss:Type="String">Jerry</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">jerryDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A fish named Jerry - can be placed in a base.</Data></Cell>
+    <Cell><Data ss:Type="String">A fish named Jerry - can be placed in a base.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">log_furniture_bench_a</Data></Cell>
@@ -15981,6 +16611,46 @@
     <Cell><Data ss:Type="String">4m hohes Stockgerüst. Leicht zu zerstören, aber stabil.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_fireplace</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Fireplace</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Fireplace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_fireplaceDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A fireplace that can be placed in a base</Data></Cell>
+    <Cell><Data ss:Type="String">A fireplace that can be placed in a base</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_fireplace_packed</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Fireplace</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Fireplace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_fireplace_packedDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A fireplace that can be placed in a base</Data></Cell>
+    <Cell><Data ss:Type="String">A fireplace that can be placed in a base</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_furance</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Furnace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_furanceDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A furnace that can be placed in a base</Data></Cell>
+    <Cell><Data ss:Type="String">A furnace that can be placed in a base</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_furnace_packed</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Furnace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_furnace_packedDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A furnace that can be placed in a base - requires wood to be lit</Data></Cell>
+    <Cell><Data ss:Type="String">A furnace that can be placed in a base - requires wood to be lit</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tiki_torch</Data></Cell>
     <Cell><Data ss:Type="String">Tiki Torch</Data></Cell>
     <Cell><Data ss:Type="String">Tiki-Fackel</Data></Cell>
@@ -16671,6 +17341,16 @@
     <Cell><Data ss:Type="String">Holz 3 m breit x 4 m langes Dach</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_roof_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 Roof</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 Roof</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_roof_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Wood 4m wide x 4m long roof</Data></Cell>
+    <Cell><Data ss:Type="String">Wood 4m wide x 4m long roof</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_roof_murderhole_3m_2m</Data></Cell>
     <Cell><Data ss:Type="String">3x2 Roof Murder-hole</Data></Cell>
     <Cell><Data ss:Type="String">3x2 Dachmordloch</Data></Cell>
@@ -16709,6 +17389,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_1_6m_0_9mDescription</Data></Cell>
     <Cell><Data ss:Type="String"> Base part</Data></Cell>
     <Cell><Data ss:Type="String">Basisteil</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_small_lockable</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wooden Shutter</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wooden Shutter</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_small_lockableDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A lockable wooden shutter</Data></Cell>
+    <Cell><Data ss:Type="String">A lockable wooden shutter</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_stairs_0m_1_3m_1_2m_1_6m</Data></Cell>
