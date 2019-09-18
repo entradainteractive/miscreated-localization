@@ -10,7 +10,7 @@
   <LastAuthor>tevans</LastAuthor>
   <Created>2016-03-04T12:39:08Z</Created>
   <LastSaved>2019-06-06T14:01:24Z</LastSaved>
-  <Version>16.00</Version>
+  <Version>12.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
@@ -18,8 +18,9 @@
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <WindowHeight>12030</WindowHeight>
   <WindowWidth>23760</WindowWidth>
-  <WindowTopX>32767</WindowTopX>
-  <WindowTopY>32767</WindowTopY>
+  <WindowTopX>-32766</WindowTopX>
+  <WindowTopY>-32766</WindowTopY>
+  <TabRatio>246</TabRatio>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -91,11 +92,11 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="689" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="695" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
-   <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75"/>
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="426.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="14.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="319"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="427"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="391.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
@@ -3542,6 +3543,36 @@
     <Cell><Data ss:Type="String">Harvest Clams</Data></Cell>
     <Cell><Data ss:Type="String">Harvest Clams</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">place_depth_limit_reached</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Too many parts away from ground</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Too many parts away from ground</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">placement_mode_snap</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Snap mode</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Snap mode</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">placement_mode_free</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Freeform mode</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Freeform mode</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">placement_move_down</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Prefer lower position</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Prefer lower position</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">placement_move_up</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Prefer higher position</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Prefer higher position</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">placement_rotate</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Rotating</Data></Cell>
+    <Cell><Data ss:Type="String">Placement: Rotating</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -3557,12 +3588,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>648</TopRowVisible>
+   <TopRowVisible>658</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>669</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>695</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

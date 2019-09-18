@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3403" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3443" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -414,6 +414,36 @@
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_10mmDescription</Data></Cell>
     <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
     <Cell><Data ss:Type="String">Una caja de acero utilizada para almacenar grandes cantidades de municiones.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga BB</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga BB</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_BeanbagDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_PelletDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_SlugDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_22</Data></Cell>
@@ -6751,6 +6781,16 @@
     <Cell><Data ss:Type="String">Raro fusil automático de cañón corto. Incendios de 5,56 rondas.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Model1873</Data></Cell>
+    <Cell><Data ss:Type="String">Model 1873</Data></Cell>
+    <Cell><Data ss:Type="String">Model 1873</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Model1873Description</Data></Cell>
+    <Cell><Data ss:Type="String">A model 1873 lever action rifle .357</Data></Cell>
+    <Cell><Data ss:Type="String">A model 1873 lever action rifle .357</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Model70</Data></Cell>
     <Cell><Data ss:Type="String">Carlington BA-70</Data></Cell>
     <Cell><Data ss:Type="String">C Arlington BA-70</Data></Cell>
@@ -13031,6 +13071,16 @@
     <Cell><Data ss:Type="String">Una lista de búsqueda animada para una base</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">arcade_cabinet</Data></Cell>
+    <Cell><Data ss:Type="String">Arcade Cabinet</Data></Cell>
+    <Cell><Data ss:Type="String">Arcade Cabinet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">arcade_cabinetDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A towable arcade cabinet you can place at your base.</Data></Cell>
+    <Cell><Data ss:Type="String">A towable arcade cabinet you can place at your base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">camping_chair</Data></Cell>
     <Cell><Data ss:Type="String">Camping Chair</Data></Cell>
     <Cell><Data ss:Type="String">Silla de camping</Data></Cell>
@@ -14741,6 +14791,36 @@
     <Cell><Data ss:Type="String">Una puerta enchapada con cierre de aproximadamente 1 m de ancho x 2 m de alto</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_draw_bridge</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Drawbridge</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Drawbridge</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_draw_bridgeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A placeable plated drawbridge part.</Data></Cell>
+    <Cell><Data ss:Type="String">A placeable plated drawbridge part.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_foundation_2m_2m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">2x2x4 Plated Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">2x2x4 Plated Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_foundation_2m_2m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 4m high x 2m wide x 2m length foundation piece.</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 4m high x 2m wide x 2m length foundation piece.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_foundation_4m_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Plated Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Plated Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_foundation_4m_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 4m high x 4m wide x 4m length foundation piece.</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 4m high x 4m wide x 4m length foundation piece.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_gate_lockable_3m_4m</Data></Cell>
     <Cell><Data ss:Type="String">Plated Gatehouse Gate</Data></Cell>
     <Cell><Data ss:Type="String">Puerta de la casa de la puerta plateada</Data></Cell>
@@ -15001,6 +15081,16 @@
     <Cell><Data ss:Type="String">Techo de 3 m de ancho x 4 m de largo</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_roof_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 roof</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 roof</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_roof_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 meters plated roof.</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 meters plated roof.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_roof_murderhole_3m_2m</Data></Cell>
     <Cell><Data ss:Type="String">3x2 Roof Murder-hole</Data></Cell>
     <Cell><Data ss:Type="String">Agujero de asesinato de techo 3x2</Data></Cell>
@@ -15039,6 +15129,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_1_6m_0_9mDescription</Data></Cell>
     <Cell><Data ss:Type="String"> Base part</Data></Cell>
     <Cell><Data ss:Type="String">Base part</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_small_lockable</Data></Cell>
+    <Cell><Data ss:Type="String">Small lockable shutters</Data></Cell>
+    <Cell><Data ss:Type="String">Small lockable shutters</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_small_lockableDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small plated lockable shutters.</Data></Cell>
+    <Cell><Data ss:Type="String">A small plated lockable shutters.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_trapdoor_lockable_1m_2m</Data></Cell>
@@ -15341,6 +15441,16 @@
     <Cell><Data ss:Type="String">Pared curvada de 3 m de alto x 4 m de largo con apertura de puerta</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_drawbridge_3m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall Drawbridge</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall Drawbridge</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_drawbridge_3m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A plated 3x4 meters wall, meant to be used with a draw bridge.</Data></Cell>
+    <Cell><Data ss:Type="String">A plated 3x4 meters wall, meant to be used with a draw bridge.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_wall_shutter_3m_2m</Data></Cell>
     <Cell><Data ss:Type="String">Shutter Wall 3m 2m</Data></Cell>
     <Cell><Data ss:Type="String">Madre y madre</Data></Cell>
@@ -15401,6 +15511,16 @@
     <Cell><Data ss:Type="String">Plateado 9m Atalaya</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_big</Data></Cell>
+    <Cell><Data ss:Type="String">Big Watchtower</Data></Cell>
+    <Cell><Data ss:Type="String">Big Watchtower</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_bigDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A big, plated watchtower with stairs to climb it.</Data></Cell>
+    <Cell><Data ss:Type="String">A big, plated watchtower with stairs to climb it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tire</Data></Cell>
     <Cell><Data ss:Type="String">9m Plated Tire Watchtower</Data></Cell>
     <Cell><Data ss:Type="String">Atalaya de llanta plateada de 9 m</Data></Cell>
@@ -15409,6 +15529,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tireDescription</Data></Cell>
     <Cell><Data ss:Type="String">Plated 9m Watchtower with tires for extra protection.</Data></Cell>
     <Cell><Data ss:Type="String">Atalaya chapada en 9m con llantas para mayor protección.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tire_big</Data></Cell>
+    <Cell><Data ss:Type="String">Tire Big Watchtower</Data></Cell>
+    <Cell><Data ss:Type="String">Tire Big Watchtower</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tire_bigDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A big, plated watchtower with tire added to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A big, plated watchtower with tire added to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">power_pole</Data></Cell>
@@ -15509,6 +15639,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">propane_heaterDescription</Data></Cell>
     <Cell><Data ss:Type="String">A propane heater that will help warm you up.</Data></Cell>
     <Cell><Data ss:Type="String">Un calentador de propano que te ayudará a calentarte.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_2m_2m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">2x2x4 Rock Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">2x2x4 Rock Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_2m_2m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 2 by 2 by 4 meters rock foundation.</Data></Cell>
+    <Cell><Data ss:Type="String">A 2 by 2 by 4 meters rock foundation.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_4m_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Rock Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Rock Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_4m_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 by 4 meters rock foundation.</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 by 4 meters rock foundation.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">rug_bear_pelt</Data></Cell>
@@ -16171,6 +16321,16 @@
     <Cell><Data ss:Type="String">Una puerta de madera con cerradura de aproximadamente 1 m de ancho x 2 m de alto</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_draw_bridge</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Drawbridge</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Drawbridge</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_draw_bridgeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden Drawbridge. Meant to be used with drawbridge wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden Drawbridge. Meant to be used with drawbridge wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_floor_panel</Data></Cell>
     <Cell><Data ss:Type="String">Wood Floor Panel</Data></Cell>
     <Cell><Data ss:Type="String">Panel de piso de madera</Data></Cell>
@@ -16179,6 +16339,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_floor_panelDescription</Data></Cell>
     <Cell><Data ss:Type="String">A wooden floor panel used in crafting</Data></Cell>
     <Cell><Data ss:Type="String">Un panel de piso de madera utilizado en la elaboración</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_foundation_4m_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Wood Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Wood Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_foundation_4m_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 by 4 wooden foundation.</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 by 4 wooden foundation.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_furniture_panel</Data></Cell>
@@ -17011,6 +17181,16 @@
     <Cell><Data ss:Type="String">Muro curvo de madera de 3 m de alto x 4 m de largo con apertura de puerta</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_drawbridge_3m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Wall Drawbridge</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Wall Drawbridge</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_drawbridge_3m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 by 4 wooden wall meant to be used with the drawbridge.</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 by 4 wooden wall meant to be used with the drawbridge.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_panel</Data></Cell>
     <Cell><Data ss:Type="String">Wood Wall Panel</Data></Cell>
     <Cell><Data ss:Type="String">Panel de pared de madera</Data></Cell>
@@ -17081,6 +17261,16 @@
     <Cell><Data ss:Type="String">Atalaya de madera 9m</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_big</Data></Cell>
+    <Cell><Data ss:Type="String">Big Wood Watchtower</Data></Cell>
+    <Cell><Data ss:Type="String">Big Wood Watchtower</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_bigDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A big, wooden, watchtower with stairs to climb it.</Data></Cell>
+    <Cell><Data ss:Type="String">A big, wooden, watchtower with stairs to climb it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_tire</Data></Cell>
     <Cell><Data ss:Type="String">9m Tire Watchtower</Data></Cell>
     <Cell><Data ss:Type="String">9m Tire Watchtower</Data></Cell>
@@ -17089,6 +17279,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_tireDescription</Data></Cell>
     <Cell><Data ss:Type="String">Wood 9m Watchtower with tires for extra protection.</Data></Cell>
     <Cell><Data ss:Type="String">Atalaya de madera de 9m con neumáticos para mayor protección.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_tire_big</Data></Cell>
+    <Cell><Data ss:Type="String">Big Wood Tire Watchtower</Data></Cell>
+    <Cell><Data ss:Type="String">Big Wood Tire Watchtower</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_tire_bigDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A Big, wooden, watchtower with tires added.</Data></Cell>
+    <Cell><Data ss:Type="String">A Big, wooden, watchtower with tires added.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_window_frame</Data></Cell>

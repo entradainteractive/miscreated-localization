@@ -7,7 +7,7 @@
           xmlns:html="http://www.w3.org/TR/REC-html40">
     <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
         <Author>csprance</Author>
-        <LastAuthor>H4Z4-rd</LastAuthor>
+        <LastAuthor>tevans</LastAuthor>
         <Created>2019-03-13T12:39:08Z</Created>
         <LastSaved>2019-03-13T12:39:08Z</LastSaved>
         <Version>16.00</Version>
@@ -91,21 +91,21 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3243" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3572" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
-<Row ss:AutoFitHeight="0" ss:Height="30">
+            <Row ss:AutoFitHeight="0" ss:Height="30">
                 <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
                 <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
                 <Cell ss:StyleID="s65"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
-      </Row>
-<Row ss:AutoFitHeight="0" ss:Height="48">
+            </Row>
+            <Row ss:AutoFitHeight="0" ss:Height="48">
                 <Cell ss:Index="2" ss:StyleID="s66"/>
                 <Cell ss:StyleID="s66"><Data ss:Type="String">This contains original text meant for subtitles. This text exists for a multi-lingual reference and is not used in-game. Use ## for a new line.</Data></Cell>
                 <Cell ss:StyleID="s66"><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
-      </Row>
-<Row ss:AutoFitHeight="0">
+            </Row>
+            <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx15</Data></Cell>
     <Cell><Data ss:Type="String">15Rnd Vector 10mm</Data></Cell>
     <Cell><Data ss:Type="String">Mag. 15 x 10mm (Vector)</Data></Cell>
@@ -385,7 +385,7 @@
     <Cell><Data ss:Type="String">Covers wounds with an alcohol-soaked bandage so you heal faster</Data></Cell>
     <Cell><Data ss:Type="String">Bandaż nasączony spirytusem, przyspiesza proces gojenia się ran.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AirDropCrate</Data></Cell>
     <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
     <Cell><Data ss:Type="String">Zrzut zaopatrzeniowy AC</Data></Cell>
@@ -419,6 +419,36 @@
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_10mmDescription</Data></Cell>
     <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
     <Cell><Data ss:Type="String">Stalowa skrzynka, w której można przechowywać większą liczbę pocisków kalibru 10mm.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga BB</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga BB</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_BeanbagDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_PelletDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_SlugDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_22</Data></Cell>
@@ -600,7 +630,7 @@
     <Cell><Data ss:Type="String">Bruised, rotten, disgusting old fruit. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data ss:Type="String">Zepsuty, niejadalny owoc. Nadaje się tylko do wytwarzania trucizny lub jako nawóz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AppleRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -1265,7 +1295,7 @@
     <Cell><Data ss:Type="String">Burnt Beets</Data></Cell>
     <Cell><Data ss:Type="String">Spalone buraczki</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeetsBurnedDescription</Data></Cell>
     <Cell><Data ss:Type="String">Burnt beets</Data></Cell>
     <Cell><Data ss:Type="String">Mocno przypalone buraczki, ale wciąż jadalne.</Data></Cell>
@@ -1325,7 +1355,7 @@
     <Cell><Data ss:Type="String">A pile of rotten beets. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data ss:Type="String">Nać zgniłych buraczków. Nadają się tylko na nawóz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeetsRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -2120,7 +2150,7 @@
     <Cell><Data ss:Type="String">A pile of rotten brush peas.</Data></Cell>
     <Cell><Data ss:Type="String">Niejadalne strąki fasolki. Nadają się tylko na nawóz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BrushPeasRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -3025,7 +3055,7 @@
     <Cell><Data ss:Type="String">Gross, rotten carrots. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data ss:Type="String">Trucizna! Nadaje się tylko na nawozy.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CarrotsRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -3200,7 +3230,7 @@
     <Cell><Data ss:Type="String">A holiday gift, probably contains some base part.</Data></Cell>
     <Cell><Data ss:Type="String">Prezent świąteczny, prawdopodobnie zawiera jakiś element bazy.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentBpartOpenPresent</Data></Cell>
     <Cell><Data ss:Type="String">Open Present</Data></Cell>
     <Cell><Data ss:Type="String">Rozpakuj prezent</Data></Cell>
@@ -3214,11 +3244,6 @@
     <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentClothingDescription</Data></Cell>
     <Cell><Data ss:Type="String">A holiday gift, probably contains some clothing.</Data></Cell>
     <Cell><Data ss:Type="String">Prezent świąteczny, prawdopodobnie zawiera jakieś ubrania.</Data></Cell>
-</Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentBpartOpenPresent</Data></Cell>
-    <Cell><Data ss:Type="String">Open Present</Data></Cell>
-    <Cell><Data ss:Type="String">Rozpakuj prezent</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentWeapon</Data></Cell>
@@ -3580,12 +3605,12 @@
     <Cell><Data ss:Type="String">A bow crafted from sticks and rope</Data></Cell>
     <Cell><Data ss:Type="String">Ręczna robota, ale działa, jak trzeba.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedExplosiveArrowx8_0000</Data></Cell>
     <Cell><Data ss:Type="String">Explosive Wood Arrows</Data></Cell>
     <Cell><Data ss:Type="String">Prowizoryczna strzała wybuchowa</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedExplosiveArrowx8_0000Description</Data></Cell>
     <Cell><Data ss:Type="String">A crafted bundle of wooden explosive arrows</Data></Cell>
     <Cell><Data ss:Type="String">Drewniana strzała domowej roboty z ładunkiem wybuchowym.</Data></Cell>
@@ -3739,6 +3764,156 @@
     <Cell ss:Index="2"><Data ss:Type="String">CraftedSilencerDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted noise suppressor which can be attached to certain rifles.</Data></Cell>
     <Cell><Data ss:Type="String">Ręcznie wykonany tłumik do niektórych karabinów. Niezbyt trwały.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 10x25mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa 10mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mmDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru 10mm.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Beanbag</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa gumowe kule 12"</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_BeanbagDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę gumowych kul kalibru 12 cali.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa śrut 12"</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_PelletDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków śrutowych kalibru 12 cali.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa loftki 12"</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_SlugDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę loftek 12 cali.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .22x15mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa .22</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .223x45mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa .223</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru .223 cala.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru .22 cala.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .308x51mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa .308</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru .308 cala.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .357x33mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa .357</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru .357 cala.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_45x39</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.45x39mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa 5.45x39</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_45x39Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 5.45x39mm.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_56x45</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.56x45mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa 5.56x45</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_56x45Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 5.56x45mm.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_70x28</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 5.70x28mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa 5.70x28</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_70x28Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 5.70x28mm.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x39</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x39mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa 7.62x39</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x39Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 7.62x39mm.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x51</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x51mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa 7.62x51</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x51Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 7.62x51mm.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_9mm</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box 9x19mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa 9mm</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_9mmDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru 9mm.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_acp_45</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Ammo Box .45x23mm</Data></Cell>
+    <Cell><Data ss:Type="String">Skrzynka nabojowa .45</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_acp_45Description</Data></Cell>
+    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru 45 cala.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Crossbow</Data></Cell>
@@ -4290,12 +4465,12 @@
     <Cell><Data ss:Type="String">Wakes your inner mutant. Now with electrolytes.</Data></Cell>
     <Cell><Data ss:Type="String">Energetyk uważany kiedyś za szkodliwy. Dziś czasem ratuje życie.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ExplosiveArrowx8_0000</Data></Cell>
     <Cell><Data ss:Type="String">Explosive Aluminium Arrows</Data></Cell>
     <Cell><Data ss:Type="String">Strzała wybuchowa</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ExplosiveArrowx8_0000Description</Data></Cell>
     <Cell><Data ss:Type="String">A crafted bundle of aluminium explosive arrows</Data></Cell>
     <Cell><Data ss:Type="String">Aluminiowa strzała z ładunkiem wybuchowym.</Data></Cell>
@@ -4498,7 +4673,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FireDrillLightJackOLantern</Data></Cell>
     <Cell><Data ss:Type="String">Light Jack-O-Lantern</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">Zapal latarnię</Data></Cell>
+    <Cell><Data ss:Type="String">Zapal latarnię</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FireDrillLightStove</Data></Cell>
@@ -5981,21 +6156,6 @@
     <Cell><Data ss:Type="String">Lunetka do karabinów myśliwskich i snajperskich.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">IronOre</Data></Cell>
-    <Cell><Data ss:Type="String">Iron Ore</Data></Cell>
-    <Cell><Data ss:Type="String">Ruda żelaza</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">IronOreDescription</Data></Cell>
-    <Cell><Data ss:Type="String">Iron Ore used in various crafting recipes</Data></Cell>
-    <Cell><Data ss:Type="String">Cenna ruda żelaza wykorzystywana w rzemieślnictwie.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">IronOreSmeltInFurnace</Data></Cell>
-    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
-    <Cell><Data ss:Type="String">Wytop w piecu</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">IronIngot</Data></Cell>
     <Cell><Data ss:Type="String">Iron Ingot</Data></Cell>
     <Cell><Data ss:Type="String">Sztabka żelaza</Data></Cell>
@@ -6007,6 +6167,21 @@
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">IronIngotSmeltInFurnace</Data></Cell>
+    <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Wytop w piecu</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOre</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore</Data></Cell>
+    <Cell><Data ss:Type="String">Ruda żelaza</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOreDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Iron Ore used in various crafting recipes</Data></Cell>
+    <Cell><Data ss:Type="String">Cenna ruda żelaza wykorzystywana w rzemieślnictwie.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">IronOreSmeltInFurnace</Data></Cell>
     <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
     <Cell><Data ss:Type="String">Wytop w piecu</Data></Cell>
 </Row>
@@ -6169,7 +6344,7 @@
     <Cell ss:Index="2"><Data ss:Type="String">LighterDescription</Data></Cell>
     <Cell><Data ss:Type="String">A cheap gas station lighter. Useful for lighting flames and fires.</Data></Cell>
     <Cell><Data ss:Type="String">Jednorazowa zapalniczka na gaz. Całkiem użyteczny przedmiot.</Data></Cell>
-	</Row>
+</Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightCandle</Data></Cell>
     <Cell><Data ss:Type="String">Light Candle</Data></Cell>
@@ -6198,7 +6373,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightJackOLantern</Data></Cell>
     <Cell><Data ss:Type="String">Light Jack-O-Lantern</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">Zapal latarnię</Data></Cell>
+    <Cell><Data ss:Type="String">Zapal latarnię</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightStove</Data></Cell>
@@ -6403,7 +6578,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MatchesLightJackOLantern</Data></Cell>
     <Cell><Data ss:Type="String">Light Jack-O-Lantern</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">Zapal latarnię</Data></Cell>
+    <Cell><Data ss:Type="String">Zapal latarnię</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MatchesLightStove</Data></Cell>
@@ -6854,6 +7029,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">Mk18ReaverDescription</Data></Cell>
     <Cell><Data ss:Type="String">Rare military short-barrel automatic rifle. Fires 5.56 rounds.</Data></Cell>
     <Cell><Data ss:Type="String">Zmodyfikowana odmiana DD-MK18 - kaliber 5.56 mmm (STANAG).</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Model1873</Data></Cell>
+    <Cell><Data ss:Type="String">Model 1873</Data></Cell>
+    <Cell><Data ss:Type="String">Model 1873</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Model1873Description</Data></Cell>
+    <Cell><Data ss:Type="String">A model 1873 lever action rifle .357</Data></Cell>
+    <Cell><Data ss:Type="String">A model 1873 lever action rifle .357</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Model70</Data></Cell>
@@ -7645,12 +7830,12 @@
     <Cell><Data ss:Type="String">A pile of 12 gauge non-lethal beanbag rounds</Data></Cell>
     <Cell><Data ss:Type="String">Naboje do ogłuszania przeciwnika - kaliber 12 cali.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeCrafted</Data></Cell>
     <Cell><Data ss:Type="String">12-Gauge Crafted Buckshot</Data></Cell>
     <Cell><Data ss:Type="String">Śrut 12"</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeCraftedDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of crafted gauge 00 buckshot shells</Data></Cell>
     <Cell><Data ss:Type="String">Własnoręcznie wytworzone naboje śrutowe - kaliber 12 cali.</Data></Cell>
@@ -8005,12 +8190,12 @@
     <Cell><Data ss:Type="String">A pile of rotten potatoes. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data ss:Type="String">Kompletnie niejadalne, ale za to świetne jako nawóz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PotatoesRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PotatoesSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -8360,7 +8545,7 @@
     <Cell><Data ss:Type="String">Rotten pumpkins. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data ss:Type="String">Śmierdząca, rozpadająca się dynia. Nadaje się tylko na nawóz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PumpkinRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -8960,7 +9145,7 @@
     <Cell><Data ss:Type="String">A pile of rotten radishes. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data ss:Type="String">Obrzydliwe i na pewno trujące. Nadaje się tylko na nawóz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RadishesRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -9740,7 +9925,7 @@
     <Cell><Data ss:Type="String">A packet of beet seeds</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsBeetsSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9755,7 +9940,7 @@
     <Cell><Data ss:Type="String">A packet of brush pea seeds</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsBrushPeasSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9770,7 +9955,7 @@
     <Cell><Data ss:Type="String">A packet of carrot seeds</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsCarrotsSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9785,7 +9970,7 @@
     <Cell><Data ss:Type="String">Seed potato pieces used for farming</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsPotatoesSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9800,7 +9985,7 @@
     <Cell><Data ss:Type="String">A packet of pumpkin seeds</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsPumpkinsSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9815,7 +10000,7 @@
     <Cell><Data ss:Type="String">A packet of radish seeds</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsRadishesSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9830,7 +10015,7 @@
     <Cell><Data ss:Type="String">A packet of snap pea seeds</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsSnapPeasSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9845,7 +10030,7 @@
     <Cell><Data ss:Type="String">A packet of tomato seeds</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsTomatoesSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9860,7 +10045,7 @@
     <Cell><Data ss:Type="String">A packet of watermelon seeds</Data></Cell>
     <Cell><Data ss:Type="String">Nasiona do zasadzenia w plantatorze (skrzynka uprawowa).</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsWatermelonsSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Zasiej w skrzynce</Data></Cell>
@@ -9995,7 +10180,7 @@
     <Cell><Data ss:Type="String">A small pile of rotten snap peas. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data ss:Type="String">Niejadalne. Nadaje się tylko na nawóz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SnapPeasRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -10255,7 +10440,7 @@
     <Cell><Data ss:Type="String">Stick Pile</Data></Cell>
     <Cell><Data ss:Type="String">Patyki</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">StickPileAddFuel</Data></Cell>
     <Cell><Data ss:Type="String">Add Fuel</Data></Cell>
     <Cell><Data ss:Type="String">Dodaj podpałkę</Data></Cell>
@@ -10845,7 +11030,7 @@
     <Cell><Data ss:Type="String">A pile of rotten tomatoes. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data ss:Type="String">Kiść zgniłych pomidorów. Nadają się tylko na nawóz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">TomatoesRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -12835,7 +13020,7 @@
     <Cell><Data ss:Type="String">A single rotten watermelon</Data></Cell>
     <Cell><Data ss:Type="String">Rozpadający się, przegniły arbuz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WatermelonRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Nawóz</Data></Cell>
@@ -12871,24 +13056,9 @@
     <Cell><Data ss:Type="String">Bukłak z wilczej skóry</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedDeerDepositFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Odlej na zapas</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolfDescription</Data></Cell>
     <Cell><Data ss:Type="String">A refillable crafted hide pouch to store water. Made from wolf pelts.</Data></Cell>
     <Cell><Data ss:Type="String">Duży pojemnik na wodę wykonany ręcznie ze skóry wilka. Wielokrotnego użytku.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedDeerWaterPlanter</Data></Cell>
-    <Cell><Data ss:Type="String">Water Planter</Data></Cell>
-    <Cell><Data ss:Type="String">Zalej uprawę</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedDeerWithdrawFluid</Data></Cell>
-    <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Pobierz zawartość</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WeldersMask</Data></Cell>
@@ -13014,8 +13184,8 @@
     <Cell ss:Index="2"><Data ss:Type="String">WoodPile</Data></Cell>
     <Cell><Data ss:Type="String">Wood Log</Data></Cell>
     <Cell><Data ss:Type="String">Drewno</Data></Cell>
-	</Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WoodPileAddFuel</Data></Cell>
     <Cell><Data ss:Type="String">Add Fuel</Data></Cell>
     <Cell><Data ss:Type="String">Dodaj podpałkę</Data></Cell>
@@ -13174,6 +13344,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">animated_search_lightDescription</Data></Cell>
     <Cell><Data ss:Type="String">An animated search list for a base</Data></Cell>
     <Cell><Data ss:Type="String">Animowana lista wyszukiwania dla bazy.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">arcade_cabinet</Data></Cell>
+    <Cell><Data ss:Type="String">Arcade Cabinet</Data></Cell>
+    <Cell><Data ss:Type="String">Arcade Cabinet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">arcade_cabinetDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A towable arcade cabinet you can place at your base.</Data></Cell>
+    <Cell><Data ss:Type="String">A towable arcade cabinet you can place at your base.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">camping_chair</Data></Cell>
@@ -13415,12 +13595,12 @@
     <Cell><Data ss:Type="String">A barbeque grill that can be used to cook on. Can be placed in a base.</Data></Cell>
     <Cell><Data ss:Type="String">Wygląda na to, że ten grill wciąż jest sprawny. Wystarczy podpałka i coś na rusz.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeria</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Algeria</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Algerii</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeriaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with an Algerian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Masz z flagą Algerii.</Data></Cell>
@@ -13465,12 +13645,12 @@
     <Cell><Data ss:Type="String">A flagpole with a autralian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Australii.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_austria</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Austria</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Austrii</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_austriaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with an Austrian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Austrii.</Data></Cell>
@@ -13494,13 +13674,13 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_blueDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a blue flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z niebieską flagą.</Data></Cell>
-	</Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_brazil</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Brazil</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Brazylii</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_brazilDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Brazilian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Brazylii.</Data></Cell>
@@ -13544,13 +13724,13 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_donut_glowDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a glowing flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt i flaga z wielkim, świecącycm pączkiem.</Data></Cell>
-	</Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_finland</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Finland</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Finlandii</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_finlandDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Finnish flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Finlandii</Data></Cell>
@@ -13584,33 +13764,33 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_greenDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a green flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z zieloną flagą.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_holland</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Holland</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Holandii</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_hollandDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Dutch flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Holandii.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_india</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole India</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Indii</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_indiaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with an Indian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Indii.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_indonesia</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Indonesia</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Indonezji</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_indonesiaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with an Indonesian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Indonezji.</Data></Cell>
@@ -13624,13 +13804,13 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_ironsonsDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Iron Sons flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Iron Sons.</Data></Cell>
-	</Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_israel</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Israel</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Izraela</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_israelDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with an Israeli flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Izraela.</Data></Cell>
@@ -13644,13 +13824,13 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_japanDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a japanese flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Japonii.</Data></Cell>
-	</Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_mexico</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Mexico</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Meksyku</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_mexicoDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Mexican flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Meksyku.</Data></Cell>
@@ -13674,13 +13854,13 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_pirateDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a pirate flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z piracką flagą.</Data></Cell>
-	</Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_poland</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Poland</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Polski</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_polandDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Polish flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Polski.</Data></Cell>
@@ -13704,63 +13884,63 @@
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_russiaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Russian flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Rosji.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_slovenia</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Slovenia</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Słowacji</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_sloveniaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Slovene flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Słowacji.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_smiley_glow</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Smiley Glow</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Buźka</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_smiley_glowDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a glowing flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą świecącej, ośmiechnętej buźki.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_south_africa</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole South Africa</Data></Cell>
     <Cell><Data ss:Type="String">Flaga RPA</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_south_africaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a South African flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą RPA.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_spain</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Spain</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Hiszpanii</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_spainDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Spanish flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Hiszpanii.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_sweden</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Sweden</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Szwecji</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_swedenDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Swedish flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Szwecji.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_turkey</Data></Cell>
     <Cell><Data ss:Type="String">Flagpole Turkey</Data></Cell>
     <Cell><Data ss:Type="String">Flaga Turcji</Data></Cell>
-	</Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_turkeyDescription</Data></Cell>
     <Cell><Data ss:Type="String">A flagpole with a Turkish flag attached to it.</Data></Cell>
     <Cell><Data ss:Type="String">Maszt z flagą Turcji.</Data></Cell>
@@ -14815,12 +14995,12 @@
     <Cell><Data ss:Type="String">A placeable jack-o-lantern.</Data></Cell>
     <Cell><Data ss:Type="String">Lampa ze świeczką z wydrążonej dyni.</Data></Cell>
 </Row>
-   <Row ss:AutoFitHeight="0">
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">jerry</Data></Cell>
     <Cell><Data ss:Type="String">Jerry</Data></Cell>
     <Cell><Data ss:Type="String">Jerry</Data></Cell>
-  </Row>
-   <Row ss:AutoFitHeight="0">
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">jerryDescription</Data></Cell>
     <Cell><Data ss:Type="String">A fish named Jerry - can be placed in a base.</Data></Cell>
     <Cell><Data ss:Type="String">Rybka o imieniu Jerry - ozdoba każdej bazy.</Data></Cell>
@@ -15216,6 +15396,36 @@
     <Cell><Data ss:Type="String">Obite blachą drzwi drewniane - wraz z zamontowanym zamkiem.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_draw_bridge</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Drawbridge</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Drawbridge</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_draw_bridgeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A placeable plated drawbridge part.</Data></Cell>
+    <Cell><Data ss:Type="String">A placeable plated drawbridge part.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_foundation_2m_2m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">2x2x4 Plated Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">2x2x4 Plated Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_foundation_2m_2m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 4m high x 2m wide x 2m length foundation piece.</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 4m high x 2m wide x 2m length foundation piece.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_foundation_4m_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Plated Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Plated Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_foundation_4m_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 4m high x 4m wide x 4m length foundation piece.</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 4m high x 4m wide x 4m length foundation piece.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_gate_lockable_3m_4m</Data></Cell>
     <Cell><Data ss:Type="String">Plated Gatehouse Gate</Data></Cell>
     <Cell><Data ss:Type="String">Wmocniona brama</Data></Cell>
@@ -15476,6 +15686,16 @@
     <Cell><Data ss:Type="String">Obity blachą drewniany dach - szerokość 3m i długość 4m.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_roof_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 roof</Data></Cell>
+    <Cell><Data ss:Type="String">4x4 roof</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_roof_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 meters plated roof.</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 meters plated roof.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_roof_murderhole_3m_2m</Data></Cell>
     <Cell><Data ss:Type="String">3x2 Roof Murder-hole</Data></Cell>
     <Cell><Data ss:Type="String">Wzmocniony dach z otworem 3x2</Data></Cell>
@@ -15514,6 +15734,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_1_6m_0_9mDescription</Data></Cell>
     <Cell><Data ss:Type="String"> Base part</Data></Cell>
     <Cell><Data ss:Type="String">Obite blachą okiennice drewniane o wymiarach 1.6m × 0.9m.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_small_lockable</Data></Cell>
+    <Cell><Data ss:Type="String">Small lockable shutters</Data></Cell>
+    <Cell><Data ss:Type="String">Small lockable shutters</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_small_lockableDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small plated lockable shutters.</Data></Cell>
+    <Cell><Data ss:Type="String">A small plated lockable shutters.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_trapdoor_lockable_1m_2m</Data></Cell>
@@ -15816,6 +16046,16 @@
     <Cell><Data ss:Type="String">Obita blachą, półkolista ściana drewniana z otworem na okno - wysokość 3m i długość 4m.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_drawbridge_3m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall Drawbridge</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall Drawbridge</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_drawbridge_3m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A plated 3x4 meters wall, meant to be used with a draw bridge.</Data></Cell>
+    <Cell><Data ss:Type="String">A plated 3x4 meters wall, meant to be used with a draw bridge.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_wall_shutter_3m_2m</Data></Cell>
     <Cell><Data ss:Type="String">Shutter Wall 3m 2m</Data></Cell>
     <Cell><Data ss:Type="String">Wzmocniona ściana okiennicowa 3m 2m</Data></Cell>
@@ -15876,6 +16116,16 @@
     <Cell><Data ss:Type="String">Obita blachą drewniana wieża obserwacyjna o wysokości 9 metrów.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_big</Data></Cell>
+    <Cell><Data ss:Type="String">Big Watchtower</Data></Cell>
+    <Cell><Data ss:Type="String">Big Watchtower</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_bigDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A big, plated watchtower with stairs to climb it.</Data></Cell>
+    <Cell><Data ss:Type="String">A big, plated watchtower with stairs to climb it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tire</Data></Cell>
     <Cell><Data ss:Type="String">9m Plated Tire Watchtower</Data></Cell>
     <Cell><Data ss:Type="String">Wzmocniona wieża z oponami 9m</Data></Cell>
@@ -15884,6 +16134,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tireDescription</Data></Cell>
     <Cell><Data ss:Type="String">Plated 9m Watchtower with tires for extra protection.</Data></Cell>
     <Cell><Data ss:Type="String">Obita blachą i zabezpieczona oponami drewniana wieża obserwacyjna o wysokości 9 metrów.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tire_big</Data></Cell>
+    <Cell><Data ss:Type="String">Tire Big Watchtower</Data></Cell>
+    <Cell><Data ss:Type="String">Tire Big Watchtower</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tire_bigDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A big, plated watchtower with tire added to it.</Data></Cell>
+    <Cell><Data ss:Type="String">A big, plated watchtower with tire added to it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">power_pole</Data></Cell>
@@ -15913,7 +16173,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">powered_generator_small_solarDescription</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
-    <Cell><Data ss:Type="String"></Data>Niewielki, solarny generator prądu do użytku domowego.</Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">powered_work_light</Data></Cell>
@@ -15984,6 +16244,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">propane_heaterDescription</Data></Cell>
     <Cell><Data ss:Type="String">A propane heater that will help warm you up.</Data></Cell>
     <Cell><Data ss:Type="String">Grzałka gazowa na propan - wyjątkowo przydatna rzecz na chłodne noce i dni.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_2m_2m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">2x2x4 Rock Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">2x2x4 Rock Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_2m_2m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 2 by 2 by 4 meters rock foundation.</Data></Cell>
+    <Cell><Data ss:Type="String">A 2 by 2 by 4 meters rock foundation.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_4m_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Rock Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Rock Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_4m_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 by 4 meters rock foundation.</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 by 4 meters rock foundation.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">rug_bear_pelt</Data></Cell>
@@ -16306,26 +16586,6 @@
     <Cell><Data ss:Type="String">Prowizoryczne rusztowanie z patyków o wysokości 4 metrów.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">stone_furance</Data></Cell>
-    <Cell><Data ss:Type="String">Stone Furnace</Data></Cell>
-    <Cell><Data ss:Type="String">Piec</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">stone_furanceDescription</Data></Cell>
-    <Cell><Data ss:Type="String">A furnace that can be placed in a base</Data></Cell>
-    <Cell><Data ss:Type="String">Kamienny piec hutniczy do wytapiania metali.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">stone_furnace_packed</Data></Cell>
-    <Cell><Data ss:Type="String">Stone Furnace</Data></Cell>
-    <Cell><Data ss:Type="String">Piec</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">stone_furnace_packedDescription</Data></Cell>
-    <Cell><Data ss:Type="String">A furnace that can be placed in a base - requires wood to be lit</Data></Cell>
-    <Cell><Data ss:Type="String">Kamienny piec hutniczy do wytapiania metali.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stone_fireplace</Data></Cell>
     <Cell><Data ss:Type="String">Stone Fireplace</Data></Cell>
     <Cell><Data ss:Type="String">Kominek</Data></Cell>
@@ -16344,6 +16604,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">stone_fireplace_packedDescription</Data></Cell>
     <Cell><Data ss:Type="String">A fireplace that can be placed in a base</Data></Cell>
     <Cell><Data ss:Type="String">Kamienny kominek - powinien być w każdym domu.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_furance</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Piec</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_furanceDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A furnace that can be placed in a base</Data></Cell>
+    <Cell><Data ss:Type="String">Kamienny piec hutniczy do wytapiania metali.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_furnace_packed</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Furnace</Data></Cell>
+    <Cell><Data ss:Type="String">Piec</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">stone_furnace_packedDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A furnace that can be placed in a base - requires wood to be lit</Data></Cell>
+    <Cell><Data ss:Type="String">Kamienny piec hutniczy do wytapiania metali.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tiki_torch</Data></Cell>
@@ -16686,6 +16966,16 @@
     <Cell><Data ss:Type="String">Zwykłe, drewniane drzwi z zamontowanym zamkiem.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_draw_bridge</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Drawbridge</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Drawbridge</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_draw_bridgeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden Drawbridge. Meant to be used with drawbridge wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden Drawbridge. Meant to be used with drawbridge wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_floor_panel</Data></Cell>
     <Cell><Data ss:Type="String">Wood Floor Panel</Data></Cell>
     <Cell><Data ss:Type="String">Panel podłogowy</Data></Cell>
@@ -16694,6 +16984,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_floor_panelDescription</Data></Cell>
     <Cell><Data ss:Type="String">A wooden floor panel used in crafting</Data></Cell>
     <Cell><Data ss:Type="String">Drewniany panel podłogowy.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_foundation_4m_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Wood Foundation</Data></Cell>
+    <Cell><Data ss:Type="String">4x4x4 Wood Foundation</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_foundation_4m_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 by 4 wooden foundation.</Data></Cell>
+    <Cell><Data ss:Type="String">A 4 by 4 by 4 wooden foundation.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_furniture_panel</Data></Cell>
@@ -17526,6 +17826,16 @@
     <Cell><Data ss:Type="String">Półkolista ściana drewniana z otworem na drzwi - wysokość 3m i długość 4m.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_drawbridge_3m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Wall Drawbridge</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Wall Drawbridge</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_drawbridge_3m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 by 4 wooden wall meant to be used with the drawbridge.</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 by 4 wooden wall meant to be used with the drawbridge.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_panel</Data></Cell>
     <Cell><Data ss:Type="String">Wood Wall Panel</Data></Cell>
     <Cell><Data ss:Type="String">Panel ścienny</Data></Cell>
@@ -17596,6 +17906,16 @@
     <Cell><Data ss:Type="String">Drewniana wieża obserwacyjna o wysokości 9 metrów.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_big</Data></Cell>
+    <Cell><Data ss:Type="String">Big Wood Watchtower</Data></Cell>
+    <Cell><Data ss:Type="String">Big Wood Watchtower</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_bigDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A big, wooden, watchtower with stairs to climb it.</Data></Cell>
+    <Cell><Data ss:Type="String">A big, wooden, watchtower with stairs to climb it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_tire</Data></Cell>
     <Cell><Data ss:Type="String">9m Tire Watchtower</Data></Cell>
     <Cell><Data ss:Type="String">Wieża z oponami 9m</Data></Cell>
@@ -17604,6 +17924,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_tireDescription</Data></Cell>
     <Cell><Data ss:Type="String">Wood 9m Watchtower with tires for extra protection.</Data></Cell>
     <Cell><Data ss:Type="String">Zabezpieczona oponami drewniana wieża obserwacyjna o wysokości 9 metrów.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_tire_big</Data></Cell>
+    <Cell><Data ss:Type="String">Big Wood Tire Watchtower</Data></Cell>
+    <Cell><Data ss:Type="String">Big Wood Tire Watchtower</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_watchtower_tire_bigDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A Big, wooden, watchtower with tires added.</Data></Cell>
+    <Cell><Data ss:Type="String">A Big, wooden, watchtower with tires added.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_window_frame</Data></Cell>
@@ -17625,156 +17955,6 @@
     <Cell><Data ss:Type="String">A workbench used to craft various items</Data></Cell>
     <Cell><Data ss:Type="String">Stół warsztatowy służący do wyrobu wielu cennych przedmiotów.</Data></Cell>
 </Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mm</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 10x25mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa 10mm</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_10mmDescription</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru 10mm.</Data></Cell>
-</Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Beanbag</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Beanbag</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa gumowe kule 12"</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_BeanbagDescription</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę gumowych kul kalibru 12 cali.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Pellet</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Pellet</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa śrut 12"</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_PelletDescription</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków śrutowych kalibru 12 cali.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_Slug</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa loftki 12"</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_12Gauge_SlugDescription</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę loftek 12 cali.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box .22x15mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa .22</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box .223x45mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa .223</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru .223 cala.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_22Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru .22 cala.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box .308x51mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa .308</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru .308 cala.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box .357x33mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa .357</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru .357 cala.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_45x39</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 5.45x39mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa 5.45x39</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_45x39Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 5.45x39mm.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_56x45</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 5.56x45mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa 5.56x45</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_56x45Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 5.56x45mm.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_70x28</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 5.70x28mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa 5.70x28</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_5_70x28Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 5.70x28mm.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x39</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x39mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa 7.62x39</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x39Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 7.62x39mm.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x51</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 7.62x51mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa 7.62x51</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_7_62x51Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków 7.62x51mm.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_9mm</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box 9x19mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa 9mm</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_9mmDescription</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru 9mm.</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_acp_45</Data></Cell>
-    <Cell><Data ss:Type="String">Crafted Ammo Box .45x23mm</Data></Cell>
-    <Cell><Data ss:Type="String">Skrzynka nabojowa .45</Data></Cell>
-</Row>
-<Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_acp_45Description</Data></Cell>
-    <Cell><Data ss:Type="String">A steel box used to store large amounts of ammunition</Data></Cell>
-    <Cell><Data ss:Type="String">Prowizoryczna skrzynka, w której można przechowywać większą liczbę pocisków kalibru 45 cala.</Data></Cell>
-</Row>
         </Table>
         <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
             <PageSetup>
@@ -17794,7 +17974,7 @@
             <Panes>
                 <Pane>
                     <Number>3</Number>
-                    <ActiveRow>3418</ActiveRow>
+                    <ActiveRow>334</ActiveRow>
                     <ActiveCol>3</ActiveCol>
                     <RangeSelection>R335C4:R352C4</RangeSelection>
                 </Pane>
