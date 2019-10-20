@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3582" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3674" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -621,6 +621,16 @@
     <Cell><Data ss:Type="String">Ein frisches, leckeres, saftiges Stück Obst</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AppleJam</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Jam</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Jam</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AppleJamDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Some delicious apple jam</Data></Cell>
+    <Cell><Data ss:Type="String">Some delicious apple jam</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AppleRotten</Data></Cell>
     <Cell><Data ss:Type="String">Rotten Apple</Data></Cell>
     <Cell><Data ss:Type="String">Rotten Apple</Data></Cell>
@@ -634,6 +644,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">AppleRottenFertilizePlanter</Data></Cell>
     <Cell><Data ss:Type="String">Fertilize Planter</Data></Cell>
     <Cell><Data ss:Type="String">Pflanzer befruchten</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AppleVinegar</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Vinegar</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Vinegar</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AppleVinegarDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Vinegar</Data></Cell>
+    <Cell><Data ss:Type="String">Apple Vinegar</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Arrowx8</Data></Cell>
@@ -1256,6 +1276,26 @@
     <Cell><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BearSandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Bear Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Bear Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BearSandwichDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Bear Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Bear Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BearStew</Data></Cell>
+    <Cell><Data ss:Type="String">Bear Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Bear Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BearStewDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Bear Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Bear Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeardShaggy</Data></Cell>
     <Cell><Data ss:Type="String">Shaggy Beard</Data></Cell>
     <Cell><Data ss:Type="String">Hochflor Bart</Data></Cell>
@@ -1276,6 +1316,11 @@
     <Cell><Data ss:Type="String">Eine alte Dose mit vorgekochtem Rindereintopf.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Beer</Data></Cell>
+    <Cell><Data ss:Type="String">Beer</Data></Cell>
+    <Cell><Data ss:Type="String">Beer</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeerCan</Data></Cell>
     <Cell><Data ss:Type="String">Beer Can</Data></Cell>
     <Cell><Data ss:Type="String">Bierdose</Data></Cell>
@@ -1284,6 +1329,11 @@
     <Cell ss:Index="2"><Data ss:Type="String">BeerCanDescription</Data></Cell>
     <Cell><Data ss:Type="String">A nice warm beer to crack open with the boys.</Data></Cell>
     <Cell><Data ss:Type="String">Ein schönes warmes Bier, um mit den Jungs aufzubrechen.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BeerDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Homemade beer.</Data></Cell>
+    <Cell><Data ss:Type="String">Homemade beer.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Beets</Data></Cell>
@@ -1951,6 +2001,16 @@
     <Cell><Data ss:Type="String">A can containing some Biofuel - used for crafting explosives</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BlackCoffee</Data></Cell>
+    <Cell><Data ss:Type="String">Black Coffee</Data></Cell>
+    <Cell><Data ss:Type="String">Black Coffee</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BlackCoffeeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Black Coffee</Data></Cell>
+    <Cell><Data ss:Type="String">Black Coffee</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BlueJeans</Data></Cell>
     <Cell><Data ss:Type="String">Blue Jeans</Data></Cell>
     <Cell><Data ss:Type="String">Blaue Jeans</Data></Cell>
@@ -2079,6 +2139,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">Boltx5_F000Description</Data></Cell>
     <Cell><Data ss:Type="String">A bundle of fire aluminum bolts</Data></Cell>
     <Cell><Data ss:Type="String">Ein Bündel von Feueraluminiumbolzen</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Bread</Data></Cell>
+    <Cell><Data ss:Type="String">Bread</Data></Cell>
+    <Cell><Data ss:Type="String">Bread</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BreadDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Baked Bread</Data></Cell>
+    <Cell><Data ss:Type="String">Baked Bread</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BrushPeas</Data></Cell>
@@ -3091,6 +3161,16 @@
     <Cell><Data ss:Type="String">A chunk of charcoal that is useful in crafting</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Cheese</Data></Cell>
+    <Cell><Data ss:Type="String">Cheese</Data></Cell>
+    <Cell><Data ss:Type="String">Cheese</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CheeseDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Homemade Cheese</Data></Cell>
+    <Cell><Data ss:Type="String">Homemade Cheese</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChemlightBluePickup</Data></Cell>
     <Cell><Data ss:Type="String">Blue Chemlight</Data></Cell>
     <Cell><Data ss:Type="String">Blaues Chemlight</Data></Cell>
@@ -3209,6 +3289,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">ChickenRottenDescription</Data></Cell>
     <Cell><Data ss:Type="String">Rotten chicken meat. It smells really really bad....</Data></Cell>
     <Cell><Data ss:Type="String">Faules Hühnerfleisch. Es riecht wirklich sehr schlecht ....</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChickenSandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChickenSandwichDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChickenStew</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChickenStewDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChristmasHat</Data></Cell>
@@ -3951,6 +4051,16 @@
     <Cell><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Deer Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Deer StewDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DeerMeatSteakBurned</Data></Cell>
     <Cell><Data ss:Type="String">Burned Deer Meat</Data></Cell>
     <Cell><Data ss:Type="String">Gebranntes Hirschfleisch</Data></Cell>
@@ -4039,6 +4149,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">DeerPeltDescription</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">DeerSandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">DeerSandwichDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">DeerStew</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">DeerStewDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DieselGenerator</Data></Cell>
@@ -5301,6 +5431,51 @@
     <Cell><Data ss:Type="String">An old hacksaw</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagBrute</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Bag</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Bag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagBruteDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small halloween bag filled with rare surprises.</Data></Cell>
+    <Cell><Data ss:Type="String">A small halloween bag filled with rare surprises.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagMonster</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Bag</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Bag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagMonsterDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small halloween bag filled with surprises.</Data></Cell>
+    <Cell><Data ss:Type="String">A small halloween bag filled with surprises.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagOpen</Data></Cell>
+    <Cell><Data ss:Type="String">Open Goody Bag.</Data></Cell>
+    <Cell><Data ss:Type="String">Open Goody Bag.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagPumpkin</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Bag</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Bag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagPumpkinDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small halloween bag filled with surprises.</Data></Cell>
+    <Cell><Data ss:Type="String">A small halloween bag filled with surprises.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagSpider</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Bag</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Bag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HalloweenBagSpiderDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small halloween bag filled with rare surprises.</Data></Cell>
+    <Cell><Data ss:Type="String">A small halloween bag filled with rare surprises.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HamBurned</Data></Cell>
     <Cell><Data ss:Type="String">Burned Ham</Data></Cell>
     <Cell><Data ss:Type="String">Verbrannter Schinken</Data></Cell>
@@ -5379,6 +5554,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">HamRottenDescription</Data></Cell>
     <Cell><Data ss:Type="String">Rotten ham. Smells terrible.</Data></Cell>
     <Cell><Data ss:Type="String">Fauler Schinken Riecht schrecklich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HamSandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HamSandwichDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HamStew</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HamStewDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Ham Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Hammer</Data></Cell>
@@ -6221,6 +6416,16 @@
     <Cell><Data ss:Type="String">Kürbislaterne, die als gruseliger Helm getragen werden kann.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">JellySandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Jelly Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Jelly Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">JellySandwichDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Jelly Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Jelly Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">JerryCanDiesel</Data></Cell>
     <Cell><Data ss:Type="String">Jerry Can</Data></Cell>
     <Cell><Data ss:Type="String">Kanister</Data></Cell>
@@ -6991,6 +7196,16 @@
     <Cell><Data ss:Type="String">Eine alte getragene Tarnjacke.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Milk</Data></Cell>
+    <Cell><Data ss:Type="String">Milk</Data></Cell>
+    <Cell><Data ss:Type="String">Milk</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MilkDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Milk... but not quite the real stuff</Data></Cell>
+    <Cell><Data ss:Type="String">Milk... but not quite the real stuff</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MiniBottleGin</Data></Cell>
     <Cell><Data ss:Type="String">Gin Mini-bottle</Data></Cell>
     <Cell><Data ss:Type="String">Gin Mini-Flasche</Data></Cell>
@@ -7119,6 +7334,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">MushroomHealDescription</Data></Cell>
     <Cell><Data ss:Type="String">An healing mushroom that can also be used in crafting</Data></Cell>
     <Cell><Data ss:Type="String">Ein Heilpilz, der auch beim Basteln verwendet werden kann</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MushroomStew</Data></Cell>
+    <Cell><Data ss:Type="String">Mushroom Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Mushroom Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MushroomStewDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Mushroom Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Mushroom Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">NailKnuckles</Data></Cell>
@@ -7289,6 +7514,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">P350Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto handgun. Fires .357 rounds (14 round mag).</Data></Cell>
     <Cell><Data ss:Type="String">Eine halbautomatische Handfeuerwaffe. Feuert .357 Runden (14 Schuss).</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PBJSandwich</Data></Cell>
+    <Cell><Data ss:Type="String">PBJ Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">PBJ Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PBJSandwichDescription</Data></Cell>
+    <Cell><Data ss:Type="String">PBJ Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">PBJ Sandwich</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PX4</Data></Cell>
@@ -7769,6 +8004,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">PeachesCanDescription</Data></Cell>
     <Cell><Data ss:Type="String">Pre-War canned peaches from Georgia.</Data></Cell>
     <Cell><Data ss:Type="String">Pfirsiche aus der Vorkriegszeit aus Georgien.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PeanutButter</Data></Cell>
+    <Cell><Data ss:Type="String">Peanut Butter</Data></Cell>
+    <Cell><Data ss:Type="String">Peanut Butter</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PeanutButterDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Peanut Butter</Data></Cell>
+    <Cell><Data ss:Type="String">Peanut Butter</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PeanutButterSandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Peanut Butter Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Peanut Butter Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PeanutButterSandwichDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Peanut Butter Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Peanut Butter Sandwich</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PearsCan</Data></Cell>
@@ -8936,6 +9191,16 @@
     <Cell><Data ss:Type="String">Wird verwendet, um das DD-Mk18-Gewehr zu reparieren</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_Model1873</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (Model 1873)</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (Model 1873)</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_Model1873Description</Data></Cell>
+    <Cell><Data ss:Type="String">Used to repair the model 1873 rifle.</Data></Cell>
+    <Cell><Data ss:Type="String">Used to repair the model 1873 rifle.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_Model70</Data></Cell>
     <Cell><Data ss:Type="String">Repair Kit (Carlington)</Data></Cell>
     <Cell><Data ss:Type="String">Reparatursatz (Carlington)</Data></Cell>
@@ -9901,6 +10166,26 @@
     <Cell><Data ss:Type="String">Ein Schal, der um den Hals geht.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScavengerPants</Data></Cell>
+    <Cell><Data ss:Type="String">Scavenger Pants</Data></Cell>
+    <Cell><Data ss:Type="String">Scavenger Pants</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScavengerPantsDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old, worn out pair of jean.</Data></Cell>
+    <Cell><Data ss:Type="String">An old, worn out pair of jean.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScavengerShirt</Data></Cell>
+    <Cell><Data ss:Type="String">Scavenger Shirt</Data></Cell>
+    <Cell><Data ss:Type="String">Scavenger Shirt</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScavengerShirtDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A old, worn out, sleeveless vest with a shirt underneat it.</Data></Cell>
+    <Cell><Data ss:Type="String">A old, worn out, sleeveless vest with a shirt underneat it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ScrapMetal</Data></Cell>
     <Cell><Data ss:Type="String">Scrap Metal</Data></Cell>
     <Cell><Data ss:Type="String">Altmetall</Data></Cell>
@@ -9914,6 +10199,46 @@
     <Cell ss:Index="2"><Data ss:Type="String">ScrapMetalSmeltInFurnace</Data></Cell>
     <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
     <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedChicken</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Chicken</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Chicken</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedChickenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Chicken</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Chicken</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedDeerSteaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Deer Steaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Deer Steaks</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedDeerSteaksDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Deer Steaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Deer Steaks</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedHamSteaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Ham Steaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Ham Steaks</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedHamSteaksDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Ham Steaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Ham Steaks</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedWolfSteaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Wolf Steaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Wolf Steaks</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedWolfSteaksDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Wolf Steaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Wolf Steaks</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Seaweed</Data></Cell>
@@ -10109,6 +10434,36 @@
     <Cell ss:Index="2"><Data ss:Type="String">ShoulderPadOneSideLeftDescription</Data></Cell>
     <Cell><Data ss:Type="String">A brown protective shoulder pad</Data></Cell>
     <Cell><Data ss:Type="String">Eine braune schützende Schulterauflage</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SkullMask</Data></Cell>
+    <Cell><Data ss:Type="String">Skull Mask</Data></Cell>
+    <Cell><Data ss:Type="String">Skull Mask</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SkullMaskDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A mask made out of a human skull.</Data></Cell>
+    <Cell><Data ss:Type="String">A mask made out of a human skull.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SkullMaskGold</Data></Cell>
+    <Cell><Data ss:Type="String">Skull Mask Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Skull Mask Gold</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SkullMaskGoldDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A gold plated mask made out of a human skull.</Data></Cell>
+    <Cell><Data ss:Type="String">A gold plated mask made out of a human skull.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SkullMaskSilver</Data></Cell>
+    <Cell><Data ss:Type="String">Skull Mask Silver</Data></Cell>
+    <Cell><Data ss:Type="String">Skull Mask Silver</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SkullMaskSilverDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A silver plated mask made out of a human skull.</Data></Cell>
+    <Cell><Data ss:Type="String">A silver plated mask made out of a human skull.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SmallBag</Data></Cell>
@@ -10374,6 +10729,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">SoupCanDescription</Data></Cell>
     <Cell><Data ss:Type="String">An old canned chicken noodle soup.</Data></Cell>
     <Cell><Data ss:Type="String">Eine alte Hühnernudelsuppe in Dosen.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SpaceHelmet</Data></Cell>
+    <Cell><Data ss:Type="String">Space Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">Space Helmet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SpaceHelmetDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A strange looking helmet found within the debris of a crashed space ship.</Data></Cell>
+    <Cell><Data ss:Type="String">A strange looking helmet found within the debris of a crashed space ship.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SparkPlugs</Data></Cell>
@@ -11134,6 +11499,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">TranquilizerGunDescription</Data></Cell>
     <Cell><Data ss:Type="String">Weapon that fires tranquilizer darts</Data></Cell>
     <Cell><Data ss:Type="String">Waffe, die Beruhigungspfeile abfeuert</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">TranslationCard</Data></Cell>
+    <Cell><Data ss:Type="String">Strange Note</Data></Cell>
+    <Cell><Data ss:Type="String">Strange Note</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">TranslationCardDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A strange hand written note.</Data></Cell>
+    <Cell><Data ss:Type="String">A strange hand written note.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">TrapBearTrap</Data></Cell>
@@ -12906,6 +13281,26 @@
     <Cell><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">UFOCrate</Data></Cell>
+    <Cell><Data ss:Type="String">UFO Crate</Data></Cell>
+    <Cell><Data ss:Type="String">UFO Crate</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">UFOCrateDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A crate from a crashed UFO</Data></Cell>
+    <Cell><Data ss:Type="String">A crate from a crashed UFO</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">VeggieStew</Data></Cell>
+    <Cell><Data ss:Type="String">Veggie Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Veggie Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">VeggieStewDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Veggie Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Veggie Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsBlack</Data></Cell>
     <Cell><Data ss:Type="String">Black Wanderer Pants</Data></Cell>
     <Cell><Data ss:Type="String">Schwarze Wandererhose</Data></Cell>
@@ -13106,6 +13501,16 @@
     <Cell><Data ss:Type="String">Ein Gebrauchtfahrzeugrad</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WhiteCoffee</Data></Cell>
+    <Cell><Data ss:Type="String">White Coffee</Data></Cell>
+    <Cell><Data ss:Type="String">White Coffee</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WhiteCoffeeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">White Coffee</Data></Cell>
+    <Cell><Data ss:Type="String">White Coffee</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WolfMeatSteakBurned</Data></Cell>
     <Cell><Data ss:Type="String">Burned Wolf Meat</Data></Cell>
     <Cell><Data ss:Type="String">Gebranntes Wolfsfleisch</Data></Cell>
@@ -13194,6 +13599,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">WolfPeltDescription</Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
     <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WolfSandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WolfSandwichDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Sandwich</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WolfStew</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WolfStewDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WoodPaddle</Data></Cell>
@@ -14979,6 +15404,46 @@
     <Cell ss:Index="2"><Data ss:Type="String">guide_weapons_ranged_3Description</Data></Cell>
     <Cell><Data ss:Type="String">Specilalized ranged weapons guide</Data></Cell>
     <Cell><Data ss:Type="String">Specilalized ranged weapons guide</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">halloween_candle</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Candle</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Candle</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">halloween_candleDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A halloween themed candle holder with a large candle.</Data></Cell>
+    <Cell><Data ss:Type="String">A halloween themed candle holder with a large candle.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">halloween_creepy_bear</Data></Cell>
+    <Cell><Data ss:Type="String">Creepy Teddy Bear</Data></Cell>
+    <Cell><Data ss:Type="String">Creepy Teddy Bear</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">halloween_creepy_bearDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A creepy giant stuffed teddy bear.</Data></Cell>
+    <Cell><Data ss:Type="String">A creepy giant stuffed teddy bear.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">halloween_creepy_bunny</Data></Cell>
+    <Cell><Data ss:Type="String">Creepy Bunny</Data></Cell>
+    <Cell><Data ss:Type="String">Creepy Bunny</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">halloween_creepy_bunnyDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A creepy stuffed bunny toy.</Data></Cell>
+    <Cell><Data ss:Type="String">A creepy stuffed bunny toy.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">halloween_light_string</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Light String</Data></Cell>
+    <Cell><Data ss:Type="String">Halloween Light String</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">halloween_light_stringDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A set of halloween themed lights on a string.</Data></Cell>
+    <Cell><Data ss:Type="String">A set of halloween themed lights on a string.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">hesco_barrier</Data></Cell>

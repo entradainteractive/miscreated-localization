@@ -184,8 +184,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint16</Data></Cell>
-    <Cell><Data ss:Type="String">There is no shortage of wood in what is left of the world.\nStrike your Hatchet against trees to gather logs, which can then be refined into Lumber.</Data></Cell>
-    <Cell><Data ss:Type="String">There is no shortage of wood in what is left of the world.\nStrike your Hatchet against trees to gather logs, which can then be refined into Lumber.</Data></Cell>
+    <Cell><Data ss:Type="String">There is no shortage of wood in what is left of the world. Strike your Hatchet against trees to gather logs, which can then be refined into Lumber.</Data></Cell>
+    <Cell><Data ss:Type="String">There is no shortage of wood in what is left of the world. Strike your Hatchet against trees to gather logs, which can then be refined into Lumber.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint17</Data></Cell>
@@ -259,13 +259,13 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint31</Data></Cell>
-    <Cell><Data ss:Type="String">The few generators left in the world can be powered up with the right resources.\nCheck the inventory on it to see what it needs.</Data></Cell>
-    <Cell><Data ss:Type="String">The few generators left in the world can be powered up with the right resources.\nCheck the inventory on it to see what it needs.</Data></Cell>
+    <Cell><Data ss:Type="String">The few generators left in the world can be powered up with the right resources. Check the inventory on it to see what it needs.</Data></Cell>
+    <Cell><Data ss:Type="String">The few generators left in the world can be powered up with the right resources. Check the inventory on it to see what it needs.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint32</Data></Cell>
-    <Cell><Data ss:Type="String">Your survivor can carry up to 40kg. Backpacks and clothes have pockets to carry more items.\nKeep an eye on your gear's weight in the inventory screen.</Data></Cell>
-    <Cell><Data ss:Type="String">Your survivor can carry up to 40kg. Backpacks and clothes have pockets to carry more items.\Keep an eye on your gear's weight in the inventory screen.</Data></Cell>
+    <Cell><Data ss:Type="String">Your survivor can carry up to 40kg. Backpacks and clothes have pockets to carry more items. Keep an eye on your gear's weight in the inventory screen.</Data></Cell>
+    <Cell><Data ss:Type="String">Your survivor can carry up to 40kg. Backpacks and clothes have pockets to carry more items. Keep an eye on your gear's weight in the inventory screen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint33</Data></Cell>
@@ -439,8 +439,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint67</Data></Cell>
-    <Cell><Data ss:Type="String">Objects filled with explosives, propane, fuel or fire extinguishers will explode when destroyed.\nThis also applies to your inventory if your equipment is shot at.</Data></Cell>
-    <Cell><Data ss:Type="String">Objects filled with explosives, propane, fuel or fire extinguishers will explode when destroyed.\This also applies to your inventory if your equipment is shot at.</Data></Cell>
+    <Cell><Data ss:Type="String">Objects filled with explosives, propane, fuel or fire extinguishers will explode when destroyed. This also applies to your inventory if your equipment is shot at.</Data></Cell>
+    <Cell><Data ss:Type="String">Objects filled with explosives, propane, fuel or fire extinguishers will explode when destroyed. This also applies to your inventory if your equipment is shot at.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint68</Data></Cell>
@@ -474,8 +474,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint74</Data></Cell>
-    <Cell><Data ss:Type="String">If you encounter a survivor threatening you with a weapon, check to see if they even have a magazine in it.\nThey might be bluffing!</Data></Cell>
-    <Cell><Data ss:Type="String">If you encounter a survivor threatening you with a weapon, check to see if they even have a magazine in it.\They might be bluffing!</Data></Cell>
+    <Cell><Data ss:Type="String">If you encounter a survivor threatening you with a weapon, check to see if they even have a magazine in it. They might be bluffing!</Data></Cell>
+    <Cell><Data ss:Type="String">If you encounter a survivor threatening you with a weapon, check to see if they even have a magazine in it. They might be bluffing!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint75</Data></Cell>
@@ -589,8 +589,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint97</Data></Cell>
-    <Cell><Data ss:Type="String">You can craft arrows and bolts with various effects (e.g. Fire or Poison).\nMost of these effects can only be used once per projectile.</Data></Cell>
-    <Cell><Data ss:Type="String">You can craft arrows and bolts with various effects (e.g. Fire or Poison).\Most of these effects can only be used once per projectile.</Data></Cell>
+    <Cell><Data ss:Type="String">You can craft arrows and bolts with various effects (e.g. Fire or Poison). Most of these effects can only be used once per projectile.</Data></Cell>
+    <Cell><Data ss:Type="String">You can craft arrows and bolts with various effects (e.g. Fire or Poison). Most of these effects can only be used once per projectile.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint98</Data></Cell>
@@ -939,8 +939,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint167</Data></Cell>
-    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Suviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
-    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Suviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
+    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Surviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
+    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Surviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint168</Data></Cell>
@@ -1112,11 +1112,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>141</TopRowVisible>
+   <TopRowVisible>139</TopRowVisible>
+   <LeftColumnVisible>2</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>172</ActiveRow>
+     <ActiveRow>168</ActiveRow>
      <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
