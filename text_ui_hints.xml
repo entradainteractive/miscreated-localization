@@ -939,8 +939,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint167</Data></Cell>
-    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Surviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
-    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Surviotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
+    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Survivotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
+    <Cell><Data ss:Type="String">An alternative to inspecting consumables is the inventory tooltip which will show more details.\n(Only with Survivotron's geiger counter turned on is the radiation in them detectable)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint168</Data></Cell>
