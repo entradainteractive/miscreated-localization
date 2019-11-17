@@ -7,7 +7,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Author>Shin</Author>
-  <LastAuthor>Shin</LastAuthor>
+  <LastAuthor>H4Z4-rd</LastAuthor>
   <Created>2016-03-05T00:40:56Z</Created>
   <LastSaved>2016-03-05T01:24:56Z</LastSaved>
   <Version>16.00</Version>
@@ -16,8 +16,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>15000</WindowHeight>
-  <WindowWidth>24390</WindowWidth>
+  <WindowHeight>7545</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
@@ -90,6 +90,7 @@
   </Style>
   <Style ss:ID="s69" ss:Parent="s62">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Interior/>
   </Style>
   <Style ss:ID="s70">
    <Borders>
@@ -118,8 +119,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="48">
     <Cell ss:Index="2" ss:StyleID="s67"/>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">This contains original text meant for subtitles. This text exists for a multi-lingual reference and is not used in-game. Use ## for a new line.</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
+    <Cell><Data ss:Type="String">This contains original text meant for subtitles. This text exists for a multi-lingual reference and is not used in-game. Use ## for a new line.</Data></Cell>
+    <Cell><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_Yes</Data></Cell>
@@ -184,7 +185,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_synchronizingWorld</Data></Cell>
     <Cell><Data ss:Type="String">Synchronizing world state...</Data></Cell>
-    <Cell><Data ss:Type="String">Synchronizacja świata...</Data></Cell>
+    <Cell><Data ss:Type="String">Synchronizacja...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ShowJoinSession</Data></Cell>
@@ -731,12 +732,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>3</TopRowVisible>
+   <TopRowVisible>12</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>26</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>32</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
