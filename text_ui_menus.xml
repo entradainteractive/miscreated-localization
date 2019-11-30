@@ -1,0 +1,771 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Shin</Author>
+  <LastAuthor>Windows 用户</LastAuthor>
+  <Created>2016-03-05T00:40:56Z</Created>
+  <LastSaved>2016-03-05T01:24:56Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFC000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69" ss:Parent="s62">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s71">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#8DB4E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s73">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="122" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s64"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48">
+    <Cell ss:Index="2" ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">This contains original text meant for subtitles. This text exists for a multi-lingual reference and is not used in-game. Use ## for a new line.</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Yes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_No</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_diag_yes</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_diag_no</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_diag_ok</Data></Cell>
+    <Cell><Data ss:Type="String">Ok</Data></Cell>
+    <Cell><Data ss:Type="String">Ok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Notification</Data></Cell>
+    <Cell><Data ss:Type="String">Notification</Data></Cell>
+    <Cell><Data ss:Type="String">通知</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ApplyChanges</Data></Cell>
+    <Cell><Data ss:Type="String">Apply changes?</Data></Cell>
+    <Cell><Data ss:Type="String">应用更改？</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_RevertChanges</Data></Cell>
+    <Cell><Data ss:Type="String">Revert changes?</Data></Cell>
+    <Cell><Data ss:Type="String">还原更改？</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ExitGame</Data></Cell>
+    <Cell><Data ss:Type="String">Do you want to exit the game?</Data></Cell>
+    <Cell><Data ss:Type="String">你想退出游戏吗？</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ExitToMainQ</Data></Cell>
+    <Cell><Data ss:Type="String">Do you want to exit to main menu?</Data></Cell>
+    <Cell><Data ss:Type="String">要退出主菜单吗？</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_PerformSuicideQ</Data></Cell>
+    <Cell><Data ss:Type="String">Commit suicide? All progress will be lost.</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">自杀？ 所有物品都将失去。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_loadingWorld</Data></Cell>
+    <Cell><Data ss:Type="String">Loading world...</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">载入世界（本汉化免费）</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_synchronizingWorld</Data></Cell>
+    <Cell><Data ss:Type="String">同步世界状态...</Data></Cell>
+    <Cell ss:StyleID="s70"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">同步世界状态.....</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ShowJoinSession</Data></Cell>
+    <Cell><Data ss:Type="String">Joining server...</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">加入服务器(汉化：斗鱼2235427 OPIC)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_connecting</Data></Cell>
+    <Cell><Data ss:Type="String">Connecting...</Data></Cell>
+    <Cell><Data ss:Type="String">连接...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_LobbyError</Data></Cell>
+    <Cell><Data ss:Type="String">Lobby Error</Data></Cell>
+    <Cell><Data ss:Type="String">大厅错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ok</Data></Cell>
+    <Cell><Data ss:Type="String">OK</Data></Cell>
+    <Cell><Data ss:Type="String">OK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">cancel</Data></Cell>
+    <Cell><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell><Data ss:Type="String">取消</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">store_skin_title</Data></Cell>
+    <Cell><Data ss:Type="String">Store Skinned Item</Data></Cell>
+    <Cell><Data ss:Type="String">存储皮肤物品</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">store_skin_message</Data></Cell>
+    <Cell><Data ss:Type="String">This is a skinned item. Storing it will remove the applied skin.</Data></Cell>
+    <Cell ss:StyleID="s70"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">这是一个擦除皮肤的项目。</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Color="#000000"> </Font><Font
+       html:Color="#000000">存储它将删除应用的皮肤</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ModdedServer</Data></Cell>
+    <Cell><Data ss:Type="String">Modded Server</Data></Cell>
+    <Cell><Data ss:Type="String">MOD服务器</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Islands</Data></Cell>
+    <Cell><Data ss:Type="String">Islands</Data></Cell>
+    <Cell><Data ss:Type="String">岛屿</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_BattleRoyale</Data></Cell>
+    <Cell><Data ss:Type="String">Battle Royale</Data></Cell>
+    <Cell><Data ss:Type="String">大逃杀</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_ModdedMessage</Data></Cell>
+    <Cell><Data ss:Type="String">This server requires the installation of mods to join. When leaving the server the game will need to be restarted.\nContinue and join the server?</Data></Cell>
+    <Cell ss:StyleID="s70"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">此服务器需要安装</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Color="#000000">mod</Font><Font
+       html:Color="#000000">才能加入。</Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Color="#000000"> </Font><Font html:Color="#000000">离开服务器时，需要重新启动游戏。继续加入服务器？</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:Index="28" ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s71"><Data ss:Type="String">CRYSIS 3 CRYLOBBY ERROR TRANSLATIONS</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_0</Data></Cell>
+    <Cell><Data ss:Type="String">Success!</Data></Cell>
+    <Cell><Data ss:Type="String">成功！</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_1</Data></Cell>
+    <Cell><Data ss:Type="String">Success! Continuing...</Data></Cell>
+    <Cell><Data ss:Type="String">成功！ 继续...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_2</Data></Cell>
+    <Cell><Data ss:Type="String">Service not supported</Data></Cell>
+    <Cell><Data ss:Type="String">服务不受支持</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_3</Data></Cell>
+    <Cell><Data ss:Type="String">Already initialized</Data></Cell>
+    <Cell><Data ss:Type="String">已经初始化了</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_4</Data></Cell>
+    <Cell><Data ss:Type="String">Not initialized</Data></Cell>
+    <Cell><Data ss:Type="String">没有初始化</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_5</Data></Cell>
+    <Cell><Data ss:Type="String">Too many tasks</Data></Cell>
+    <Cell><Data ss:Type="String">任务太多了</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_6</Data></Cell>
+    <Cell><Data ss:Type="String">Out of memory</Data></Cell>
+    <Cell><Data ss:Type="String">内存不足</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_7</Data></Cell>
+    <Cell><Data ss:Type="String">Out of session user data</Data></Cell>
+    <Cell><Data ss:Type="String">会话外用户数据</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_8</Data></Cell>
+    <Cell><Data ss:Type="String">User data not registered</Data></Cell>
+    <Cell><Data ss:Type="String">用户数据未注册</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_9</Data></Cell>
+    <Cell><Data ss:Type="String">User data type mismatch</Data></Cell>
+    <Cell><Data ss:Type="String">用户数据类型不匹配</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_10</Data></Cell>
+    <Cell><Data ss:Type="String">Too many sessions</Data></Cell>
+    <Cell><Data ss:Type="String">会话太多了</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_11</Data></Cell>
+    <Cell><Data ss:Type="String">Session has ended</Data></Cell>
+    <Cell><Data ss:Type="String">会议结束了</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_12</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid request</Data></Cell>
+    <Cell><Data ss:Type="String">非法请求</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_13</Data></Cell>
+    <Cell><Data ss:Type="String">SPA file out-of-date</Data></Cell>
+    <Cell><Data ss:Type="String">SPA文件已过期</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_14</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Server connection lost or can't be made</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">服务器连接丢失或无法进行</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_15</Data></Cell>
+    <Cell><Data ss:Type="String">The server is full</Data></Cell>
+    <Cell><Data ss:Type="String">服务器已满</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_16</Data></Cell>
+    <Cell><Data ss:Type="String">Session is in the wrong state</Data></Cell>
+    <Cell><Data ss:Type="String">会话处于错误状态</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_17</Data></Cell>
+    <Cell><Data ss:Type="String">User not signed in</Data></Cell>
+    <Cell><Data ss:Type="String">用户未登录</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_18</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid parameter</Data></Cell>
+    <Cell><Data ss:Type="String">无效的参数</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_19</Data></Cell>
+    <Cell><Data ss:Type="String">Timeout</Data></Cell>
+    <Cell><Data ss:Type="String">超时</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_20</Data></Cell>
+    <Cell><Data ss:Type="String">Insufficient privileges</Data></Cell>
+    <Cell><Data ss:Type="String">权限不足</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_21</Data></Cell>
+    <Cell><Data ss:Type="String">Already in session</Data></Cell>
+    <Cell><Data ss:Type="String">已经在会议中</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_22</Data></Cell>
+    <Cell><Data ss:Type="String">Leaderboard not registered</Data></Cell>
+    <Cell><Data ss:Type="String">排行榜未注册</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_23</Data></Cell>
+    <Cell><Data ss:Type="String">This game session no longer exists</Data></Cell>
+    <Cell><Data ss:Type="String">此游戏会话不再存在</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_24</Data></Cell>
+    <Cell><Data ss:Type="String">Out of user data</Data></Cell>
+    <Cell><Data ss:Type="String">超出用户数据</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_25</Data></Cell>
+    <Cell><Data ss:Type="String">No user data registered</Data></Cell>
+    <Cell><Data ss:Type="String">没有注册用户数据</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_26</Data></Cell>
+    <Cell><Data ss:Type="String">Read data not written</Data></Cell>
+    <Cell><Data ss:Type="String">读取未写入的数据</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_27</Data></Cell>
+    <Cell><Data ss:Type="String">User data mismatch</Data></Cell>
+    <Cell><Data ss:Type="String">用户数据不匹配</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_28</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid user</Data></Cell>
+    <Cell><Data ss:Type="String">无效的用户</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_29</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network context error</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏上下文错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_30</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network wrong support state</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏错误的支持状态</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_31</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network signaling error</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏信号错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_32</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network no rooms</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏网络无房间</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_33</Data></Cell>
+    <Cell><Data ss:Type="String">World not defined</Data></Cell>
+    <Cell><Data ss:Type="String">世界没有定义</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_34</Data></Cell>
+    <Cell><Data ss:Type="String">System is busy</Data></Cell>
+    <Cell><Data ss:Type="String">系统很忙</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_35</Data></Cell>
+    <Cell><Data ss:Type="String">Too many parameters</Data></Cell>
+    <Cell><Data ss:Type="String">参数太多</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_36</Data></Cell>
+    <Cell><Data ss:Type="String">Not enough parameters</Data></Cell>
+    <Cell><Data ss:Type="String">参数不够</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_37</Data></Cell>
+    <Cell><Data ss:Type="String">Duplicate parameters</Data></Cell>
+    <Cell><Data ss:Type="String">参数重复</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_38</Data></Cell>
+    <Cell><Data ss:Type="String">Exceeded read-write limits</Data></Cell>
+    <Cell><Data ss:Type="String">超过读写限制</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_39</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid title id</Data></Cell>
+    <Cell><Data ss:Type="String">标题ID无效</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_40</Data></Cell>
+    <Cell><Data ss:Type="String">Illegal session join</Data></Cell>
+    <Cell><Data ss:Type="String">非法会话加入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_41</Data></Cell>
+    <Cell><Data ss:Type="String">Not joined</Data></Cell>
+    <Cell><Data ss:Type="String">没有加入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_42</Data></Cell>
+    <Cell><Data ss:Type="String">Join in progress</Data></Cell>
+    <Cell><Data ss:Type="String">加入进来</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_43</Data></Cell>
+    <Cell><Data ss:Type="String">Already joined</Data></Cell>
+    <Cell><Data ss:Type="String">已加入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_44</Data></Cell>
+    <Cell><Data ss:Type="String">Internet connection is disabled</Data></Cell>
+    <Cell><Data ss:Type="String">Internet连接已禁用</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_45</Data></Cell>
+    <Cell><Data ss:Type="String">Not using an online enabled account</Data></Cell>
+    <Cell><Data ss:Type="String">未使用在线帐户</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_46</Data></Cell>
+    <Cell><Data ss:Type="String">Not connected</Data></Cell>
+    <Cell><Data ss:Type="String">未连接</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_47</Data></Cell>
+    <Cell><Data ss:Type="String">Object not connected</Data></Cell>
+    <Cell><Data ss:Type="String">对象未连接</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_48</Data></Cell>
+    <Cell><Data ss:Type="String">Cycling for invite</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">网络邀请</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_49</Data></Cell>
+    <Cell><Data ss:Type="String">Unhandled nickname error</Data></Cell>
+    <Cell><Data ss:Type="String">未处理的昵称错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_50</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid login credentials</Data></Cell>
+    <Cell><Data ss:Type="String">无效的登录凭证</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_51</Data></Cell>
+    <Cell><Data ss:Type="String">Server unreachable</Data></Cell>
+    <Cell><Data ss:Type="String">服务器无法访问</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_52</Data></Cell>
+    <Cell><Data ss:Type="String">GP parameter error</Data></Cell>
+    <Cell><Data ss:Type="String">GP参数错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_53</Data></Cell>
+    <Cell><Data ss:Type="String">GP network error</Data></Cell>
+    <Cell><Data ss:Type="String">GP网络错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_54</Data></Cell>
+    <Cell><Data ss:Type="String">Cable not connected</Data></Cell>
+    <Cell><Data ss:Type="String">电缆未连接</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_55</Data></Cell>
+    <Cell><Data ss:Type="String">Session not migratable</Data></Cell>
+    <Cell><Data ss:Type="String">会话不可迁移</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_56</Data></Cell>
+    <Cell><Data ss:Type="String">Success! Invalid Session</Data></Cell>
+    <Cell><Data ss:Type="String">成功！ 无效会话</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_57</Data></Cell>
+    <Cell><Data ss:Type="String">Session is no longer available</Data></Cell>
+    <Cell><Data ss:Type="String">会话不可用</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_58</Data></Cell>
+    <Cell><Data ss:Type="String">PlayStation®Network is currently unavailable</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">游戏网络目前无法使用</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_59</Data></Cell>
+    <Cell><Data ss:Type="String">Too many orders</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">订单太多</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_60</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid order</Data></Cell>
+    <Cell><Data ss:Type="String">订单无效</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_61</Data></Cell>
+    <Cell><Data ss:Type="String">Order in use</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">使用中的订单</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_62</Data></Cell>
+    <Cell><Data ss:Type="String">Online account blocked</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">已阻止联机帐户</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_63</Data></Cell>
+    <Cell><Data ss:Type="String">Online service is disabled on your Sony Entertainment Network account due to parental control restrictions</Data></Cell>
+    <Cell ss:StyleID="s70"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">由于家长控制限制，您的</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Color="#000000">Sony</Font><Font
+       html:Color="#000000">娱乐网络帐户上的联机服务被禁用。</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_64</Data></Cell>
+    <Cell><Data ss:Type="String">Online user data is corrupt</Data></Cell>
+    <Cell><Data ss:Type="String">在线用户数据已损坏</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_65</Data></Cell>
+    <Cell><Data ss:Type="String">Password incorrect</Data></Cell>
+    <Cell><Data ss:Type="String">密码错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_66</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid invite data</Data></Cell>
+    <Cell><Data ss:Type="String">邀请数据无效</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_67</Data></Cell>
+    <Cell><Data ss:Type="String">Invalid join data</Data></Cell>
+    <Cell><Data ss:Type="String">联接数据无效</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_79</Data></Cell>
+    <Cell><Data ss:Type="String">Internal Error</Data></Cell>
+    <Cell><Data ss:Type="String">内部错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_0</Data></Cell>
+    <Cell><Data ss:Type="String">Connection to the host has timed out</Data></Cell>
+    <Cell><Data ss:Type="String">与主机的连接已超时</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_1</Data></Cell>
+    <Cell><Data ss:Type="String">Protocol error</Data></Cell>
+    <Cell><Data ss:Type="String">协议错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_2</Data></Cell>
+    <Cell><Data ss:Type="String">Resolve failed</Data></Cell>
+    <Cell><Data ss:Type="String">解决失败</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_3</Data></Cell>
+    <Cell><Data ss:Type="String">Version mismatch</Data></Cell>
+    <Cell><Data ss:Type="String">版本不匹配</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_4</Data></Cell>
+    <Cell><Data ss:Type="String">Server full</Data></Cell>
+    <Cell><Data ss:Type="String">服务器满了</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_5</Data></Cell>
+    <Cell><Data ss:Type="String">Kicked</Data></Cell>
+    <Cell><Data ss:Type="String">踢</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_6</Data></Cell>
+    <Cell><Data ss:Type="String">Banned</Data></Cell>
+    <Cell><Data ss:Type="String">取缔</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_7</Data></Cell>
+    <Cell><Data ss:Type="String">Context corruption</Data></Cell>
+    <Cell><Data ss:Type="String">上下文腐败</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_8</Data></Cell>
+    <Cell><Data ss:Type="String">Authentication failed</Data></Cell>
+    <Cell><Data ss:Type="String">验证失败</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_9</Data></Cell>
+    <Cell><Data ss:Type="String">Game error</Data></Cell>
+    <Cell><Data ss:Type="String">游戏错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_10</Data></Cell>
+    <Cell><Data ss:Type="String">Not DX11 capable</Data></Cell>
+    <Cell><Data ss:Type="String">不支持DX11</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_11</Data></Cell>
+    <Cell><Data ss:Type="String">Nub destroyed</Data></Cell>
+    <Cell><Data ss:Type="String">Nub被摧毁了</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_12</Data></Cell>
+    <Cell><Data ss:Type="String">Connection to the host has been lost</Data></Cell>
+    <Cell><Data ss:Type="String">与主机的连接已丢失</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_13</Data></Cell>
+    <Cell><Data ss:Type="String">Nat neg error</Data></Cell>
+    <Cell><Data ss:Type="String">Nat neg错误</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_14</Data></Cell>
+    <Cell><Data ss:Type="String">Punk detected</Data></Cell>
+    <Cell><Data ss:Type="String">检测到朋克</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_15</Data></Cell>
+    <Cell><Data ss:Type="String">Demo playback finished</Data></Cell>
+    <Cell><Data ss:Type="String">演示播放完成</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_16</Data></Cell>
+    <Cell><Data ss:Type="String">Demo playback file not found</Data></Cell>
+    <Cell><Data ss:Type="String">未找到演示播放文件</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_17</Data></Cell>
+    <Cell><Data ss:Type="String">User requested</Data></Cell>
+    <Cell><Data ss:Type="String">用户要求</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_19</Data></Cell>
+    <Cell><Data ss:Type="String">Can't connect</Data></Cell>
+    <Cell><Data ss:Type="String">无法连接</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_20</Data></Cell>
+    <Cell><Data ss:Type="String">Arbitration failed</Data></Cell>
+    <Cell><Data ss:Type="String">仲裁失败了</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_21</Data></Cell>
+    <Cell><Data ss:Type="String">Failed to migrate to new host</Data></Cell>
+    <Cell><Data ss:Type="String">无法迁移到新主机</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_22</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell><Data ss:Type="String">未知</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">whitelistOnlyDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Only display non-whitelisted servers that anyone can join. Whitelisted servers would require permission from the server administrator to join.</Data></Cell>
+    <Cell><Data ss:Type="String">仅显示任何人都可以加入的非白名单服务器。 列入白名单的服务器需要服务器管理员的许可才能加入.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">daytimeOnlyDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Only display servers where it is currently daytime in the game</Data></Cell>
+    <Cell><Data ss:Type="String">仅显示游戏当前白天的服务器</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">hostedOnlyDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Only display servers that are centrally hosted. Non-central servers have some features disabled and admins have cheat capabilities.</Data></Cell>
+    <Cell><Data ss:Type="String">仅显示集中托管的服务器。 非中央服务器禁用了某些功能，管理员具有作弊功能。</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
