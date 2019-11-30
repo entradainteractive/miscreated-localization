@@ -16,8 +16,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12435</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>12330</WindowHeight>
+  <WindowWidth>28725</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <RefModeR1C1/>
@@ -45,7 +45,7 @@
    <Interior/>
    <NumberFormat ss:Format="@"/>
   </Style>
-  <Style ss:ID="s87">
+  <Style ss:ID="s64">
    <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -57,7 +57,7 @@
    <Interior ss:Color="#FFC000" ss:Pattern="Solid"/>
    <NumberFormat ss:Format="@"/>
   </Style>
-  <Style ss:ID="s88">
+  <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -69,7 +69,7 @@
    <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
    <NumberFormat ss:Format="@"/>
   </Style>
-  <Style ss:ID="s89">
+  <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -81,7 +81,7 @@
    <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
    <NumberFormat ss:Format="@"/>
   </Style>
-  <Style ss:ID="s90">
+  <Style ss:ID="s67">
    <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -93,7 +93,7 @@
    <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
    <NumberFormat ss:Format="@"/>
   </Style>
-  <Style ss:ID="s92">
+  <Style ss:ID="s68">
    <Alignment ss:Vertical="Bottom"/>
    <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
    <Protection/>
@@ -106,14 +106,14 @@
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="14.25"/>
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
    <Row ss:AutoFitHeight="0" ss:Height="30">
-    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell ss:Index="2" ss:StyleID="s64"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="48">
-    <Cell ss:Index="2" ss:StyleID="s90"/>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">This contains original text meant for subtitles. This text exists for a multi-lingual reference and is not used in-game. Use ## for a new line.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
+    <Cell ss:Index="2" ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">This contains original text meant for subtitles. This text exists for a multi-lingual reference and is not used in-game. Use ## for a new line.</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Contains translated text for subtitles. Typically, Original Text is the English version of the Key for reference, while the Translated Text will be what's actually used in-game.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint1</Data></Cell>
@@ -128,7 +128,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint3</Data></Cell>
     <Cell><Data ss:Type="String">It was the Final War because after that there was really nobody left who wanted to fight; we were all too busy surviving.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">这是最后的战争，因为在那之后真的没有人想要战斗;我们都忙于活着。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">这是最后的战争，因为在那之后真的没有人想要战斗;我们都忙于活着。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint4</Data></Cell>
@@ -138,7 +138,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint5</Data></Cell>
     <Cell><Data ss:Type="String">Hell, in the end, the Amalgamated Corporation made just about everything. AC Sportsdrinks, AC Icecream, AC Battlegear, even AC Happytabs. I miss those. AC even gave us our wonderful mutant problem.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">见鬼，最终，合并后的公司几乎什么都做了。AC运动饮料，AC冰淇淋，AC战斗装备，甚至玩物。我怀念那些。AC甚至给了我们奇妙的变异问题</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">见鬼，最终，合并后的公司几乎什么都做了。AC运动饮料，AC冰淇淋，AC战斗装备，甚至玩物。我怀念那些。AC甚至给了我们奇妙的变异问题</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint6</Data></Cell>
@@ -153,7 +153,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint8</Data></Cell>
     <Cell><Data ss:Type="String">So that's it, we're done, civilization is taking a breather. In 2089, anyone left alive and unmutated is just focused on staying that way.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">就这样，我们做完了，文明正在休息。在2089年，任何活着且未发生突变的生物都只专注于保持这种状态。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">就这样，我们做完了，文明正在休息。在2089年，任何活着且未发生突变的生物都只专注于保持这种状态。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint9</Data></Cell>
@@ -163,8 +163,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint10</Data></Cell>
     <Cell><Data ss:Type="String">The Earth abides, all this too shall pass away, and if Darwin blesses you then your kids will inherit what's left. For now, it's one day at a time.</Data></Cell>
-    <Cell><Data ss:Type="String">地球是永恒的，所有这一切都会过去，如果达尔文祝福你，那么你的孩子将会继承剩下的。就目前而言，这是一次过一天。
-</Data></Cell>
+    <Cell><Data ss:Type="String">地球是永恒的，所有这一切都会过去，如果达尔文祝福你，那么你的孩子将会继承剩下的。就目前而言，这是一次过一天。 </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint11</Data></Cell>
@@ -224,12 +223,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint22</Data></Cell>
     <Cell><Data ss:Type="String">When placing a base part, hold down %[player:allow_rotate] and move the mouse to rotate the object.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">放置基地部件时，按住 %[player:allow_rotate] 并移动鼠标以旋转对象。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">放置基地部件时，按住 %[player:allow_rotate] 并移动鼠标以旋转对象。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint23</Data></Cell>
     <Cell><Data ss:Type="String">When placing a base part, you can constrain the item to your elevation by holding Left Shift.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">放置基地零件时，可以通过按住“左侧shift键”将项目调整到你的水平高度。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">放置基地零件时，可以通过按住“左侧shift键”将项目调整到你的水平高度。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint24</Data></Cell>
@@ -274,7 +273,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint32</Data></Cell>
     <Cell><Data ss:Type="String">Your survivor can carry up to 40kg. Backpacks and clothes have pockets to carry more items.\nKeep an eye on your gear's weight in the inventory screen.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">你的幸存者最多可携带40公斤。背包和衣服有口袋可以携带更多物品。请在背包屏幕上注意您的装备重量。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">你的幸存者最多可携带40公斤。背包和衣服有口袋可以携带更多物品。请在背包屏幕上注意您的装备重量。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint33</Data></Cell>
@@ -284,7 +283,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint34</Data></Cell>
     <Cell><Data ss:Type="String">Vehicles are great for storing heavy stuff, but don't let someone else drive off with it!</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">车辆很适合存放重物，但不要让别人把它开走!</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">车辆很适合存放重物，但不要让别人把它开走!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint35</Data></Cell>
@@ -299,7 +298,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint37</Data></Cell>
     <Cell><Data ss:Type="String">Weapon feels inaccurate? Press and hold %[player:stabilize] to hold your breath and reduce sway.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">瞄准感觉不准确？按住 %[player:stabilize] 以屏住呼吸并减少摇摆。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">瞄准感觉不准确？按住 %[player:stabilize] 以屏住呼吸并减少摇摆。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint38</Data></Cell>
@@ -319,7 +318,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint41</Data></Cell>
     <Cell><Data ss:Type="String">Shooting from the hip is significantly less accurate than using your iron sights.</Data></Cell>
-    <Cell><Data ss:Type="String">蹲下射击比使用机喵要精确得多。[翻译修正:CrazyKK] </Data></Cell>
+    <Cell><Data ss:Type="String">蹲下射击比使用机喵要精确得多。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint42</Data></Cell>
@@ -339,7 +338,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint45</Data></Cell>
     <Cell><Data ss:Type="String">Proning with %[player:prone] lowers your profile a lot making you a harder target to hit, and also increasing your accuracy.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">使用 %[player:prone] 进行翻译会降低您的准确性，使您更难以击中目标，并提高您的准确率。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">使用 %[player:prone] 进行翻译会降低您的准确性，使您更难以击中目标，并提高您的准确率。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint46</Data></Cell>
@@ -354,7 +353,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint48</Data></Cell>
     <Cell><Data ss:Type="String">A 'shoot first, ask questions later' policy might not always be the best option. Use your voice %[default:voice_chat_talk] to talk and group up with other survivors.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">先开枪，后提问”的政策可能并不总是最好的选择使用您的语音 %[default:voice_chat_talk] 与其他幸存者进行交谈和分组。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">先开枪，后提问”的政策可能并不总是最好的选择使用您的语音 %[default:voice_chat_talk] 与其他幸存者进行交谈和分组。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint49</Data></Cell>
@@ -379,7 +378,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint53</Data></Cell>
     <Cell><Data ss:Type="String">A full list of available actions can be found in the Controls menu. You can also rebind actions from this menu.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">可以在“键位”菜单中找到可用操作的完整列表。您还可以从此菜单重新绑定操作。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">可以在“键位”菜单中找到可用操作的完整列表。您还可以从此菜单重新绑定操作。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint54</Data></Cell>
@@ -414,7 +413,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint60</Data></Cell>
     <Cell><Data ss:Type="String">The 5-ton truck can carry up to 10 people, but if you need to transport the entire clan across town in style, load up to 29 survivors in the party bus!</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">这辆5吨重的卡车最多可搭载10人，但如果您需要将一个队伍运送到整个城镇，那么在公交车上装载多达29名幸存者！</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">这辆5吨重的卡车最多可搭载10人，但如果您需要将一个队伍运送到整个城镇，那么在公交车上装载多达29名幸存者！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint61</Data></Cell>
@@ -524,7 +523,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint82</Data></Cell>
     <Cell><Data ss:Type="String">Besides voice communication, there are 3 different text chat modes (all with different ranges): whisper, local, and area.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">除语音通信外，还有3种不同的文本聊天模式（均具有不同的范围）：私密，本地和区域。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">除语音通信外，还有3种不同的文本聊天模式（均具有不同的范围）：私密，本地和区域。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint83</Data></Cell>
@@ -554,7 +553,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint88</Data></Cell>
     <Cell><Data ss:Type="String">Quickly go to ironsight when your weapon isn't raised yet by using a single tap to %[player:attack1] followed by %[player:zoom].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">当你还没有拿起武器时，单机左键快速进入瞄准镜。 %[player:attack1] ]然后 %[player:zoom] 快速进入ironsight。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">当你还没有拿起武器时，单机左键快速进入瞄准镜。 %[player:attack1] ]然后 %[player:zoom] 快速进入ironsight。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint89</Data></Cell>
@@ -584,7 +583,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint94</Data></Cell>
     <Cell><Data ss:Type="String">Warn survivors to be silent by using %[default:emote_shhh].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">使用 %[default:emote_shhh] 警告幸存者保持安静。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">使用 %[default:emote_shhh] 警告幸存者保持安静。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint95</Data></Cell>
@@ -609,12 +608,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint99</Data></Cell>
     <Cell><Data ss:Type="String">You can reload by using %[player:reload] if you have ammo in your pockets (not your backpack).\nOr by dragging the ammo into your weapon through the inventory %[default:ui_show_inventory].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">如果你的口袋里有弹药（不是你的背包），你可以使用％[player：reload]重新加载。或者通过背包 %[default:ui_show_inventory] 将弹药拖入你的武器。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">如果你的口袋里有弹药（不是你的背包），你可以使用％[player：reload]重新加载。或者通过背包 %[default:ui_show_inventory] 将弹药拖入你的武器。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint100</Data></Cell>
     <Cell><Data ss:Type="String">You can look into an object's inventory by using %[default:ui_show_inventory] while looking at it.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">您可以在查看对象的背包时使用 %[default:ui_show_inventory] 查看对象的背包。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">您可以在查看对象的背包时使用 %[default:ui_show_inventory] 查看对象的背包。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint101</Data></Cell>
@@ -624,12 +623,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint102</Data></Cell>
     <Cell><Data ss:Type="String">When you have been captured you can try to break free by alternating between %[player:leanleft] and %[player:leanright] for about 5 minutes. Or by getting a friendly survivor to free you.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">当你被抓到的时候，你可以试着在 %[player:leanleft] 和 %[player:leanright] 之间交替约5分钟来挣脱。或者通过让友好的幸存者释放你。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">当你被抓到的时候，你可以试着在 %[player:leanleft] 和 %[player:leanright] 之间交替约5分钟来挣脱。或者通过让友好的幸存者释放你。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint103</Data></Cell>
     <Cell><Data ss:Type="String">When your inventory is full you can still directly consume items in the world by using %[player:mwheel_down].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">当您的背包已满时，您仍然可以使用 %[player:mwheel_down] 直接使用世界中的商品。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">当您的背包已满时，您仍然可以使用 %[player:mwheel_down] 直接使用世界中的商品。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint104</Data></Cell>
@@ -659,12 +658,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint109</Data></Cell>
     <Cell><Data ss:Type="String">Toot the vehicle's horn with %[vehicle_driver:v_horn].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">用 %[vehicle_driver:v_horn] 车的喇叭。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">用 %[vehicle_driver:v_horn] 车的喇叭。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint110</Data></Cell>
     <Cell><Data ss:Type="String">Start a fully equipped vehicle with %[vehicle_driver:v_start]. You need to have all the required parts in the vehicle's inventory for the engine to start!</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">使用 %[vehicle_driver:v_start] 启动装备齐全的车辆。您需要在车辆库存中包含所有必需的配件才能启动发动机！</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">使用 %[vehicle_driver:v_start] 启动装备齐全的车辆。您需要在车辆库存中包含所有必需的配件才能启动发动机！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint111</Data></Cell>
@@ -674,12 +673,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint112</Data></Cell>
     <Cell><Data ss:Type="String"> isn't just another radio, it includes a geiger counter, clock, thermometer, compass and GPS for orienteering which can be switched to using %[player:firemode].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">对讲机不仅仅是另一个收音机，它包括一个盖革计数器，时钟，温度计，指南针和定向越野GPS，可以切换到使用 %[player:firemode]。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">对讲机不仅仅是另一个收音机，它包括一个盖革计数器，时钟，温度计，指南针和定向越野GPS，可以切换到使用 %[player:firemode]。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint113</Data></Cell>
     <Cell><Data ss:Type="String">The Survivotron radio supports multiple channels and frequency bands, press %[default:radio_chup] for channel up, %[default:radio_chdn] for channel down and %[default:radio_band] to switch band.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">对讲机无线电支持多个频道和频段，按 %[default:radio_chup] 进行频道向上，按 %[default:radio_chdn] 进行频道向下，按 %[default:radio_band] 进行频道切换。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">对讲机无线电支持多个频道和频段，按 %[default:radio_chup] 进行频道向上，按 %[default:radio_chdn] 进行频道向下，按 %[default:radio_band] 进行频道切换。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint114</Data></Cell>
@@ -694,12 +693,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint116</Data></Cell>
     <Cell><Data ss:Type="String">When picking up items, you can either scroll the mouse wheel to open the context menu, or just press %[player:use].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">拾取物品时，您可以滚动鼠标滚轮以打开上下文菜单，或者只按％[player：use]。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">拾取物品时，您可以滚动鼠标滚轮以打开上下文菜单，或者只按％[player：use]。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint117</Data></Cell>
     <Cell><Data ss:Type="String">As a survivor on Orca Island, you start with your bare hands %[player:primary], a flashlight %[player:secondary] and some stylish clothes.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">作为奥卡岛上的幸存者，你从赤手空拳开始 %[player:primary] ，手电筒 %[player:secondary] 和一些时髦的衣服。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">作为奥卡岛上的幸存者，你从赤手空拳开始 %[player:primary] ，手电筒 %[player:secondary] 和一些时髦的衣服。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint118</Data></Cell>
@@ -719,7 +718,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint121</Data></Cell>
     <Cell><Data ss:Type="String">Weapon accessories can be triggered faster by the bindings, lights %[player:accessory2], lasers %[player:accessory1] and headgear %[player:accessory3].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">手电 %[player:accessory2]，雷射 %[player:accessory2]和 瞄镜 %[player:accessory3]武器配件可通过装配快速使用。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">手电 %[player:accessory2]，雷射 %[player:accessory2]和 瞄镜 %[player:accessory3]武器配件可通过装配快速使用。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint122</Data></Cell>
@@ -744,7 +743,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint126</Data></Cell>
     <Cell><Data ss:Type="String">To relax your fingers use the toggle keys for sprinting forward %[player:sprintforward_toggle] and aiming down sights %[player:zoom_toggle].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">要放松手指，请使用向前冲刺的拨动键 %[player:sprintforward_toggle] 并瞄准目标 %[player:zoom_toggle]。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">要放松手指，请使用向前冲刺的拨动键 %[player:sprintforward_toggle] 并瞄准目标 %[player:zoom_toggle]。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint127</Data></Cell>
@@ -779,12 +778,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint133</Data></Cell>
     <Cell><Data ss:Type="String">You can switch between first person and third person view by pressing %[player:thirdperson].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">您可以按F1在第一人称视角和第三人称视角之间切换。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">您可以按F1在第一人称视角和第三人称视角之间切换。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint134</Data></Cell>
     <Cell><Data ss:Type="String">You can cancel a charged throw or bow shot by pressing %[player:reload].</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">您可以按鼠标 %[player:reload] 取消投掷或弓箭发射。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">您可以按鼠标 %[player:reload] 取消投掷或弓箭发射。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint135</Data></Cell>
@@ -854,7 +853,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint148</Data></Cell>
     <Cell><Data ss:Type="String">To store items in your base you can craft 4 small crates by default and 2 large ones once you find the storage guide. You can also use tents.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">要在您的基地存储物品，您可以默认制作4个小箱子，一旦找到存储指南就可以制作2个大箱子。你也可以使用帐篷。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">要在您的基地存储物品，您可以默认制作4个小箱子，一旦找到存储指南就可以制作2个大箱子。你也可以使用帐篷。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint149</Data></Cell>
@@ -874,17 +873,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint152</Data></Cell>
     <Cell><Data ss:Type="String">(Central-Servers) Tired of some cosmetic items? Trade them ingame or steam marketplace (Requires them to be repaired and deposited into the Amalgamated Kiosk).</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">（中央服务器）厌倦了一些皮肤？交易他们的游戏或STEAM市场（需要将它们修复并存入）。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">（中央服务器）厌倦了一些皮肤？交易他们的游戏或STEAM市场（需要将它们修复并存入）。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint153</Data></Cell>
     <Cell><Data ss:Type="String">(Central-Servers) Amalgamated Kiosks are linked with your personal Steam Inventory, items without a red border can be traded and sold in the marketplace.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">（中央服务器）合并的信息亭与您的STEAM库链接，没有红色边框的物品可以在市场上交易和销售。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">（中央服务器）合并的信息亭与您的STEAM库链接，没有红色边框的物品可以在市场上交易和销售。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint154</Data></Cell>
     <Cell><Data ss:Type="String">(Central-Servers) Use Amalgamated Kiosks as personal long-term storage for your items, depositing and withdrawing items costs in-game amCoins.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">（中央服务器）使用混合式售货亭作为您的物品的个人长期存储，存放和取消游戏中的金币物品成本。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">（中央服务器）使用混合式售货亭作为您的物品的个人长期存储，存放和取消游戏中的金币物品成本。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint155</Data></Cell>
@@ -904,7 +903,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint158</Data></Cell>
     <Cell><Data ss:Type="String">Cosmetic skins are awarded randomly by Steam while playing the game.</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">在玩游戏时，Steam会随机发送皮肤。</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">在玩游戏时，Steam会随机发送皮肤。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@Hint159</Data></Cell>
@@ -991,11 +990,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
+   <TopRowVisible>23</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>1</ActiveCol>
-     <RangeSelection>R1C2:R174C4</RangeSelection>
+     <ActiveRow>42</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
