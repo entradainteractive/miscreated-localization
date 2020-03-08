@@ -16,8 +16,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>17400</WindowHeight>
-  <WindowWidth>21705</WindowWidth>
+  <WindowHeight>15570</WindowHeight>
+  <WindowWidth>30615</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>246</TabRatio>
@@ -92,7 +92,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="725" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="727" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
    <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75"/>
@@ -3486,194 +3486,252 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_rags</Data></Cell>
     <Cell><Data ss:Type="String">Craft Rags</Data></Cell>
+    <Cell><Data ss:Type="String">Craft Rags</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_craft_rags</Data></Cell>
+    <Cell><Data ss:Type="String">Collect 2 thatch from large bushes to craft rags.\nEquipment-&gt;Components</Data></Cell>
     <Cell><Data ss:Type="String">Collect 2 thatch from large bushes to craft rags.\nEquipment-&gt;Components</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_rope</Data></Cell>
     <Cell><Data ss:Type="String">Craft Rope</Data></Cell>
+    <Cell><Data ss:Type="String">Craft Rope</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_craft_rope</Data></Cell>
+    <Cell><Data ss:Type="String">Use 4 rags to craft a rope.\nEquipment-&gt;Components</Data></Cell>
     <Cell><Data ss:Type="String">Use 4 rags to craft a rope.\nEquipment-&gt;Components</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_find_rock</Data></Cell>
     <Cell><Data ss:Type="String">Find A Rock</Data></Cell>
+    <Cell><Data ss:Type="String">Find A Rock</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_find_rock</Data></Cell>
+    <Cell><Data ss:Type="String">A rock can be found by looking down while standing on rocky terrain.</Data></Cell>
     <Cell><Data ss:Type="String">A rock can be found by looking down while standing on rocky terrain.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_hatchet</Data></Cell>
     <Cell><Data ss:Type="String">Craft Hatchet</Data></Cell>
+    <Cell><Data ss:Type="String">Craft Hatchet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_craft_hatchet</Data></Cell>
+    <Cell><Data ss:Type="String">Use sticks, rope, and a rock to craft a Hatchet.\nEquipment-&gt;Tools</Data></Cell>
     <Cell><Data ss:Type="String">Use sticks, rope, and a rock to craft a Hatchet.\nEquipment-&gt;Tools</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_inspect_item</Data></Cell>
     <Cell><Data ss:Type="String">Inspect Inventory Item</Data></Cell>
+    <Cell><Data ss:Type="String">Inspect Inventory Item</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_inspect_item</Data></Cell>
+    <Cell><Data ss:Type="String">On a consumable item, use its context menu to see if it's safe to consume.</Data></Cell>
     <Cell><Data ss:Type="String">On a consumable item, use its context menu to see if it's safe to consume.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_tear_rags</Data></Cell>
     <Cell><Data ss:Type="String">Tear Item To Rags</Data></Cell>
+    <Cell><Data ss:Type="String">Tear Item To Rags</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_tear_rags</Data></Cell>
+    <Cell><Data ss:Type="String">On a clothing item you don't need, tear it to rags to use to stop bleeding, or to use in crafting.</Data></Cell>
     <Cell><Data ss:Type="String">On a clothing item you don't need, tear it to rags to use to stop bleeding, or to use in crafting.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_repair_kit</Data></Cell>
     <Cell><Data ss:Type="String">Create A Repair Kit</Data></Cell>
+    <Cell><Data ss:Type="String">Create A Repair Kit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_repair_kit</Data></Cell>
+    <Cell><Data ss:Type="String">Converting an item into a repair kit can repair other items of the same type.</Data></Cell>
     <Cell><Data ss:Type="String">Converting an item into a repair kit can repair other items of the same type.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_refill_item</Data></Cell>
     <Cell><Data ss:Type="String">Refill An Item</Data></Cell>
+    <Cell><Data ss:Type="String">Refill An Item</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_refill_item</Data></Cell>
+    <Cell><Data ss:Type="String">While standing in a water source, refill a canteen or bottle with water using the mouse's context menu.</Data></Cell>
     <Cell><Data ss:Type="String">While standing in a water source, refill a canteen or bottle with water using the mouse's context menu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_firedrill</Data></Cell>
     <Cell><Data ss:Type="String">Craft A Firedrill</Data></Cell>
+    <Cell><Data ss:Type="String">Craft A Firedrill</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_craft_firedrill</Data></Cell>
+    <Cell><Data ss:Type="String">Use Thatch and Sticks to craft a Firedrill to light fires with.\nEquipment-&gt;Tools</Data></Cell>
     <Cell><Data ss:Type="String">Use Thatch and Sticks to craft a Firedrill to light fires with.\nEquipment-&gt;Tools</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_craft_campfire</Data></Cell>
     <Cell><Data ss:Type="String">Craft A Campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Craft A Campfire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_craft_campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Find Rocks to craft a Campfire to stay warm and cook with.\nBase Building-&gt;Utilities</Data></Cell>
     <Cell><Data ss:Type="String">Find Rocks to craft a Campfire to stay warm and cook with.\nBase Building-&gt;Utilities</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_place_campfire</Data></Cell>
     <Cell><Data ss:Type="String">Place Campfire On Ground</Data></Cell>
+    <Cell><Data ss:Type="String">Place Campfire On Ground</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_place_campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Use the context menu to place the campfire on the ground.</Data></Cell>
     <Cell><Data ss:Type="String">Use the context menu to place the campfire on the ground.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_add_wood_campfire</Data></Cell>
     <Cell><Data ss:Type="String">Add Wood To Campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Add Wood To Campfire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_add_wood_campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Add some wood to the campfire so you can light it.\nWood can be obtained by use an Axe on a tree or tearing some off of a fence.</Data></Cell>
     <Cell><Data ss:Type="String">Add some wood to the campfire so you can light it.\nWood can be obtained by use an Axe on a tree or tearing some off of a fence.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_light_campfire</Data></Cell>
     <Cell><Data ss:Type="String">Light The Campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Light The Campfire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_light_campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Light the campfire using the firedrill</Data></Cell>
     <Cell><Data ss:Type="String">Light the campfire using the firedrill</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_cook_raw_meat_campfire</Data></Cell>
     <Cell><Data ss:Type="String">Cook Raw Meat</Data></Cell>
+    <Cell><Data ss:Type="String">Cook Raw Meat</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_cook_raw_meat_campfire</Data></Cell>
+    <Cell><Data ss:Type="String">Add raw meat to the campfire to cook it.\nRaw meat can be obtained by slaying animals.</Data></Cell>
     <Cell><Data ss:Type="String">Add raw meat to the campfire to cook it.\nRaw meat can be obtained by slaying animals.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_trash</Data></Cell>
     <Cell><Data ss:Type="String">Search Trash Piles</Data></Cell>
+    <Cell><Data ss:Type="String">Search Trash Piles</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_trash</Data></Cell>
+    <Cell><Data ss:Type="String">Find an item by searching in trash piles!</Data></Cell>
     <Cell><Data ss:Type="String">Find an item by searching in trash piles!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_kitchen_cabinets</Data></Cell>
     <Cell><Data ss:Type="String">Search Kitchen Cabinets</Data></Cell>
+    <Cell><Data ss:Type="String">Search Kitchen Cabinets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_kitchen_cabinets</Data></Cell>
+    <Cell><Data ss:Type="String">Search kitchen cabinets to find an item such as food or drinks.</Data></Cell>
     <Cell><Data ss:Type="String">Search kitchen cabinets to find an item such as food or drinks.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_crannies</Data></Cell>
     <Cell><Data ss:Type="String">Search In Crannies</Data></Cell>
+    <Cell><Data ss:Type="String">Search In Crannies</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_crannies</Data></Cell>
+    <Cell><Data ss:Type="String">Search in couches and chairs to find a long-lost treasure!</Data></Cell>
     <Cell><Data ss:Type="String">Search in couches and chairs to find a long-lost treasure!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_food</Data></Cell>
     <Cell><Data ss:Type="String">Search For Food</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Food</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_food</Data></Cell>
+    <Cell><Data ss:Type="String">Search in broken kitchen appliances to find food.</Data></Cell>
     <Cell><Data ss:Type="String">Search in broken kitchen appliances to find food.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_clothes</Data></Cell>
     <Cell><Data ss:Type="String">Search For Clothes</Data></Cell>
+    <Cell><Data ss:Type="String">Search For Clothes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_clothes</Data></Cell>
+    <Cell><Data ss:Type="String">Search in suitcases, bodybags, washing machines, and dryers for hidden clothing.</Data></Cell>
     <Cell><Data ss:Type="String">Search in suitcases, bodybags, washing machines, and dryers for hidden clothing.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_desk</Data></Cell>
     <Cell><Data ss:Type="String">Search A Desk</Data></Cell>
+    <Cell><Data ss:Type="String">Search A Desk</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_desk</Data></Cell>
+    <Cell><Data ss:Type="String">Search a desk to discover hidden items.</Data></Cell>
     <Cell><Data ss:Type="String">Search a desk to discover hidden items.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_vending_machine</Data></Cell>
     <Cell><Data ss:Type="String">Search A Vending Machine</Data></Cell>
+    <Cell><Data ss:Type="String">Search A Vending Machine</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_vending_machine</Data></Cell>
+    <Cell><Data ss:Type="String">Search a vending machine to find hidden drinks.</Data></Cell>
     <Cell><Data ss:Type="String">Search a vending machine to find hidden drinks.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_cash_register</Data></Cell>
     <Cell><Data ss:Type="String">Search A Cash Register</Data></Cell>
+    <Cell><Data ss:Type="String">Search A Cash Register</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_cash_register</Data></Cell>
+    <Cell><Data ss:Type="String">Search a cash register to find AmCoins.</Data></Cell>
     <Cell><Data ss:Type="String">Search a cash register to find AmCoins.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_tool_chest</Data></Cell>
     <Cell><Data ss:Type="String">Search A Tool Chest</Data></Cell>
+    <Cell><Data ss:Type="String">Search A Tool Chest</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_tool_chest</Data></Cell>
+    <Cell><Data ss:Type="String">Search in tool chests to try and salvage a useful tool.</Data></Cell>
     <Cell><Data ss:Type="String">Search in tool chests to try and salvage a useful tool.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">quest_search_locker</Data></Cell>
     <Cell><Data ss:Type="String">Search A Locker</Data></Cell>
+    <Cell><Data ss:Type="String">Search A Locker</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">task_search_locker</Data></Cell>
     <Cell><Data ss:Type="String">Search a locker to find a useful item.</Data></Cell>
+    <Cell><Data ss:Type="String">Search a locker to find a useful item.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">steam_title</Data></Cell>
+    <Cell><Data ss:Type="String">Kioskable</Data></Cell>
+    <Cell><Data ss:Type="String">Kioskable</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ConvertToGunpowder</Data></Cell>
+    <Cell><Data ss:Type="String">Convert to Gunpowder</Data></Cell>
+    <Cell><Data ss:Type="String">Convert to Gunpowder</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -3690,12 +3748,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>668</TopRowVisible>
+   <TopRowVisible>695</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>691</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>727</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

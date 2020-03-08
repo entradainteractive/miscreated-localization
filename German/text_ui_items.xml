@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3674" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3750" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -204,6 +204,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">57x50Description</Data></Cell>
     <Cell><Data ss:Type="String">A 5.7mm magazine with a 50 round capacity</Data></Cell>
     <Cell><Data ss:Type="String">Ein 5,7-mm-Magazin mit einer Kapazität von 50 Runden</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">762x20_Akval</Data></Cell>
+    <Cell><Data ss:Type="String">762x20 AKVal</Data></Cell>
+    <Cell><Data ss:Type="String">762x20 AKVal</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">762x20_AkvalDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 20 rounds magazine for the AKVal</Data></Cell>
+    <Cell><Data ss:Type="String">A 20 rounds magazine for the AKVal</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x30</Data></Cell>
@@ -336,6 +346,16 @@
     <Cell><Data ss:Type="String">Gold Military halb- / vollautomatisches Gewehr. Brennt 7,62 Runden.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AKVal</Data></Cell>
+    <Cell><Data ss:Type="String">Ak Val</Data></Cell>
+    <Cell><Data ss:Type="String">Ak Val</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AKValDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A silenced assault rifle of russian origin.</Data></Cell>
+    <Cell><Data ss:Type="String">A silenced assault rifle of russian origin.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AP85</Data></Cell>
     <Cell><Data ss:Type="String">AP85</Data></Cell>
     <Cell><Data ss:Type="String">AP85</Data></Cell>
@@ -389,6 +409,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">AirDropCrate</Data></Cell>
     <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
     <Cell><Data ss:Type="String">Amalgamated Supply Crate</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AirDropSantaCrate</Data></Cell>
+    <Cell><Data ss:Type="String">Santa's Bag</Data></Cell>
+    <Cell><Data ss:Type="String">Santa's Bag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AirDropSantaCrateDescription</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Amalgaduino</Data></Cell>
@@ -3151,6 +3181,16 @@
     <Cell><Data ss:Type="String">Getreide weckt den Mörder in dir.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Champagne</Data></Cell>
+    <Cell><Data ss:Type="String">Champagne</Data></Cell>
+    <Cell><Data ss:Type="String">Champagne</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChampagneDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A fancy looking champagne bottle.</Data></Cell>
+    <Cell><Data ss:Type="String">A fancy looking champagne bottle.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Charcoal</Data></Cell>
     <Cell><Data ss:Type="String">Charcoal</Data></Cell>
     <Cell><Data ss:Type="String">Charcoal</Data></Cell>
@@ -3311,6 +3351,16 @@
     <Cell><Data ss:Type="String">Chicken Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChocolateBox</Data></Cell>
+    <Cell><Data ss:Type="String">Chocolate Box</Data></Cell>
+    <Cell><Data ss:Type="String">Chocolate Box</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChocolateBoxDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A fancy box of chocolate.</Data></Cell>
+    <Cell><Data ss:Type="String">A fancy box of chocolate.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChristmasHat</Data></Cell>
     <Cell><Data ss:Type="String">Christmas Hat</Data></Cell>
     <Cell><Data ss:Type="String">Christmas Hat</Data></Cell>
@@ -3349,6 +3399,36 @@
     <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentClothingOpenPresent</Data></Cell>
     <Cell><Data ss:Type="String">Open Present</Data></Cell>
     <Cell><Data ss:Type="String">Geschenk öffnen</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentCommon1</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Present Common</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Present Common</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentCommon1Description</Data></Cell>
+    <Cell><Data ss:Type="String">A nicely wrapped Christmas present.</Data></Cell>
+    <Cell><Data ss:Type="String">A nicely wrapped Christmas present.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentCommon2</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Present Common</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Present Common</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentCommon2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A nicely wrapped Christmas present.</Data></Cell>
+    <Cell><Data ss:Type="String">A nicely wrapped Christmas present.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentRare</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Present Rare</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Present Rare</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentRareDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A nicely wrapped Christmas present.</Data></Cell>
+    <Cell><Data ss:Type="String">A nicely wrapped Christmas present.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChristmasPresentWeapon</Data></Cell>
@@ -4041,6 +4121,16 @@
     <Cell><Data ss:Type="String">Eine alte Brechstange.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CupidArrowx8</Data></Cell>
+    <Cell><Data ss:Type="String">Cupid Arrow</Data></Cell>
+    <Cell><Data ss:Type="String">Cupid Arrow</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CupidArrowx8Description</Data></Cell>
+    <Cell><Data ss:Type="String">A bundle of arrows, with a heart shaped tip.</Data></Cell>
+    <Cell><Data ss:Type="String">A bundle of arrows, with a heart shaped tip.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DebugPistol</Data></Cell>
     <Cell><Data ss:Type="String">Debug Pistol</Data></Cell>
     <Cell><Data ss:Type="String">Debug-Pistole</Data></Cell>
@@ -4571,6 +4661,16 @@
     <Cell><Data ss:Type="String">Ein faules Hühnerei.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">EggNog</Data></Cell>
+    <Cell><Data ss:Type="String">EggNog</Data></Cell>
+    <Cell><Data ss:Type="String">EggNog</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">EggNogDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A box filled with delicious Eggnog.</Data></Cell>
+    <Cell><Data ss:Type="String">A box filled with delicious Eggnog.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ElectricalParts</Data></Cell>
     <Cell><Data ss:Type="String">Electrical Parts</Data></Cell>
     <Cell><Data ss:Type="String">Elektronische Teile</Data></Cell>
@@ -4889,6 +4989,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">FlashlightDescription</Data></Cell>
     <Cell><Data ss:Type="String">Light up your life in the apocalypse with this handy flashlight.</Data></Cell>
     <Cell><Data ss:Type="String">Beleuchten Sie Ihr Leben in der Apokalypse mit dieser praktischen Taschenlampe.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">FlashlightMounted</Data></Cell>
+    <Cell><Data ss:Type="String">Mounted Flashlight</Data></Cell>
+    <Cell><Data ss:Type="String">Mounted Flashlight</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">FlashlightMountedDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small flashlight that can be mounted on most weapon's rail.</Data></Cell>
+    <Cell><Data ss:Type="String">A small flashlight that can be mounted on most weapon's rail.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FlashlightPistol</Data></Cell>
@@ -5279,6 +5389,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">GhillieSuit4Description</Data></Cell>
     <Cell><Data ss:Type="String">A ghillie suit for sneaking in the forest.</Data></Cell>
     <Cell><Data ss:Type="String">Ein Ghillie-Anzug zum Schleichen im Wald.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">GingerBreadMan</Data></Cell>
+    <Cell><Data ss:Type="String">Ginger Bread Cookie</Data></Cell>
+    <Cell><Data ss:Type="String">Ginger Bread Cookie</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">GingerBreadManDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A christmas themed gingerbread cookie.</Data></Cell>
+    <Cell><Data ss:Type="String">A christmas themed gingerbread cookie.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">GlowPlugs</Data></Cell>
@@ -6636,6 +6756,16 @@
     <Cell><Data ss:Type="String">Militärisches halbautomatisches und Berstfeuergewehr. Feuert 5,56 Runden ab.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M203</Data></Cell>
+    <Cell><Data ss:Type="String">M203</Data></Cell>
+    <Cell><Data ss:Type="String">M203</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M203Description</Data></Cell>
+    <Cell><Data ss:Type="String">A M203 grenade launcher that can mount on a rail.</Data></Cell>
+    <Cell><Data ss:Type="String">A M203 grenade launcher that can mount on a rail.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M249</Data></Cell>
     <Cell><Data ss:Type="String">M249</Data></Cell>
     <Cell><Data ss:Type="String">Me 49</Data></Cell>
@@ -6664,6 +6794,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">M40x5Description</Data></Cell>
     <Cell><Data ss:Type="String">A 7.62mm magazine with a 5 round capacity</Data></Cell>
     <Cell><Data ss:Type="String">Ein 7,62-mm-Magazin mit einer Kapazität von 5 Runden</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M97</Data></Cell>
+    <Cell><Data ss:Type="String">M97</Data></Cell>
+    <Cell><Data ss:Type="String">M97</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M97Description</Data></Cell>
+    <Cell><Data ss:Type="String">A M97 grenade launcher.</Data></Cell>
+    <Cell><Data ss:Type="String">A M97 grenade launcher.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M9A1</Data></Cell>
@@ -8166,6 +8306,16 @@
     <Cell><Data ss:Type="String">Ein Stapel von 357 Runden</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Pile_40mmGrenade</Data></Cell>
+    <Cell><Data ss:Type="String">40mm Grenade</Data></Cell>
+    <Cell><Data ss:Type="String">40mm Grenade</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Pile_40mmGrenadeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 40mm grenade used with M97 grenade launcher.</Data></Cell>
+    <Cell><Data ss:Type="String">A 40mm grenade used with M97 grenade launcher.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_45ACP</Data></Cell>
     <Cell><Data ss:Type="String">.45 ACP Rounds</Data></Cell>
     <Cell><Data ss:Type="String">.45 AKP-Runden</Data></Cell>
@@ -8464,6 +8614,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">PotatoesSowInPlanter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
     <Cell><Data ss:Type="String">Sow In Planter</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PricklyPear</Data></Cell>
+    <Cell><Data ss:Type="String">Prickly Pear</Data></Cell>
+    <Cell><Data ss:Type="String">Prickly Pear</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PricklyPearDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A fruit found on a cactus.</Data></Cell>
+    <Cell><Data ss:Type="String">A fruit found on a cactus.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PricklyPearRotten</Data></Cell>
+    <Cell><Data ss:Type="String">Prickly Pear Rotten</Data></Cell>
+    <Cell><Data ss:Type="String">Prickly Pear Rotten</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PricklyPearRottenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A rotten fruit found on a cactus.</Data></Cell>
+    <Cell><Data ss:Type="String">A rotten fruit found on a cactus.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PropaneHeaterTop</Data></Cell>
@@ -9656,6 +9826,16 @@
     <Cell><Data ss:Type="String">Recurvebogen</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ReddotSight</Data></Cell>
+    <Cell><Data ss:Type="String">Reddot Sight</Data></Cell>
+    <Cell><Data ss:Type="String">Reddot Sight</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ReddotSightDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A red dot sight to fit on a picatinny rail.</Data></Cell>
+    <Cell><Data ss:Type="String">A red dot sight to fit on a picatinny rail.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ReflexSight</Data></Cell>
     <Cell><Data ss:Type="String">Holo Sight</Data></Cell>
     <Cell><Data ss:Type="String">Ist die Site</Data></Cell>
@@ -9864,6 +10044,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">RuggedPackGreenDescription</Data></Cell>
     <Cell><Data ss:Type="String">A rugged old backpack. It's filthy from years of use.</Data></Cell>
     <Cell><Data ss:Type="String">Ein robuster alter Rucksack. Es ist schmutzig von Jahren der Nutzung.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SAS12</Data></Cell>
+    <Cell><Data ss:Type="String">SAS12</Data></Cell>
+    <Cell><Data ss:Type="String">SAS12</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SAS12Description</Data></Cell>
+    <Cell><Data ss:Type="String">A old worn out semi automatic shotgun.</Data></Cell>
+    <Cell><Data ss:Type="String">A old worn out semi automatic shotgun.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">STANAGx30</Data></Cell>
@@ -10166,6 +10356,16 @@
     <Cell><Data ss:Type="String">Ein Schal, der um den Hals geht.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScavengerHelmet</Data></Cell>
+    <Cell><Data ss:Type="String">Scavenger Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">Scavenger Helmet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScavengerHelmetDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A motorcycle helmet with a stud mohawk.</Data></Cell>
+    <Cell><Data ss:Type="String">A motorcycle helmet with a stud mohawk.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ScavengerPants</Data></Cell>
     <Cell><Data ss:Type="String">Scavenger Pants</Data></Cell>
     <Cell><Data ss:Type="String">Scavenger Pants</Data></Cell>
@@ -10464,6 +10664,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">SkullMaskSilverDescription</Data></Cell>
     <Cell><Data ss:Type="String">A silver plated mask made out of a human skull.</Data></Cell>
     <Cell><Data ss:Type="String">A silver plated mask made out of a human skull.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Sledgehammer</Data></Cell>
+    <Cell><Data ss:Type="String">Sledgehammer</Data></Cell>
+    <Cell><Data ss:Type="String">Sledgehammer</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SledgehammerDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 12 lbs sledgehammer used to knock down structures.</Data></Cell>
+    <Cell><Data ss:Type="String">A 12 lbs sledgehammer used to knock down structures.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SmallBag</Data></Cell>
@@ -13891,6 +14101,86 @@
     <Cell><Data ss:Type="String">Eine kleine Kerze aus Tierfett und Seil.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_candle</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Candle</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Candle</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_candleDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A set of four christmas themed candles.</Data></Cell>
+    <Cell><Data ss:Type="String">A set of four christmas themed candles.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_gift_pile</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Gift Pile</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Gift Pile</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_gift_pileDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A pile of wrapped gift.</Data></Cell>
+    <Cell><Data ss:Type="String">A pile of wrapped gift.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_light_string</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Light String</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Light String</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_light_stringDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A set of christmas lights to hang on your walls.</Data></Cell>
+    <Cell><Data ss:Type="String">A set of christmas lights to hang on your walls.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_rug_01</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Rug</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Rug</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_rug_01Description</Data></Cell>
+    <Cell><Data ss:Type="String">A christmas themed rug.</Data></Cell>
+    <Cell><Data ss:Type="String">A christmas themed rug.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_rug_02</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Rug</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Rug</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_rug_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A christmas themed rug.</Data></Cell>
+    <Cell><Data ss:Type="String">A christmas themed rug.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_rug_03</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Rug</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Rug</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_rug_03Description</Data></Cell>
+    <Cell><Data ss:Type="String">A christmas themed rug.</Data></Cell>
+    <Cell><Data ss:Type="String">A christmas themed rug.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_snowglobe</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Snowglobe</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Snowglobe</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_snowglobeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A Christmas themed snowglobe.</Data></Cell>
+    <Cell><Data ss:Type="String">A Christmas themed snowglobe.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_stocking</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Stocking</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Stocking</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_stockingDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A stocking filled with gifts and treats.</Data></Cell>
+    <Cell><Data ss:Type="String">A stocking filled with gifts and treats.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">christmas_tree</Data></Cell>
     <Cell><Data ss:Type="String">Christmas Tree</Data></Cell>
     <Cell><Data ss:Type="String">Weihnachtsbaum</Data></Cell>
@@ -13899,6 +14189,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">christmas_treeDescription</Data></Cell>
     <Cell><Data ss:Type="String">A Christmas tree that can be placed in a base</Data></Cell>
     <Cell><Data ss:Type="String">Ein Weihnachtsbaum, der in einer Basis platziert werden kann</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_wreath</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Wreath</Data></Cell>
+    <Cell><Data ss:Type="String">Christmas Wreath</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">christmas_wreathDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A classic Christmas wreath to decorate your home.</Data></Cell>
+    <Cell><Data ss:Type="String">A classic Christmas wreath to decorate your home.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">cloth_bag_large</Data></Cell>
@@ -15036,6 +15336,26 @@
     <Cell><Data ss:Type="String">Eine Flexband-Baseballmütze.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flower_vase</Data></Cell>
+    <Cell><Data ss:Type="String">Flower Vase</Data></Cell>
+    <Cell><Data ss:Type="String">Flower Vase</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">flower_vaseDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A vase filled up with a dozen of roses.</Data></Cell>
+    <Cell><Data ss:Type="String">A vase filled up with a dozen of roses.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">garage_door_large</Data></Cell>
+    <Cell><Data ss:Type="String">Garage Door Large</Data></Cell>
+    <Cell><Data ss:Type="String">Garage Door Large</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">garage_door_largeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A large metal garage door.</Data></Cell>
+    <Cell><Data ss:Type="String">A large metal garage door.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">gnome_bronze</Data></Cell>
     <Cell><Data ss:Type="String">Bronze Gnome</Data></Cell>
     <Cell><Data ss:Type="String">Bronze Gnom</Data></Cell>
@@ -15444,6 +15764,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">halloween_light_stringDescription</Data></Cell>
     <Cell><Data ss:Type="String">A set of halloween themed lights on a string.</Data></Cell>
     <Cell><Data ss:Type="String">A set of halloween themed lights on a string.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">heart_balloon</Data></Cell>
+    <Cell><Data ss:Type="String">Heart Balloon</Data></Cell>
+    <Cell><Data ss:Type="String">Heart Balloon</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">heart_balloonDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A trio of heart shaped balloons.</Data></Cell>
+    <Cell><Data ss:Type="String">A trio of heart shaped balloons.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">heart_candle</Data></Cell>
+    <Cell><Data ss:Type="String">Heart Candle</Data></Cell>
+    <Cell><Data ss:Type="String">Heart Candle</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">heart_candleDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A heart shaped candle.</Data></Cell>
+    <Cell><Data ss:Type="String">A heart shaped candle.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">hesco_barrier</Data></Cell>
@@ -16546,6 +16886,16 @@
     <Cell><Data ss:Type="String">A plated 3x4 meters wall, meant to be used with a draw bridge.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_garage_large</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Wall Garage Large</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Wall Garage Large</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_garage_largeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A large plated wall with a railing system for a garage door.</Data></Cell>
+    <Cell><Data ss:Type="String">A large plated wall with a railing system for a garage door.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_wall_shutter_3m_2m</Data></Cell>
     <Cell><Data ss:Type="String">Shutter Wall 3m 2m</Data></Cell>
     <Cell><Data ss:Type="String">Mutter und Mutter</Data></Cell>
@@ -17024,6 +17374,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">small_shelter_wall_4m_2m_camoDescription</Data></Cell>
     <Cell><Data ss:Type="String">Camo Net 2m high x 4m long shelter wall</Data></Cell>
     <Cell><Data ss:Type="String">Tarnnetz 2 m hoch x 4 m lange Unterstandwand</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">snowman</Data></Cell>
+    <Cell><Data ss:Type="String">Snowman</Data></Cell>
+    <Cell><Data ss:Type="String">Snowman</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">snowmanDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A simple snowman.</Data></Cell>
+    <Cell><Data ss:Type="String">A simple snowman.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">snowman_small</Data></Cell>
+    <Cell><Data ss:Type="String">Small Snowman</Data></Cell>
+    <Cell><Data ss:Type="String">Small Snowman</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">snowman_smallDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small snowman.</Data></Cell>
+    <Cell><Data ss:Type="String">A small snowman.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">stick_scaffolding_1_3m</Data></Cell>
@@ -18344,6 +18714,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_drawbridge_3m_4mDescription</Data></Cell>
     <Cell><Data ss:Type="String">A 3 by 4 wooden wall meant to be used with the drawbridge.</Data></Cell>
     <Cell><Data ss:Type="String">A 3 by 4 wooden wall meant to be used with the drawbridge.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_garage_large</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Wall Garage Large</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Wall Garage Large</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_garage_largeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A large wood wall with an railing system for a garage door.</Data></Cell>
+    <Cell><Data ss:Type="String">A large wood wall with an railing system for a garage door.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_panel</Data></Cell>
