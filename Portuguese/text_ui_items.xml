@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3750" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3968" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -196,6 +196,16 @@
     <Cell><Data ss:Type="String">Uma revista grande caixa com uma capacidade de 100 rodada</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">556x30_ak5d</Data></Cell>
+    <Cell><Data ss:Type="String">556x30</Data></Cell>
+    <Cell><Data ss:Type="String">556x30</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">556x30_ak5dDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 30 rounds 5.56 magazine for the AK5D</Data></Cell>
+    <Cell><Data ss:Type="String">A 30 rounds 5.56 magazine for the AK5D</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">57x50</Data></Cell>
     <Cell><Data ss:Type="String">50Rnd 5.7mm</Data></Cell>
     <Cell><Data ss:Type="String">50 e 5,7 mm</Data></Cell>
@@ -296,6 +306,16 @@
     <Cell><Data ss:Type="String">Uma revista de 9 mm com capacidade para 33 rounds</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">9x19_mac10</Data></Cell>
+    <Cell><Data ss:Type="String">9mmx30</Data></Cell>
+    <Cell><Data ss:Type="String">9mmx30</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">9x19_mac10Description</Data></Cell>
+    <Cell><Data ss:Type="String">A 30 rounds magazine for a MAK10 smg.</Data></Cell>
+    <Cell><Data ss:Type="String">A 30 rounds magazine for a MAK10 smg.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AA12</Data></Cell>
     <Cell><Data ss:Type="String">THOR-12</Data></Cell>
     <Cell><Data ss:Type="String">THOR-12</Data></Cell>
@@ -314,6 +334,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">ACAWDescription</Data></Cell>
     <Cell><Data ss:Type="String">Bolt action rifle. Fires 7.62 rounds.</Data></Cell>
     <Cell><Data ss:Type="String">Rifle de ação de parafuso. Incêndios 7,62 rodadas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AK5D</Data></Cell>
+    <Cell><Data ss:Type="String">AK5D</Data></Cell>
+    <Cell><Data ss:Type="String">AK5D</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">AK5DDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A automatic assault rifle from swedish origin.</Data></Cell>
+    <Cell><Data ss:Type="String">A automatic assault rifle from swedish origin.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AK74U</Data></Cell>
@@ -1326,6 +1356,16 @@
     <Cell><Data ss:Type="String">Bear Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BearStewRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Bear Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Bear Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BearStewRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked bear stew.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked bear stew.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeardShaggy</Data></Cell>
     <Cell><Data ss:Type="String">Shaggy Beard</Data></Cell>
     <Cell><Data ss:Type="String">Barba Shaggy</Data></Cell>
@@ -2036,6 +2076,16 @@
     <Cell><Data ss:Type="String">Black Coffee</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BlackCoffeeCold</Data></Cell>
+    <Cell><Data ss:Type="String">Cold Coffee</Data></Cell>
+    <Cell><Data ss:Type="String">Cold Coffee</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BlackCoffeeColdDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A pot of cold coffee. It needs to be heated</Data></Cell>
+    <Cell><Data ss:Type="String">A pot of cold coffee. It needs to be heated</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BlackCoffeeDescription</Data></Cell>
     <Cell><Data ss:Type="String">Black Coffee</Data></Cell>
     <Cell><Data ss:Type="String">Black Coffee</Data></Cell>
@@ -2179,6 +2229,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">BreadDescription</Data></Cell>
     <Cell><Data ss:Type="String">Baked Bread</Data></Cell>
     <Cell><Data ss:Type="String">Baked Bread</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BreadRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Bread Uncooked</Data></Cell>
+    <Cell><Data ss:Type="String">Bread Uncooked</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">BreadRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked bread dough.</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked bread dough.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BrushPeas</Data></Cell>
@@ -3351,6 +3411,16 @@
     <Cell><Data ss:Type="String">Chicken Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChickenStewRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Chicken Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Chicken Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ChickenStewRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked chicken stew.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked chicken stew.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChocolateBox</Data></Cell>
     <Cell><Data ss:Type="String">Chocolate Box</Data></Cell>
     <Cell><Data ss:Type="String">Chocolate Box</Data></Cell>
@@ -3471,6 +3541,26 @@
     <Cell><Data ss:Type="String">Retirar Fluido</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ClamChowder</Data></Cell>
+    <Cell><Data ss:Type="String">Clam Chowder</Data></Cell>
+    <Cell><Data ss:Type="String">Clam Chowder</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ClamChowderDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A delicious fresh clam chowder.</Data></Cell>
+    <Cell><Data ss:Type="String">A delicious fresh clam chowder.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ClamChowderRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Clam Chowder</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Clam Chowder</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ClamChowderRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked clam chowder.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked clam chowder.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ClamSingle</Data></Cell>
     <Cell><Data ss:Type="String">Clam</Data></Cell>
     <Cell><Data ss:Type="String">Molusco</Data></Cell>
@@ -3529,6 +3619,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">CocktailWhiskeyColaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A whiskey and cola cocktail.</Data></Cell>
     <Cell><Data ss:Type="String">Um uísque e um coquetel de cola.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CoffeeBag</Data></Cell>
+    <Cell><Data ss:Type="String">Coffee Bag</Data></Cell>
+    <Cell><Data ss:Type="String">Coffee Bag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">CoffeeBagDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A bag of grinded coffee beans.</Data></Cell>
+    <Cell><Data ss:Type="String">A bag of grinded coffee beans.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CokeCan</Data></Cell>
@@ -4261,6 +4361,16 @@
     <Cell><Data ss:Type="String">Deer Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">DeerStewRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Deer Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Deer Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">DeerStewRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked deer stew.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked deer stew.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DieselGenerator</Data></Cell>
     <Cell><Data ss:Type="String">Diesel Generator</Data></Cell>
     <Cell><Data ss:Type="String">Gerador Diesel</Data></Cell>
@@ -4591,6 +4701,16 @@
     <Cell><Data ss:Type="String"></Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">EggBlue</Data></Cell>
+    <Cell><Data ss:Type="String">Egg Blue</Data></Cell>
+    <Cell><Data ss:Type="String">Egg Blue</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">EggBlueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A blue easter egg. Used as currency to create weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">A blue easter egg. Used as currency to create weapons.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">EggChicken</Data></Cell>
     <Cell><Data ss:Type="String">Chicken Egg</Data></Cell>
     <Cell><Data ss:Type="String">Ovo de galinha</Data></Cell>
@@ -4661,6 +4781,16 @@
     <Cell><Data ss:Type="String">Um ovo de galinha podre.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">EggGreen</Data></Cell>
+    <Cell><Data ss:Type="String">Egg Green</Data></Cell>
+    <Cell><Data ss:Type="String">Egg Green</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">EggGreenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A green easter egg. Used as currency to create weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">A green easter egg. Used as currency to create weapons.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">EggNog</Data></Cell>
     <Cell><Data ss:Type="String">EggNog</Data></Cell>
     <Cell><Data ss:Type="String">EggNog</Data></Cell>
@@ -4669,6 +4799,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">EggNogDescription</Data></Cell>
     <Cell><Data ss:Type="String">A box filled with delicious Eggnog.</Data></Cell>
     <Cell><Data ss:Type="String">A box filled with delicious Eggnog.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">EggPink</Data></Cell>
+    <Cell><Data ss:Type="String">Egg Pink</Data></Cell>
+    <Cell><Data ss:Type="String">Egg Pink</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">EggPinkDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A pink easter egg. Used as currency to create weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">A pink easter egg. Used as currency to create weapons.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ElectricalParts</Data></Cell>
@@ -5696,6 +5836,16 @@
     <Cell><Data ss:Type="String">Ham Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HamStewRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Ham Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Ham Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HamStewRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncoocked ham stew. </Data></Cell>
+    <Cell><Data ss:Type="String">A uncoocked ham stew. </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Hammer</Data></Cell>
     <Cell><Data ss:Type="String">Hammer</Data></Cell>
     <Cell><Data ss:Type="String">Martelo</Data></Cell>
@@ -6536,6 +6686,16 @@
     <Cell><Data ss:Type="String">Jack-o-lantern que pode ser usado como um capacete assustador.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Jelly</Data></Cell>
+    <Cell><Data ss:Type="String">Jelly</Data></Cell>
+    <Cell><Data ss:Type="String">Jelly</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">JellyDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A jar of strawberry jelly.</Data></Cell>
+    <Cell><Data ss:Type="String">A jar of strawberry jelly.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">JellySandwich</Data></Cell>
     <Cell><Data ss:Type="String">Jelly Sandwich</Data></Cell>
     <Cell><Data ss:Type="String">Jelly Sandwich</Data></Cell>
@@ -6756,6 +6916,16 @@
     <Cell><Data ss:Type="String">Rifle militar semi-automático e com rajada de fogo. Incêndios 5,56 rodadas.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M16Vietnam</Data></Cell>
+    <Cell><Data ss:Type="String">M16 Vietnam</Data></Cell>
+    <Cell><Data ss:Type="String">M16 Vietnam</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M16VietnamDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old M16 used during the vietnam war.</Data></Cell>
+    <Cell><Data ss:Type="String">An old M16 used during the vietnam war.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M203</Data></Cell>
     <Cell><Data ss:Type="String">M203</Data></Cell>
     <Cell><Data ss:Type="String">M203</Data></Cell>
@@ -6796,6 +6966,26 @@
     <Cell><Data ss:Type="String">Um magazine de 7,62 mm com capacidade de 5 rounds</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M4A1</Data></Cell>
+    <Cell><Data ss:Type="String">M4A1</Data></Cell>
+    <Cell><Data ss:Type="String">M4A1</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M4A1Description</Data></Cell>
+    <Cell><Data ss:Type="String">An old M4A1 automatic aussault rifle.</Data></Cell>
+    <Cell><Data ss:Type="String">An old M4A1 automatic aussault rifle.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M4V5</Data></Cell>
+    <Cell><Data ss:Type="String">M4V5</Data></Cell>
+    <Cell><Data ss:Type="String">M4V5</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">M4V5Description</Data></Cell>
+    <Cell><Data ss:Type="String">A semi automatic 5.56 rifle.</Data></Cell>
+    <Cell><Data ss:Type="String">A semi automatic 5.56 rifle.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M97</Data></Cell>
     <Cell><Data ss:Type="String">M97</Data></Cell>
     <Cell><Data ss:Type="String">M97</Data></Cell>
@@ -6814,6 +7004,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">M9A1Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto M9 pistol. Fires 9mm rounds.</Data></Cell>
     <Cell><Data ss:Type="String">Uma pistola semi-automática M9. Dispara 9mm rodadas.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MAK10</Data></Cell>
+    <Cell><Data ss:Type="String">MAK10</Data></Cell>
+    <Cell><Data ss:Type="String">MAK10</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MAK10Description</Data></Cell>
+    <Cell><Data ss:Type="String">A MAK10 sub machine gun.</Data></Cell>
+    <Cell><Data ss:Type="String">A MAK10 sub machine gun.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MP5</Data></Cell>
@@ -7486,6 +7686,16 @@
     <Cell><Data ss:Type="String">Mushroom Stew</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MushroomStewRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Mushroom Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Mushroom Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MushroomStewRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncoocked mushroom stew.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncoocked mushroom stew.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">NailKnuckles</Data></Cell>
     <Cell><Data ss:Type="String">Nail Knuckles</Data></Cell>
     <Cell><Data ss:Type="String">Knuckles de unhas</Data></Cell>
@@ -7616,6 +7826,16 @@
     <Cell><Data ss:Type="String">Porca espalhada rica com óleos de palma.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">OPKSight</Data></Cell>
+    <Cell><Data ss:Type="String">OPK sight</Data></Cell>
+    <Cell><Data ss:Type="String">OPK sight</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">OPKSightDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A reflex sight from russia.</Data></Cell>
+    <Cell><Data ss:Type="String">A reflex sight from russia.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Oil</Data></Cell>
     <Cell><Data ss:Type="String">Oil</Data></Cell>
     <Cell><Data ss:Type="String">Óleo</Data></Cell>
@@ -7664,6 +7884,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">PBJSandwichDescription</Data></Cell>
     <Cell><Data ss:Type="String">PBJ Sandwich</Data></Cell>
     <Cell><Data ss:Type="String">PBJ Sandwich</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PSOScope</Data></Cell>
+    <Cell><Data ss:Type="String">PSO scope</Data></Cell>
+    <Cell><Data ss:Type="String">PSO scope</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PSOScopeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old scope that fits a VSS.</Data></Cell>
+    <Cell><Data ss:Type="String">An old scope that fits a VSS.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PX4</Data></Cell>
@@ -9051,6 +9281,16 @@
     <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">R3Sight</Data></Cell>
+    <Cell><Data ss:Type="String">R3 sight</Data></Cell>
+    <Cell><Data ss:Type="String">R3 sight</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">R3SightDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small reflex sight with backlit lenses.</Data></Cell>
+    <Cell><Data ss:Type="String">A small reflex sight with backlit lenses.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">R90</Data></Cell>
     <Cell><Data ss:Type="String">R90</Data></Cell>
     <Cell><Data ss:Type="String">R90</Data></Cell>
@@ -9081,6 +9321,16 @@
     <Cell><Data ss:Type="String">Usado para reparar o ACAW</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_AK5D</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (AK5d)</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (AK5d)</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_AK5DDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the AK5d.</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the AK5d.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_AK74U</Data></Cell>
     <Cell><Data ss:Type="String">Repair Kit (AK74U)</Data></Cell>
     <Cell><Data ss:Type="String">Kit de reparo (AK74U)</Data></Cell>
@@ -9099,6 +9349,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">RK_AKMDescription</Data></Cell>
     <Cell><Data ss:Type="String">Used to repair the Assault Rifle</Data></Cell>
     <Cell><Data ss:Type="String">Usado para reparar o rifle de assalto</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_AKVal</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (AKVal)</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (AKVal)</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_AKValDescription</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the AKVal.</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the AKVal.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_AP85</Data></Cell>
@@ -9301,6 +9561,16 @@
     <Cell><Data ss:Type="String">Usado para reparar o rifle Bolt-Action</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_M97</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (M97)</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (M97)</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_M97Description</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the M97.</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the M97.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_M9A1</Data></Cell>
     <Cell><Data ss:Type="String">Repair Kit (M9A1)</Data></Cell>
     <Cell><Data ss:Type="String">Kit de reparo (M9A1)</Data></Cell>
@@ -9309,6 +9579,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">RK_M9A1Description</Data></Cell>
     <Cell><Data ss:Type="String">Used to repair the M9A1</Data></Cell>
     <Cell><Data ss:Type="String">Usado para reparar o M9A1</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_MAK10</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (MAK10)</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (MAK10)</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_MAK10Description</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the MAK10.</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the MAK10.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_MP5</Data></Cell>
@@ -9441,6 +9721,16 @@
     <Cell><Data ss:Type="String">Usado para reparar a espingarda AT-12 e serrilhada.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_SAS12</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (SAS12)</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Kit (SAS12)</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_SAS12Description</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the SAS12.</Data></Cell>
+    <Cell><Data ss:Type="String">Repair kit for the SAS12.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_Sako_85</Data></Cell>
     <Cell><Data ss:Type="String">Repair Kit (Hunting Rifle)</Data></Cell>
     <Cell><Data ss:Type="String">Kit de Reparação (Rifle de Caça)</Data></Cell>
@@ -9459,6 +9749,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">RK_Shotgun870TacticalDescription</Data></Cell>
     <Cell><Data ss:Type="String">Used to repair the 870 Tactical Shotgun</Data></Cell>
     <Cell><Data ss:Type="String">Usado para reparar a espingarda 870 tática</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_Sledgehammer</Data></Cell>
+    <Cell><Data ss:Type="String">Sledgehammer Repair Kit</Data></Cell>
+    <Cell><Data ss:Type="String">Sledgehammer Repair Kit</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_SledgehammerDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A repair kit suitable to repair a sledgehammer.</Data></Cell>
+    <Cell><Data ss:Type="String">A repair kit suitable to repair a sledgehammer.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_Teflon</Data></Cell>
@@ -9491,6 +9791,16 @@
     <Cell><Data ss:Type="String">Usado para reparar o rifle Wasteland .22</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_generic_small</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Repair Kit</Data></Cell>
+    <Cell><Data ss:Type="String">Crafted Repair Kit</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_generic_smallDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A small hand crafted repair kit that can repair most common weapons for a small ammount.</Data></Cell>
+    <Cell><Data ss:Type="String">A small hand crafted repair kit that can repair most common weapons for a small ammount.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_hk45</Data></Cell>
     <Cell><Data ss:Type="String">Repair Kit (HK45)</Data></Cell>
     <Cell><Data ss:Type="String">Kit de reparo (HK45)</Data></Cell>
@@ -9519,6 +9829,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">RK_ruger22Description</Data></Cell>
     <Cell><Data ss:Type="String">Used to repair the MKIII .22 pistol</Data></Cell>
     <Cell><Data ss:Type="String">Usado para reparar a pistola MKIII .22</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RPK</Data></Cell>
+    <Cell><Data ss:Type="String">The Comrade</Data></Cell>
+    <Cell><Data ss:Type="String">The Comrade</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RPKDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old worn out russian rifle.</Data></Cell>
+    <Cell><Data ss:Type="String">An old worn out russian rifle.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Radishes</Data></Cell>
@@ -9814,6 +10134,56 @@
     <Cell ss:Index="2"><Data ss:Type="String">RavioliCanDescription</Data></Cell>
     <Cell><Data ss:Type="String">An old can of ready to eat Ravioli.</Data></Cell>
     <Cell><Data ss:Type="String">Uma lata velha de pronto para comer Ravioli.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedBearSteaks</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Bear Steak</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Bear Steak</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedBearSteaksDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked seasoned bear steak.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked seasoned bear steak.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedChicken</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Chicken Roast</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Chicken Roast</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedChickenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked chicken roast.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked chicken roast.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedDeerSteaks</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Deer Roast</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Deer Roast</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedDeerSteaksDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked deer roast.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked deer roast.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedHamSteaks</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Ham Roast</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Ham Roast</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedHamSteaksDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked ham roast.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked ham roast.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedWolfSteaks</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Wolf Roast</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Wolf Roast</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RawSeasonedWolfSteaksDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked wolf roast.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked wolf roast.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RecurveBow</Data></Cell>
@@ -10401,6 +10771,16 @@
     <Cell><Data ss:Type="String">Smelt In Furnace</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScriptDice</Data></Cell>
+    <Cell><Data ss:Type="String">Dice</Data></Cell>
+    <Cell><Data ss:Type="String">Dice</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ScriptDiceDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 6 faces dice.</Data></Cell>
+    <Cell><Data ss:Type="String">A 6 faces dice.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeasonedChicken</Data></Cell>
     <Cell><Data ss:Type="String">Seasoned Chicken</Data></Cell>
     <Cell><Data ss:Type="String">Seasoned Chicken</Data></Cell>
@@ -10441,6 +10821,16 @@
     <Cell><Data ss:Type="String">Seasoned Wolf Steaks</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedbearSteaks</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Bear Steak</Data></Cell>
+    <Cell><Data ss:Type="String">Seasoned Bear Steak</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeasonedbearSteaksDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A seasoned bear steak.</Data></Cell>
+    <Cell><Data ss:Type="String">A seasoned bear steak.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Seaweed</Data></Cell>
     <Cell><Data ss:Type="String">Seaweed</Data></Cell>
     <Cell><Data ss:Type="String">Algas marinhas</Data></Cell>
@@ -10449,6 +10839,26 @@
     <Cell ss:Index="2"><Data ss:Type="String">SeaweedDescription</Data></Cell>
     <Cell><Data ss:Type="String">A small pile of edible seaweed</Data></Cell>
     <Cell><Data ss:Type="String">Uma pequena pilha de algas comestíveis</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeaweedSoup</Data></Cell>
+    <Cell><Data ss:Type="String">Seaweed Soup</Data></Cell>
+    <Cell><Data ss:Type="String">Seaweed Soup</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeaweedSoupDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A delicious fresh seaweed soup.</Data></Cell>
+    <Cell><Data ss:Type="String">A delicious fresh seaweed soup.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeaweedSoupRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Seaweed Soup</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Seaweed Soup</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">SeaweedSoupRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked seaweed soup.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked seaweed soup.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeedsBeets</Data></Cell>
@@ -13501,6 +13911,16 @@
     <Cell><Data ss:Type="String">A crate from a crashed UFO</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">VSS</Data></Cell>
+    <Cell><Data ss:Type="String">VSS</Data></Cell>
+    <Cell><Data ss:Type="String">VSS</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">VSSDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old VSS sniper rifle.</Data></Cell>
+    <Cell><Data ss:Type="String">An old VSS sniper rifle.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">VeggieStew</Data></Cell>
     <Cell><Data ss:Type="String">Veggie Stew</Data></Cell>
     <Cell><Data ss:Type="String">Veggie Stew</Data></Cell>
@@ -13509,6 +13929,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">VeggieStewDescription</Data></Cell>
     <Cell><Data ss:Type="String">Veggie Stew</Data></Cell>
     <Cell><Data ss:Type="String">Veggie Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">VeggieStewRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Vegetable Soup</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Vegetable Soup</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">VeggieStewRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked vegetable soup.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked vegetable soup.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WandererPantsBlack</Data></Cell>
@@ -13829,6 +14259,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">WolfStewDescription</Data></Cell>
     <Cell><Data ss:Type="String">Wolf Stew</Data></Cell>
     <Cell><Data ss:Type="String">Wolf Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WolfStewRaw</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Wolf Stew</Data></Cell>
+    <Cell><Data ss:Type="String">Uncooked Wolf Stew</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">WolfStewRawDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked wolf stew.</Data></Cell>
+    <Cell><Data ss:Type="String">A uncooked wolf stew.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WoodPaddle</Data></Cell>
@@ -14344,6 +14784,36 @@
     <Cell ss:Index="2"><Data ss:Type="String">dws_grill2Description</Data></Cell>
     <Cell><Data ss:Type="String">A barbeque grill that can be used to cook on. Can be placed in a base.</Data></Cell>
     <Cell><Data ss:Type="String">Uma churrasqueira que pode ser usada para cozinhar. Pode ser colocado em uma base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ext_556x75</Data></Cell>
+    <Cell><Data ss:Type="String">5.56 C-mag</Data></Cell>
+    <Cell><Data ss:Type="String">5.56 C-mag</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ext_556x75Description</Data></Cell>
+    <Cell><Data ss:Type="String">A 5.56 C-mag.</Data></Cell>
+    <Cell><Data ss:Type="String">A 5.56 C-mag.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ext_762x30</Data></Cell>
+    <Cell><Data ss:Type="String">Extended 7.62</Data></Cell>
+    <Cell><Data ss:Type="String">Extended 7.62</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ext_762x30Description</Data></Cell>
+    <Cell><Data ss:Type="String">An extended 30 rounds 7.62 mag.</Data></Cell>
+    <Cell><Data ss:Type="String">An extended 30 rounds 7.62 mag.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ext_762x75</Data></Cell>
+    <Cell><Data ss:Type="String">7.62 Drum</Data></Cell>
+    <Cell><Data ss:Type="String">7.62 Drum</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ext_762x75Description</Data></Cell>
+    <Cell><Data ss:Type="String">A 75 rounds 7.62 drum magazine.</Data></Cell>
+    <Cell><Data ss:Type="String">A 75 rounds 7.62 drum magazine.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeria</Data></Cell>
@@ -15436,6 +15906,36 @@
     <Cell><Data ss:Type="String">Um gnomo de jardim colecionável.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_cooking_1</Data></Cell>
+    <Cell><Data ss:Type="String">Cooking book 1</Data></Cell>
+    <Cell><Data ss:Type="String">Cooking book 1</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_cooking_1Description</Data></Cell>
+    <Cell><Data ss:Type="String">A cooking book to lean tasty recipes.</Data></Cell>
+    <Cell><Data ss:Type="String">A cooking book to lean tasty recipes.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_cooking_2</Data></Cell>
+    <Cell><Data ss:Type="String">Cooking book 2</Data></Cell>
+    <Cell><Data ss:Type="String">Cooking book 2</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_cooking_2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A cooking book to lean tasty recipes.</Data></Cell>
+    <Cell><Data ss:Type="String">A cooking book to lean tasty recipes.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_cooking_3</Data></Cell>
+    <Cell><Data ss:Type="String">Cooking book 3</Data></Cell>
+    <Cell><Data ss:Type="String">Cooking book 3</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_cooking_3Description</Data></Cell>
+    <Cell><Data ss:Type="String">A cooking book to lean tasty recipes.</Data></Cell>
+    <Cell><Data ss:Type="String">A cooking book to lean tasty recipes.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">guide_explosives_1</Data></Cell>
     <Cell><Data ss:Type="String">Explosives 1</Data></Cell>
     <Cell><Data ss:Type="String">Explosives 1</Data></Cell>
@@ -15594,6 +16094,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">guide_structures_wood_storageDescription</Data></Cell>
     <Cell><Data ss:Type="String">A storage guide used for crafting</Data></Cell>
     <Cell><Data ss:Type="String">Um guia de armazenamento usado para criar</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_structures_wood_storage_2</Data></Cell>
+    <Cell><Data ss:Type="String">Guide Storage 2</Data></Cell>
+    <Cell><Data ss:Type="String">Guide Storage 2</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">guide_structures_wood_storage_2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A guide that unlock a crafting recipe.</Data></Cell>
+    <Cell><Data ss:Type="String">A guide that unlock a crafting recipe.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">guide_structures_wood_traps_1</Data></Cell>
@@ -16056,6 +16566,276 @@
     <Cell><Data ss:Type="String">Chapada de 3m de altura x 4m de parede comprida com abertura de janela</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ninemens_board</Data></Cell>
+    <Cell><Data ss:Type="String">Nine Men's Morris Board</Data></Cell>
+    <Cell><Data ss:Type="String">Nine Men's Morris Board</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ninemens_boardDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden board to play Nine Men's Morris.</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden board to play Nine Men's Morris.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">o_piece</Data></Cell>
+    <Cell><Data ss:Type="String">O piece</Data></Cell>
+    <Cell><Data ss:Type="String">O piece</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">o_pieceDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A O shaped piece to play Tic Tac Toe.</Data></Cell>
+    <Cell><Data ss:Type="String">A O shaped piece to play Tic Tac Toe.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_01</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 01</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 01</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_01Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_02</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 02</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_03</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 03</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 03</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_03Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_04</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 04</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 04</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_04Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_05</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 05</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 05</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_05Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_06</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 06</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 06</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_06Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_07</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 07</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 07</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_07Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_08</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 08</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 08</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_08Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_09</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 09</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 09</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_09Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_10</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 10</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Landscape 10</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_landscape_10Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_map</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Map</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Map</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_mapDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_map_canyonlands</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Map Canyonlands</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Map Canyonlands</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_map_canyonlandsDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_square_01</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Square 01</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Square 01</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_square_01Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_square_02</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Square 02</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Square 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_square_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_01</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 01</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 01</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_01Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_02</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 02</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_03</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 03</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 03</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_03Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_04</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 04</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 04</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_04Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_05</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 05</Data></Cell>
+    <Cell><Data ss:Type="String">Painting Vertical 05</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">painting_vertical_landscape_05Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large painting you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_blue</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Game Piece</Data></Cell>
+    <Cell><Data ss:Type="String">Blue Game Piece</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_blueDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A blue game piece to play board game.</Data></Cell>
+    <Cell><Data ss:Type="String">A blue game piece to play board game.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_green</Data></Cell>
+    <Cell><Data ss:Type="String">Green Game Piece</Data></Cell>
+    <Cell><Data ss:Type="String">Green Game Piece</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_greenDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A green game piece to play board game.</Data></Cell>
+    <Cell><Data ss:Type="String">A green game piece to play board game.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_orange</Data></Cell>
+    <Cell><Data ss:Type="String">Orange Game Piece</Data></Cell>
+    <Cell><Data ss:Type="String">Orange Game Piece</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_orangeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A orange game piece to play board game.</Data></Cell>
+    <Cell><Data ss:Type="String">A orange game piece to play board game.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_purple</Data></Cell>
+    <Cell><Data ss:Type="String">Purple Game Piece</Data></Cell>
+    <Cell><Data ss:Type="String">Purple Game Piece</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_purpleDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A purple game piece to play board game.</Data></Cell>
+    <Cell><Data ss:Type="String">A purple game piece to play board game.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_red</Data></Cell>
+    <Cell><Data ss:Type="String">Red Game Piece</Data></Cell>
+    <Cell><Data ss:Type="String">Red Game Piece</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_redDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A red game piece to play board game.</Data></Cell>
+    <Cell><Data ss:Type="String">A red game piece to play board game.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_yellow</Data></Cell>
+    <Cell><Data ss:Type="String">Yellow Game Piece</Data></Cell>
+    <Cell><Data ss:Type="String">Yellow Game Piece</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">piece_yellowDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A yellow game piece to play board game.</Data></Cell>
+    <Cell><Data ss:Type="String">A yellow game piece to play board game.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">planter_box</Data></Cell>
     <Cell><Data ss:Type="String">Planter Box</Data></Cell>
     <Cell><Data ss:Type="String">Caixa do plantador</Data></Cell>
@@ -16214,6 +16994,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">plated_door_1m_2mDescription</Data></Cell>
     <Cell><Data ss:Type="String">An approximately 1m wide x 2m high openable Plated door</Data></Cell>
     <Cell><Data ss:Type="String">Uma porta revestida com abertura aproximada de 1m de largura x 2m de altura</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_door_lockable_02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Lockable Door 02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Lockable Door 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_door_lockable_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A lockable reinforced wood door.</Data></Cell>
+    <Cell><Data ss:Type="String">A lockable reinforced wood door.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_door_lockable_1m_2m</Data></Cell>
@@ -16566,6 +17356,16 @@
     <Cell><Data ss:Type="String">Base part</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_lockable_02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Shutter 02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Shutter 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_lockable_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A platted window shutter.</Data></Cell>
+    <Cell><Data ss:Type="String">A platted window shutter.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_small_lockable</Data></Cell>
     <Cell><Data ss:Type="String">Small lockable shutters</Data></Cell>
     <Cell><Data ss:Type="String">Small lockable shutters</Data></Cell>
@@ -16574,6 +17374,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">plated_shutter_small_lockableDescription</Data></Cell>
     <Cell><Data ss:Type="String">A small plated lockable shutters.</Data></Cell>
     <Cell><Data ss:Type="String">A small plated lockable shutters.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_stairs_3m_4m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Stairs 3m 4m 4m 02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated Stairs 3m 4m 4m 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_stairs_3m_4m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A metal reinforced platform with stairs.</Data></Cell>
+    <Cell><Data ss:Type="String">A metal reinforced platform with stairs.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_trapdoor_lockable_1m_2m</Data></Cell>
@@ -16706,6 +17516,16 @@
     <Cell><Data ss:Type="String">Plataforma 3m de altura x 4m de largura x 4m de comprimento</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_walkway_3m_4m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 3x4x4 Platform 02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 3x4x4 Platform 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_walkway_3m_4m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">@plated_walkway_3m_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">@plated_walkway_3m_4m_4mDescription</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_walkway_curve_1_3m_4m_4m</Data></Cell>
     <Cell><Data ss:Type="String">1.3x4x4 Curve Platform</Data></Cell>
     <Cell><Data ss:Type="String">Plataforma de Curva 1.3x4x4</Data></Cell>
@@ -16826,6 +17646,16 @@
     <Cell><Data ss:Type="String">Banhado 3m de altura x 4m de parede longa</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_3m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 3x4 Wall 02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 3x4 Wall 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_3m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A metal reinforced wood wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A metal reinforced wood wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_wall_curve_1_3m_4m</Data></Cell>
     <Cell><Data ss:Type="String">1.3x4 Curve Wall</Data></Cell>
     <Cell><Data ss:Type="String">Parede Curva 1.3x4</Data></Cell>
@@ -16864,6 +17694,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">plated_wall_door_3m_4mDescription</Data></Cell>
     <Cell><Data ss:Type="String">Plated 3m high x 4m long wall with door opening</Data></Cell>
     <Cell><Data ss:Type="String">Parede longa chapeada 3m x 4m com abertura da porta</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_door_3m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 3x4 Wall Door 02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 3x4 Wall Door 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_door_3m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A metal reinforced wood wall with a door.</Data></Cell>
+    <Cell><Data ss:Type="String">A metal reinforced wood wall with a door.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_wall_door_curve_3m_4m</Data></Cell>
@@ -16936,6 +17776,16 @@
     <Cell><Data ss:Type="String">Chapada de 3m de altura x 4m de parede comprida com abertura de janela</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_window_3m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 3x4 Wall Window 02</Data></Cell>
+    <Cell><Data ss:Type="String">Plated 3x4 Wall Window 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">plated_wall_window_3m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A metal reinforced wood wall with a window.</Data></Cell>
+    <Cell><Data ss:Type="String">A metal reinforced wood wall with a window.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">plated_wall_window_curve_3m_4m</Data></Cell>
     <Cell><Data ss:Type="String">3x4 Curve Wall Window</Data></Cell>
     <Cell><Data ss:Type="String">Janela da parede da curva 3x4</Data></Cell>
@@ -16984,6 +17834,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">plated_watchtower_tire_bigDescription</Data></Cell>
     <Cell><Data ss:Type="String">A big, plated watchtower with tire added to it.</Data></Cell>
     <Cell><Data ss:Type="String">A big, plated watchtower with tire added to it.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">poster_vertical_01</Data></Cell>
+    <Cell><Data ss:Type="String">Poster Vertical 01</Data></Cell>
+    <Cell><Data ss:Type="String">Poster Vertical 01</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">poster_vertical_01Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large poster you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A large poster you can hang on your wall.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">power_pole</Data></Cell>
@@ -17376,6 +18236,16 @@
     <Cell><Data ss:Type="String">Camo Net 2m altura x 4m parede abrigo longo</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">snl_board</Data></Cell>
+    <Cell><Data ss:Type="String">Climb N' Slide Game</Data></Cell>
+    <Cell><Data ss:Type="String">Climb N' Slide Game</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">snl_boardDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old board of Climb N' Slide.</Data></Cell>
+    <Cell><Data ss:Type="String">An old board of Climb N' Slide.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">snowman</Data></Cell>
     <Cell><Data ss:Type="String">Snowman</Data></Cell>
     <Cell><Data ss:Type="String">Snowman</Data></Cell>
@@ -17486,6 +18356,16 @@
     <Cell><Data ss:Type="String">A furnace that can be placed in a base - requires wood to be lit</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">tictactoe_board</Data></Cell>
+    <Cell><Data ss:Type="String">TicTacToe Board</Data></Cell>
+    <Cell><Data ss:Type="String">TicTacToe Board</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">tictactoe_boardDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden board to play Tic Tac Toe.</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden board to play Tic Tac Toe.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">tiki_torch</Data></Cell>
     <Cell><Data ss:Type="String">Tiki Torch</Data></Cell>
     <Cell><Data ss:Type="String">Tocha Tiki</Data></Cell>
@@ -17556,6 +18436,66 @@
     <Cell><Data ss:Type="String">Um pneu</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">token_black</Data></Cell>
+    <Cell><Data ss:Type="String">Token Black</Data></Cell>
+    <Cell><Data ss:Type="String">Token Black</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">token_blackDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A black token to play Nine Men's Morris.</Data></Cell>
+    <Cell><Data ss:Type="String">A black token to play Nine Men's Morris.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">token_white</Data></Cell>
+    <Cell><Data ss:Type="String">Token White</Data></Cell>
+    <Cell><Data ss:Type="String">Token White</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">token_whiteDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A white token to play Nine Men's Morris.</Data></Cell>
+    <Cell><Data ss:Type="String">A white token to play Nine Men's Morris.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">trophy_deer_female</Data></Cell>
+    <Cell><Data ss:Type="String">Female Deer Trophy</Data></Cell>
+    <Cell><Data ss:Type="String">Female Deer Trophy</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">trophy_deer_femaleDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A hunting trophy to display on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A hunting trophy to display on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">trophy_deer_male</Data></Cell>
+    <Cell><Data ss:Type="String">Male Deer Trophy</Data></Cell>
+    <Cell><Data ss:Type="String">Male Deer Trophy</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">trophy_deer_maleDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A hunting trophy to display on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A hunting trophy to display on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">trophy_wolf</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Trophy</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Trophy</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">trophy_wolfDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A hunting trophy to display on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A hunting trophy to display on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wall_lantern</Data></Cell>
+    <Cell><Data ss:Type="String">Wall Lantern</Data></Cell>
+    <Cell><Data ss:Type="String">Wall Lantern</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wall_lanternDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A camping lantern that you can hang on your wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A camping lantern that you can hang on your wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">water_barrel</Data></Cell>
     <Cell><Data ss:Type="String">Water Barrel</Data></Cell>
     <Cell><Data ss:Type="String">Barril de água</Data></Cell>
@@ -17594,6 +18534,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_bedDescription</Data></Cell>
     <Cell><Data ss:Type="String">A bed to be placed in a base</Data></Cell>
     <Cell><Data ss:Type="String">Uma cama para ser colocada em uma base</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_bench</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Bench</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Bench</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_benchDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A wood bench.</Data></Cell>
+    <Cell><Data ss:Type="String">A wood bench.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_bridge_3m_12m</Data></Cell>
@@ -17814,6 +18764,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_door_frameDescription</Data></Cell>
     <Cell><Data ss:Type="String">A wood door frame used in crafting</Data></Cell>
     <Cell><Data ss:Type="String">Um quadro de porta de madeira usado na elaboração</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_door_lockable_02</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wooden Door 02</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wooden Door 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_door_lockable_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden door with a lock on it.</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden door with a lock on it.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_door_lockable_1m_2m</Data></Cell>
@@ -18216,6 +19176,46 @@
     <Cell><Data ss:Type="String">Telhado de 3m de largura x 4m de comprimento com abertura de alçapão</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shelf_1m</Data></Cell>
+    <Cell><Data ss:Type="String">Wood shelf 1m</Data></Cell>
+    <Cell><Data ss:Type="String">Wood shelf 1m</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shelf_1mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 1 meter long wood shelf.</Data></Cell>
+    <Cell><Data ss:Type="String">A 1 meter long wood shelf.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shelf_2m</Data></Cell>
+    <Cell><Data ss:Type="String">Wood shelf 2m</Data></Cell>
+    <Cell><Data ss:Type="String">Wood shelf 2m</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shelf_2mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 2 meters long wood shelf.</Data></Cell>
+    <Cell><Data ss:Type="String">A 2 meters long wood shelf.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shelf_3m</Data></Cell>
+    <Cell><Data ss:Type="String">Wood shelf 3m</Data></Cell>
+    <Cell><Data ss:Type="String">Wood shelf 3m</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shelf_3mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 meters long wood shelf.</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 meters long wood shelf.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shelf_modern</Data></Cell>
+    <Cell><Data ss:Type="String">Wood shelf modern</Data></Cell>
+    <Cell><Data ss:Type="String">Wood shelf modern</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shelf_modernDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A modern looking wood shelf.</Data></Cell>
+    <Cell><Data ss:Type="String">A modern looking wood shelf.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_1_6m_0_9m</Data></Cell>
     <Cell><Data ss:Type="String">Shutter 1.6m 0.9m</Data></Cell>
     <Cell><Data ss:Type="String">Shuter 1. ruído 0.am</Data></Cell>
@@ -18224,6 +19224,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_1_6m_0_9mDescription</Data></Cell>
     <Cell><Data ss:Type="String"> Base part</Data></Cell>
     <Cell><Data ss:Type="String">Base part</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_lockable_02</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wood Shutter 02</Data></Cell>
+    <Cell><Data ss:Type="String">Lockable Wood Shutter 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_lockable_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A loackable wood window shutter.</Data></Cell>
+    <Cell><Data ss:Type="String">A loackable wood window shutter.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_shutter_small_lockable</Data></Cell>
@@ -18356,6 +19366,16 @@
     <Cell><Data ss:Type="String">Madeira 2 a 3m de altura x 3m de largura x 3m de comprimento escadas</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_stairs_3m_4m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Stairs 3m 4m 4m </Data></Cell>
+    <Cell><Data ss:Type="String">Wood Stairs 3m 4m 4m </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_stairs_3m_4m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden platform with stairs.</Data></Cell>
+    <Cell><Data ss:Type="String">A wooden platform with stairs.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_stairs_panel</Data></Cell>
     <Cell><Data ss:Type="String">Wood Stairs Panel</Data></Cell>
     <Cell><Data ss:Type="String">Painel de escadas de madeira</Data></Cell>
@@ -18366,6 +19386,16 @@
     <Cell><Data ss:Type="String">Um painel de escadas de madeira usado na elaboração</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_stool</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Stool</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Stool</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_stoolDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A wood stool.</Data></Cell>
+    <Cell><Data ss:Type="String">A wood stool.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_table</Data></Cell>
     <Cell><Data ss:Type="String">Wood Table</Data></Cell>
     <Cell><Data ss:Type="String">Mesa de madeira</Data></Cell>
@@ -18374,6 +19404,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_tableDescription</Data></Cell>
     <Cell><Data ss:Type="String">A wooden table for a base</Data></Cell>
     <Cell><Data ss:Type="String">Uma mesa de madeira para uma base</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_table_02</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Table 02</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Table 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_table_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A wood table.</Data></Cell>
+    <Cell><Data ss:Type="String">A wood table.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_target</Data></Cell>
@@ -18526,6 +19566,16 @@
     <Cell><Data ss:Type="String">Madeira 3m altura x 4m largura x 4m plataforma longa</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_walkway_3m_4m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">3x4x4 Platform 02</Data></Cell>
+    <Cell><Data ss:Type="String">3x4x4 Platform 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_walkway_3m_4m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 meter high wooden platform held by beams. Perfect for roofs.</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 meter high wooden platform held by beams. Perfect for roofs.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_walkway_curve_1_3m_4m_4m</Data></Cell>
     <Cell><Data ss:Type="String">1.3x4x4 Curve Platform</Data></Cell>
     <Cell><Data ss:Type="String">Plataforma de Curva 1.3x4x4</Data></Cell>
@@ -18646,6 +19696,16 @@
     <Cell><Data ss:Type="String">Madeira 3m altura x 4m parede longa</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_3m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall 02</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_3m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 meters high by 4 meters long wood wall.</Data></Cell>
+    <Cell><Data ss:Type="String">A 3 meters high by 4 meters long wood wall.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_curve_1_3m_4m</Data></Cell>
     <Cell><Data ss:Type="String">1.3x4 Curve Wall</Data></Cell>
     <Cell><Data ss:Type="String">Parede Curva 1.3x4</Data></Cell>
@@ -18694,6 +19754,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_door_3m_4mDescription</Data></Cell>
     <Cell><Data ss:Type="String">Wood 3m high x 4m long wall with door opening</Data></Cell>
     <Cell><Data ss:Type="String">Madeira 3m altura x 4m parede comprida com abertura da porta</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_door_3m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall Door 02</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall Door 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_door_3m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A wood wall with an opening for a door.</Data></Cell>
+    <Cell><Data ss:Type="String">A wood wall with an opening for a door.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_door_curve_3m_4m</Data></Cell>
@@ -18776,6 +19846,16 @@
     <Cell><Data ss:Type="String">Madeira 3m altura x 4m parede comprida com abertura da janela</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_window_3m_4m_02</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall Window 02</Data></Cell>
+    <Cell><Data ss:Type="String">3x4 Wall Window 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_wall_window_3m_4m_02Description</Data></Cell>
+    <Cell><Data ss:Type="String">A large wood wall with a window</Data></Cell>
+    <Cell><Data ss:Type="String">A large wood wall with a window</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_window_curve_3m_4m</Data></Cell>
     <Cell><Data ss:Type="String">3x4 Curve Wall Window</Data></Cell>
     <Cell><Data ss:Type="String">Janela da parede da curva 3x4</Data></Cell>
@@ -18844,6 +19924,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">workbenchDescription</Data></Cell>
     <Cell><Data ss:Type="String">A workbench used to craft various items</Data></Cell>
     <Cell><Data ss:Type="String">A workbench used to craft various items</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">x_piece</Data></Cell>
+    <Cell><Data ss:Type="String">X piece</Data></Cell>
+    <Cell><Data ss:Type="String">X piece</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">x_pieceDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A cross shaped piece to play Tic Tac Toe.</Data></Cell>
+    <Cell><Data ss:Type="String">A cross shaped piece to play Tic Tac Toe.</Data></Cell>
 </Row>
         </Table>
         <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
