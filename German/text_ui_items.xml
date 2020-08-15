@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3968" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3970" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -9679,6 +9679,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">RK_PX4Description</Data></Cell>
     <Cell><Data ss:Type="String">Used to repair the PX4 pistol</Data></Cell>
     <Cell><Data ss:Type="String">Wird zur Reparatur der PX4-Pistole verwendet</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_Peacemaker</Data></Cell>
+    <Cell><Data ss:Type="String">Peacemaker Repair Kit</Data></Cell>
+    <Cell><Data ss:Type="String">Peacemaker Repair Kit</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_PeacemakerDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A repair kit for the Peacemaker.</Data></Cell>
+    <Cell><Data ss:Type="String">A repair kit for the Peacemaker.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_R90</Data></Cell>

@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="4022" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="4026" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -9791,6 +9791,16 @@
     <Cell><Data ss:Type="String">Used to repair the PX4 pistol</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_Peacemaker</Data></Cell>
+    <Cell><Data ss:Type="String">Peacemaker Repair Kit</Data></Cell>
+    <Cell><Data ss:Type="String">Peacemaker Repair Kit</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_PeacemakerDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A repair kit for the Peacemaker.</Data></Cell>
+    <Cell><Data ss:Type="String">A repair kit for the Peacemaker.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_R90</Data></Cell>
     <Cell><Data ss:Type="String">Repair Kit (R90)</Data></Cell>
     <Cell><Data ss:Type="String">Repair Kit (R90)</Data></Cell>
@@ -18974,6 +18984,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_column_torch_4mDescription</Data></Cell>
     <Cell><Data ss:Type="String">Wood Torch 4m High Column</Data></Cell>
     <Cell><Data ss:Type="String">Wood Torch 4m High Column</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_crate</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Storage Crate</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Storage Crate</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_crateDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A locked wooden crate used for storage</Data></Cell>
+    <Cell><Data ss:Type="String">A locked wooden crate used for storage</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_crate_large</Data></Cell>
