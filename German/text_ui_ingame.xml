@@ -538,7 +538,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">torpidityp</Data></Cell>
     <Cell><Data ss:Type="String">Torpidity Effect</Data></Cell>
-    <Cell><Data ss:Type="String">Trägheitseffekt/Data></Cell>
+    <Cell><Data ss:Type="String">Trägheitseffekt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">staminap</Data></Cell>
@@ -658,7 +658,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_event</Data></Cell>
     <Cell><Data ss:Type="String">Environment</Data></Cell>
-    <Cell><Data ss:Type="String">Umgebung/Data></Cell>
+    <Cell><Data ss:Type="String">Umgebung</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ht_impulse_hit</Data></Cell>
