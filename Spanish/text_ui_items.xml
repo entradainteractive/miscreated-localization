@@ -91,7 +91,7 @@
         </Style>
     </Styles>
     <Worksheet ss:Name="Sheet1">
-        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3970" x:FullColumns="1"
+        <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3992" x:FullColumns="1"
                x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
             <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
             <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
@@ -9761,6 +9761,16 @@
     <Cell><Data ss:Type="String">Se utiliza para reparar la escopeta táctica 870</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_Silencers</Data></Cell>
+    <Cell><Data ss:Type="String">Silencers Repair Kit</Data></Cell>
+    <Cell><Data ss:Type="String">Silencers Repair Kit</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">RK_SilencersDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A repair kit for manufactured silencers</Data></Cell>
+    <Cell><Data ss:Type="String">A repair kit for manufactured silencers</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_Sledgehammer</Data></Cell>
     <Cell><Data ss:Type="String">Sledgehammer Repair Kit</Data></Cell>
     <Cell><Data ss:Type="String">Sledgehammer Repair Kit</Data></Cell>
@@ -14666,6 +14676,16 @@
     <Cell><Data ss:Type="String">Llenar bolsa con suciedad</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">coffin_packed</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Coffin</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Coffin</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">coffin_packedDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old wooden coffin, used to store items inside</Data></Cell>
+    <Cell><Data ss:Type="String">An old wooden coffin, used to store items inside</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_bed</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Bed</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Bed</Data></Cell>
@@ -16466,6 +16486,26 @@
     <Cell><Data ss:Type="String">Una casa de entrada de metal de 4 m de alto por 8 m de largo</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">metal_platform_3m_4m_4m</Data></Cell>
+    <Cell><Data ss:Type="String">Metal platform</Data></Cell>
+    <Cell><Data ss:Type="String">Metal platform</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">metal_platform_3m_4m_4mDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A large and strudy metal platform.</Data></Cell>
+    <Cell><Data ss:Type="String">A large and strudy metal platform.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">metal_safe</Data></Cell>
+    <Cell><Data ss:Type="String">Safe</Data></Cell>
+    <Cell><Data ss:Type="String">Safe</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">metal_safeDescription</Data></Cell>
+    <Cell><Data ss:Type="String">A sturdy metal safe.</Data></Cell>
+    <Cell><Data ss:Type="String">A sturdy metal safe.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">metal_shelf</Data></Cell>
     <Cell><Data ss:Type="String">Metal Shelf</Data></Cell>
     <Cell><Data ss:Type="String">Metal Shelf</Data></Cell>
@@ -17956,6 +17996,66 @@
     <Cell><Data ss:Type="String">Un calentador de propano que te ayudará a calentarte.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_1</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 01</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 01</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_1Description</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_2</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 02</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 02</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_2Description</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_3</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 03</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 03</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_3Description</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_4</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 04</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 04</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_4Description</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_5</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 05</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 05</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_5Description</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_6</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 06</Data></Cell>
+    <Cell><Data ss:Type="String">Jack-o lantern 06</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">pumpkin_6Description</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+    <Cell><Data ss:Type="String">A jack-o lantern.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">rock_foundation_2m_2m_4m</Data></Cell>
     <Cell><Data ss:Type="String">2x2x4 Rock Foundation</Data></Cell>
     <Cell><Data ss:Type="String">2x2x4 Rock Foundation</Data></Cell>
@@ -18634,6 +18734,16 @@
     <Cell ss:Index="2"><Data ss:Type="String">wood_coffeetableDescription</Data></Cell>
     <Cell><Data ss:Type="String">A small wooden coffee table for a base.</Data></Cell>
     <Cell><Data ss:Type="String">Una pequeña mesa de centro de madera para una base.</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_coffin</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Coffin</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Coffin</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">wood_coffinDescription</Data></Cell>
+    <Cell><Data ss:Type="String">An old wooden coffin, used to store items inside</Data></Cell>
+    <Cell><Data ss:Type="String">An old wooden coffin, used to store items inside</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_column_1_3m</Data></Cell>
